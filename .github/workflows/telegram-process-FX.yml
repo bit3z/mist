@@ -1,3 +1,4 @@
+# .github/workflows/FX-telegram-processor.yml
 name: FX Telegram Processor
 
 on:
@@ -20,7 +21,7 @@ on:
 jobs:
   process:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 60  # Increased timeout for larger queues
     
     steps:
       - uses: actions/checkout@v4
@@ -46,7 +47,7 @@ jobs:
           echo "🔄 Processing FX message queue (max 100 messages per run)..."
           
           PROCESSED=0
-          MAX_MESSAGES=100
+          MAX_MESSAGES=100  # Changed from 50 to 100
           
           for i in $(seq 1 $MAX_MESSAGES); do
             echo ""
@@ -54,6 +55,7 @@ jobs:
             echo "Message $i of max $MAX_MESSAGES"
             echo "═══════════════════════════════════════════"
             
+            # Get queue count
             COUNT=$(curl -s "$URL/queue-count" | jq -r '.count // 0')
             
             if [ "$COUNT" = "0" ] || [ "$COUNT" = "null" ]; then
@@ -61,11 +63,13 @@ jobs:
               break
             fi
             
-            echo "📊 Queue: $COUNT messages remaining"
+            echo "📊 Queue has $COUNT messages remaining"
             echo "🔄 Processing next message..."
             
+            # Process one message
             RESULT=$(curl -s -X POST "$URL/process-one")
             
+            # Parse result
             STATUS=$(echo "$RESULT" | jq -r '.status // "error"')
             MSG_ID=$(echo "$RESULT" | jq -r '.messageId // "?"')
             ISSUE=$(echo "$RESULT" | jq -r '.issue_number // "?"')
@@ -85,7 +89,7 @@ jobs:
               echo "❌ Error: $ERROR"
             fi
             
-            # Commit every 10 messages
+            # Commit every 10 messages or if it's the last one
             if [ $((PROCESSED % 10)) -eq 0 ] || [ "$COUNT" = "1" ]; then
               if git status --porcelain | grep -q "tg/"; then
                 echo "💾 Committing progress..."
@@ -95,7 +99,9 @@ jobs:
               fi
             fi
             
+            # Small delay to avoid rate limits
             sleep 1
+            
           done
           
           echo ""
