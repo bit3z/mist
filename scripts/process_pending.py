@@ -11,7 +11,7 @@ from github import Github
 BOT_TOKEN = os.environ['BOT_TOKEN']
 GH_TOKEN = os.environ['GH_TOKEN']
 REPO_NAME = os.environ['REPO']
-MESSAGE_ID_INPUT = os.environ.get('MESSAGE_ID', '')  # may be empty or integer string
+MESSAGE_ID_INPUT = os.environ.get('MESSAGE_ID', '').strip()
 
 BASE_DIR = 'tg/files'
 MAX_FILE_SIZE = 20 * 1024 * 1024    # 20 MB
@@ -51,19 +51,17 @@ else:
     processed_ids = []
 
 # ---------- Process each message ----------
-new_pending = []   # messages that remain pending (none after successful processing)
 for msg in pending:
     message_id = msg['message_id']
 
-    # Skip already processed (shouldn't happen if we clean up, but safety)
     if message_id in processed_ids:
         continue
 
-    # Date and issue
+    # Iran time (UTC+3:30) for the daily issue title
     msg_date = datetime.fromtimestamp(msg['date'], tz=TEHRAN_TZ)
     issue_title = msg_date.strftime('%d/%m/%Y')
 
-    # Find or create daily issue
+    # Find or create the daily issue
     issue = None
     for i in repo.get_issues(state='open'):
         if i.title == issue_title:
@@ -80,7 +78,7 @@ for msg in pending:
     if text:
         block += f"{text}\n"
 
-    # Handle file attachment
+    # Handle attached file
     file_type = None
     file_info = None
     if 'photo' in msg:
@@ -138,26 +136,25 @@ for msg in pending:
             direct_link = f'https://api.telegram.org/file/bot{BOT_TOKEN}/{file_path}'
             block += f"[📁 Large {file_type} (>{MAX_FILE_SIZE//1024//1024} MB)]({direct_link})\n"
 
-    # Update issue
+    # Update the daily issue
     if issue:
         new_body = issue.body + "\n\n" + block if issue.body else block
         issue.edit(body=new_body)
     else:
         repo.create_issue(title=issue_title, body=block)
 
-    # Update processed IDs
     processed_ids.append(message_id)
 
-# ---------- Write updated processed IDs ----------
+# ---------- Save updated processed IDs ----------
 with open(PROCESSED_FILE, 'w') as f:
     json.dump(processed_ids, f)
 
-# ---------- Clean up pending file: remove processed messages ----------
+# ---------- Remove processed messages from pending file ----------
 if MESSAGE_ID_INPUT:
-    # Remove only the processed message(s)
+    # Remove only the specific message
     remaining = [m for m in json.load(open(PENDING_FILE)) if m['message_id'] != int(MESSAGE_ID_INPUT)]
 else:
-    remaining = []  # all processed
+    remaining = []  # all have been processed
 with open(PENDING_FILE, 'w') as f:
     json.dump(remaining, f)
 
@@ -188,15 +185,14 @@ if os.path.exists(BASE_DIR):
             if get_total_size(BASE_DIR) <= MAX_TOTAL_SIZE:
                 break
             os.remove(full_path)
-            print(f"Deleted old file: {full_path}")
 
 # ---------- Commit and push ----------
 import subprocess
 subprocess.run(['git', 'config', 'user.name', 'github-actions'], check=True)
 subprocess.run(['git', 'config', 'user.email', 'actions@github.com'], check=True)
 subprocess.run(['git', 'add', BASE_DIR, PROCESSED_FILE, PENDING_FILE], check=True)
-subprocess.run(['git', 'add', '-u', BASE_DIR], check=True)   # deleted files
-subprocess.run(['git', 'commit', '-m', f'Processed messages from pending list'], check=True)
+subprocess.run(['git', 'add', '-u', BASE_DIR], check=True)   # pickup deletions
+subprocess.run(['git', 'commit', '-m', 'Processed messages from pending list'], check=True)
 subprocess.run(['git', 'push'], check=True)
 
 print("Processing complete.")
