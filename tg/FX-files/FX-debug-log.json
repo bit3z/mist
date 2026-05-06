@@ -228,6 +228,17 @@
       "data": {
         "message_id": 393
       }
+    },
+    {
+      "timestamp": "2026-05-06T19:47:01.721Z",
+      "event": "file_uploaded",
+      "data": {
+        "message_id": 393,
+        "file_type": "audio",
+        "file_url": "https://raw.githubusercontent.com/VxL-Re/mist/main/tg/FX-files/FX-downloads/FX-audio/FX_393_Reza-Bahram-Yar-128.mp3",
+        "file_size": 3463651,
+        "category": "audio"
+      }
     }
   ]
 }
