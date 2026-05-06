@@ -1,5 +1,5 @@
-# .github/workflows/telegram-processor.yml
-name: Telegram Message Processor
+# .github/workflows/FX-telegram-processor.yml
+name: FX Telegram Message Processor
 
 on:
   workflow_dispatch:
@@ -9,6 +9,7 @@ on:
         required: true
         type: choice
         options:
+          - init_fx_structure
           - process_new
           - process_message
           - setup_webhook
@@ -39,38 +40,61 @@ jobs:
         with:
           node-version: '20'
       
-      - name: Process Telegram Messages
+      - name: Initialize FX Structure
+        if: github.event.inputs.mode == 'init_fx_structure'
         env:
           CLOUDFLARE_WORKER_URL: ${{ secrets.CLOUDFLARE_WORKER_URL }}
         run: |
-          # Determine the processing mode
+          echo "🚀 Initializing FX bot file structure and progress tracking..."
+          
+          RESPONSE=$(curl -s -X POST "${CLOUDFLARE_WORKER_URL}/init-fx" \
+            -H "Content-Type: application/json")
+          
+          echo "Response: $RESPONSE"
+          echo "$RESPONSE" | jq '.'
+          
+          # Check if initialization was successful
+          if echo "$RESPONSE" | jq -e '.success' > /dev/null; then
+            echo "✅ FX structure initialized successfully!"
+          else
+            echo "❌ FX structure initialization failed!"
+            exit 1
+          fi
+      
+      - name: Process Telegram Messages
+        if: github.event.inputs.mode != 'init_fx_structure'
+        env:
+          CLOUDFLARE_WORKER_URL: ${{ secrets.CLOUDFLARE_WORKER_URL }}
+        run: |
           MODE="${{ github.event.inputs.mode }}"
           
           if [ "$MODE" = "process_new" ]; then
-            echo "Processing new messages..."
+            echo "🔄 Processing new FX messages..."
             LAST_ID="${{ github.event.inputs.last_message_id }}"
             
-            # Try to read last message ID from progress file if not provided
+            # Try to read last message ID from FX progress file if not provided
             if [ -z "$LAST_ID" ] || [ "$LAST_ID" = "0" ]; then
-              if [ -f "tg/progress.json" ]; then
-                LAST_ID=$(jq -r '.last_message_id // 0' tg/progress.json)
+              if [ -f "tg/FX-files/FX-progress.json" ]; then
+                LAST_ID=$(jq -r '.last_message_id // 0' tg/FX-files/FX-progress.json)
+                echo "📊 Starting from FX last message ID: $LAST_ID"
               fi
             fi
             
-            echo "Starting from message ID: $LAST_ID"
+            echo "🔄 Processing FX messages after ID: $LAST_ID"
             
             RESPONSE=$(curl -s -X POST "${CLOUDFLARE_WORKER_URL}/process-new" \
               -H "Content-Type: application/json" \
               -d "{\"lastMessageId\": $LAST_ID}")
             
             echo "Response: $RESPONSE"
+            echo "$RESPONSE" | jq '.'
             
           elif [ "$MODE" = "process_message" ]; then
             MESSAGE_ID="${{ github.event.inputs.message_id }}"
-            echo "Processing message ID: $MESSAGE_ID"
+            echo "🔍 Processing FX message ID: $MESSAGE_ID"
             
             if [ -z "$MESSAGE_ID" ]; then
-              echo "Error: message_id is required for process_message mode"
+              echo "❌ Error: message_id is required for process_message mode"
               exit 1
             fi
             
@@ -79,34 +103,35 @@ jobs:
               -d "{\"messageId\": $MESSAGE_ID}")
             
             echo "Response: $RESPONSE"
+            echo "$RESPONSE" | jq '.'
             
           elif [ "$MODE" = "setup_webhook" ]; then
-            echo "Setting up Telegram webhook..."
+            echo "🔗 Setting up FX Telegram webhook..."
             
             RESPONSE=$(curl -s "${CLOUDFLARE_WORKER_URL}/setup-webhook")
             echo "Response: $RESPONSE"
+            echo "$RESPONSE" | jq '.'
             
           elif [ "$MODE" = "check_status" ]; then
-            echo "Checking processing status..."
+            echo "📊 Checking FX bot processing status..."
             
             RESPONSE=$(curl -s "${CLOUDFLARE_WORKER_URL}/status")
             echo "Status: $RESPONSE"
-            
-            # Parse and display status
             echo "$RESPONSE" | jq '.'
           fi
       
-      - name: Commit progress updates
-        if: always()
+      - name: Commit FX progress updates
+        if: always() && github.event.inputs.mode != 'init_fx_structure'
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # Check if there are changes to commit
-          if [[ $(git status --porcelain) ]]; then
-            git add tg/
-            git commit -m "Update message processing progress [skip ci]"
+          # Check if there are FX-related changes to commit
+          if [[ $(git status --porcelain | grep "tg/FX-files/") ]]; then
+            git add tg/FX-files/
+            git commit -m "FX Bot: Update message processing progress [skip ci]"
             git push
+            echo "✅ FX progress updates committed"
           else
-            echo "No changes to commit"
+            echo "ℹ️ No FX changes to commit"
           fi
