@@ -5,9 +5,8 @@ import sys
 import requests
 from datetime import datetime
 from zoneinfo import ZoneInfo
-from github import Github
+from github import Github, Auth
 
-# ---------- Config ----------
 BOT_TOKEN = os.environ['BOT_TOKEN']
 GH_TOKEN = os.environ['GH_TOKEN']
 REPO_NAME = os.environ['REPO']
@@ -20,10 +19,11 @@ PENDING_FILE = 'pending_messages.json'
 PROCESSED_FILE = 'processed_message_ids.json'
 TEHRAN_TZ = ZoneInfo("Asia/Tehran")
 
-g = Github(GH_TOKEN)
+auth = Auth.Token(GH_TOKEN)
+g = Github(auth=auth)
 repo = g.get_repo(REPO_NAME)
 
-# ---------- Load pending messages ----------
+# Load pending messages
 if not os.path.exists(PENDING_FILE):
     print("No pending messages file. Exiting.")
     sys.exit(0)
@@ -35,7 +35,7 @@ if not pending:
     print("No pending messages.")
     sys.exit(0)
 
-# ---------- Filter by message_id if provided ----------
+# Filter by message_id if provided
 if MESSAGE_ID_INPUT:
     target_id = int(MESSAGE_ID_INPUT)
     pending = [m for m in pending if m['message_id'] == target_id]
@@ -43,32 +43,27 @@ if MESSAGE_ID_INPUT:
         print(f"Message {target_id} not found in pending list.")
         sys.exit(1)
 
-# ---------- Load processed IDs ----------
+# Load processed IDs
 if os.path.exists(PROCESSED_FILE):
     with open(PROCESSED_FILE) as f:
         processed_ids = json.load(f)
 else:
     processed_ids = []
 
-# ---------- Process each message ----------
 for msg in pending:
     message_id = msg['message_id']
-
     if message_id in processed_ids:
         continue
 
-    # Iran time (UTC+3:30) for the daily issue title
     msg_date = datetime.fromtimestamp(msg['date'], tz=TEHRAN_TZ)
     issue_title = msg_date.strftime('%d/%m/%Y')
 
-    # Find or create the daily issue
     issue = None
     for i in repo.get_issues(state='open'):
         if i.title == issue_title:
             issue = i
             break
 
-    # Build message block
     time_str = msg_date.strftime('%H:%M')
     sender = msg.get('from', {})
     sender_name = sender.get('first_name') or sender.get('username') or 'Unknown'
@@ -78,7 +73,6 @@ for msg in pending:
     if text:
         block += f"{text}\n"
 
-    # Handle attached file
     file_type = None
     file_info = None
     if 'photo' in msg:
@@ -136,7 +130,6 @@ for msg in pending:
             direct_link = f'https://api.telegram.org/file/bot{BOT_TOKEN}/{file_path}'
             block += f"[📁 Large {file_type} (>{MAX_FILE_SIZE//1024//1024} MB)]({direct_link})\n"
 
-    # Update the daily issue
     if issue:
         new_body = issue.body + "\n\n" + block if issue.body else block
         issue.edit(body=new_body)
@@ -145,20 +138,19 @@ for msg in pending:
 
     processed_ids.append(message_id)
 
-# ---------- Save updated processed IDs ----------
+# Save processed IDs
 with open(PROCESSED_FILE, 'w') as f:
     json.dump(processed_ids, f)
 
-# ---------- Remove processed messages from pending file ----------
+# Remove processed messages from pending
 if MESSAGE_ID_INPUT:
-    # Remove only the specific message
     remaining = [m for m in json.load(open(PENDING_FILE)) if m['message_id'] != int(MESSAGE_ID_INPUT)]
 else:
-    remaining = []  # all have been processed
+    remaining = []
 with open(PENDING_FILE, 'w') as f:
     json.dump(remaining, f)
 
-# ---------- Enforce total file size limit ----------
+# Enforce total file size limit
 def get_total_size(directory):
     total = 0
     for dirpath, _, filenames in os.walk(directory):
@@ -179,19 +171,19 @@ if os.path.exists(BASE_DIR):
                 full = os.path.join(dirpath, fname)
                 mid = extract_message_id(fname)
                 files_list.append((mid, full))
-        files_list.sort(key=lambda x: x[0])   # oldest first
+        files_list.sort(key=lambda x: x[0])
 
         for _, full_path in files_list:
             if get_total_size(BASE_DIR) <= MAX_TOTAL_SIZE:
                 break
             os.remove(full_path)
 
-# ---------- Commit and push ----------
+# Commit and push
 import subprocess
 subprocess.run(['git', 'config', 'user.name', 'github-actions'], check=True)
 subprocess.run(['git', 'config', 'user.email', 'actions@github.com'], check=True)
 subprocess.run(['git', 'add', BASE_DIR, PROCESSED_FILE, PENDING_FILE], check=True)
-subprocess.run(['git', 'add', '-u', BASE_DIR], check=True)   # pickup deletions
+subprocess.run(['git', 'add', '-u', BASE_DIR], check=True)
 subprocess.run(['git', 'commit', '-m', 'Processed messages from pending list'], check=True)
 subprocess.run(['git', 'push'], check=True)
 
