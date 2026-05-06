@@ -62,7 +62,7 @@
           "height": 720
         }
       ],
-      "caption": "📵 #Iran's internet blackout is entering its 68th day after 1608 hours. The general public have now been largely cut off from the global internet for 70% of the year 2026 to date, with some reporting no contact since the beginning of the first digital shutdown in January.",
+      "caption": "ðµ #Iran's internet blackout is entering its 68th day after 1608 hours. The general public have now been largely cut off from the global internet for 70% of the year 2026 to date, with some reporting no contact since the beginning of the first digital shutdown in January.",
       "caption_entities": [
         {
           "offset": 3,
@@ -70,9 +70,54 @@
           "type": "hashtag"
         }
       ]
+    },
+    {
+      "message_id": 393,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778095043,
+      "forward_origin": {
+        "type": "hidden_user",
+        "sender_user_name": "Mæhd!",
+        "date": 1767000717
+      },
+      "forward_sender_name": "Mæhd!",
+      "forward_date": 1767000717,
+      "audio": {
+        "duration": 214,
+        "file_name": "Reza-Bahram-Yar-128.mp3",
+        "mime_type": "audio/mpeg",
+        "title": "Yar",
+        "performer": "Reza Bahram",
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgGJafuTw-GAPMG1DyOHRXGxBPYcRhgAAkQbAAJnDglStnPKaXhZKAUBAAdzAAM7BA",
+          "file_unique_id": "AQADRBsAAmcOCVJ4",
+          "file_size": 2280,
+          "width": 90,
+          "height": 90
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgGJafuTw-GAPMG1DyOHRXGxBPYcRhgAAkQbAAJnDglStnPKaXhZKAUBAAdzAAM7BA",
+          "file_unique_id": "AQADRBsAAmcOCVJ4",
+          "file_size": 2280,
+          "width": 90,
+          "height": 90
+        },
+        "file_id": "CQACAgQAAyEFAATqPDJ3AAIBiWn7k8PhgDzBtQ8jh0VxsQT2HEYYAAJEGwACZw4JUrZzyml4WSgFOwQ",
+        "file_unique_id": "AgADRBsAAmcOCVI",
+        "file_size": 3463651
+      }
     }
   ],
   "processed_count": 0,
   "last_cleanup": "2026-05-06T19:18:52.344Z",
-  "last_updated": "2026-05-06T19:46:05.729Z"
+  "last_updated": "2026-05-06T19:46:08.191Z"
 }
