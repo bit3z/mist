@@ -1,20 +1,5 @@
 {
-  "pending_messages": [
-    {
-      "message_id": 389,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778094730,
-      "text": "123"
-    }
-  ],
-  "last_updated": "2026-05-06T19:12:10.921Z"
+  "pending_messages": [],
+  "processed_count": 0,
+  "last_cleanup": "2026-05-06T19:13:44.218Z"
 }
