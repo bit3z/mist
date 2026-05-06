@@ -1,11 +1,11 @@
 # .github/workflows/FX-telegram-processor.yml
-name: FX Telegram Message Processor
+name: FX Telegram Processor
 
 on:
   workflow_dispatch:
     inputs:
       mode:
-        description: 'Processing mode'
+        description: 'Mode'
         required: true
         type: choice
         options:
@@ -16,163 +16,69 @@ on:
 jobs:
   process:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 30
     
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+      - uses: actions/checkout@v4
       
-      - name: Setup Git Configuration
+      - name: Setup Git
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config --local user.email "bot@github.com"
+          git config --local user.name "FX Bot"
       
-      - name: Setup FX Webhook
+      - name: Setup Webhook
         if: github.event.inputs.mode == 'setup_webhook'
         env:
-          CLOUDFLARE_WORKER_URL: ${{ secrets.CLOUDFLARE_WORKER_URL }}
+          URL: ${{ secrets.CLOUDFLARE_WORKER_URL }}
         run: |
-          echo "🔗 Setting up FX webhook..."
-          RESPONSE=$(curl -s "${CLOUDFLARE_WORKER_URL}/setup-webhook")
-          echo "Response: $RESPONSE"
-          echo "$RESPONSE" | jq '.' || echo "Raw response: $RESPONSE"
+          echo "Setting up webhook..."
+          curl -s "$URL/setup-webhook" | jq '.'
       
-      - name: Process Queue (One Message at a Time)
+      - name: Process Queue
         if: github.event.inputs.mode == 'process_queue'
         env:
-          CLOUDFLARE_WORKER_URL: ${{ secrets.CLOUDFLARE_WORKER_URL }}
+          URL: ${{ secrets.CLOUDFLARE_WORKER_URL }}
         run: |
-          echo "🔄 Processing FX message queue (one message per API call)..."
-          
-          PROCESSED=0
-          MAX_ITERATIONS=50  # Safety limit
-          
-          for i in $(seq 1 $MAX_ITERATIONS); do
-            echo ""
-            echo "=========================================="
-            echo "Iteration $i of max $MAX_ITERATIONS"
-            echo "=========================================="
+          for i in {1..50}; do
+            # Get queue count
+            COUNT=$(curl -s "$URL/queue-count" | jq -r '.count // 0')
+            echo "Queue: $COUNT messages"
             
-            # Check queue count with error handling
-            echo "📊 Checking queue count..."
-            QUEUE_RESPONSE=$(curl -s "${CLOUDFLARE_WORKER_URL}/queue-count")
-            echo "Queue response: $QUEUE_RESPONSE"
-            
-            # Try to parse queue count, default to 0 if parsing fails
-            QUEUE_COUNT=$(echo "$QUEUE_RESPONSE" | jq -r '.count // 0' 2>/dev/null || echo "0")
-            
-            echo "Queue count: $QUEUE_COUNT"
-            
-            if [ "$QUEUE_COUNT" = "0" ] || [ "$QUEUE_COUNT" = "null" ] || [ -z "$QUEUE_COUNT" ]; then
-              echo "✅ Queue is empty or response invalid. Processing complete!"
+            if [ "$COUNT" = "0" ]; then
+              echo "Done!"
               break
             fi
             
-            echo "📊 Queue has $QUEUE_COUNT messages remaining. Processing next message..."
+            # Process one
+            RESULT=$(curl -s -X POST "$URL/process-one")
+            echo "$RESULT" | jq '{status: .status, messageId: .messageId, issue: .issue_number, remaining: .queue_remaining}'
             
-            # Process one message
-            echo "🔄 Calling process-one endpoint..."
-            PROCESS_RESPONSE=$(curl -s -X POST "${CLOUDFLARE_WORKER_URL}/process-one" \
-              -H "Content-Type: application/json")
-            
-            echo "Process response: $PROCESS_RESPONSE"
-            
-            # Check if response is valid JSON
-            if echo "$PROCESS_RESPONSE" | jq -e '.' > /dev/null 2>&1; then
-              # Parse response fields
-              STATUS=$(echo "$PROCESS_RESPONSE" | jq -r '.status // "error"')
-              MESSAGE_ID=$(echo "$PROCESS_RESPONSE" | jq -r '.messageId // "unknown"')
-              ISSUE_NUM=$(echo "$PROCESS_RESPONSE" | jq -r '.issue_number // "unknown"')
-              REMAINING=$(echo "$PROCESS_RESPONSE" | jq -r '.queue_remaining // "?"')
-              
-              echo "Status: $STATUS"
-              echo "Message ID: $MESSAGE_ID"
-              echo "Issue Number: $ISSUE_NUM"
-              echo "Remaining: $REMAINING"
-              
-              if [ "$STATUS" = "processed" ]; then
-                PROCESSED=$((PROCESSED + 1))
-                echo "✅ Successfully processed message #$MESSAGE_ID -> Issue #$ISSUE_NUM"
-                
-                # Commit progress after each successful message
-                if [[ $(git status --porcelain | grep "tg/FX-files/") ]]; then
-                  git add tg/FX-files/
-                  git commit -m "FX Bot: Processed message $MESSAGE_ID to issue #$ISSUE_NUM [skip ci]"
-                  git push
-                  echo "📤 Progress committed to repository"
-                fi
-                
-              elif [ "$STATUS" = "already_processed" ]; then
-                echo "⏭️ Message #$MESSAGE_ID already processed, skipping..."
-                
-              elif [ "$STATUS" = "empty" ]; then
-                echo "✅ Queue is now empty, stopping..."
-                break
-                
-              else
-                echo "⚠️ Unknown status: $STATUS"
-              fi
-            else
-              echo "❌ Invalid JSON response received"
-              echo "Raw response: $PROCESS_RESPONSE"
-              # Check if response contains error message
-              if echo "$PROCESS_RESPONSE" | grep -q "error"; then
-                echo "Error detected in response, continuing..."
-              fi
+            # Commit if changes
+            if git status --porcelain | grep -q "tg/"; then
+              git add tg/
+              git commit -m "FX: Processed message [skip ci]"
+              git push
             fi
             
-            # Small delay to avoid rate limiting
-            echo "⏳ Waiting 2 seconds before next message..."
             sleep 2
-            
           done
-          
-          echo ""
-          echo "=========================================="
-          echo "🎉 Queue processing complete!"
-          echo "Total messages processed: $PROCESSED"
-          echo "=========================================="
       
       - name: Check Status
         if: github.event.inputs.mode == 'check_status'
         env:
-          CLOUDFLARE_WORKER_URL: ${{ secrets.CLOUDFLARE_WORKER_URL }}
+          URL: ${{ secrets.CLOUDFLARE_WORKER_URL }}
         run: |
-          echo "📊 Checking FX bot status..."
-          
-          echo "Getting status..."
-          STATUS_RESPONSE=$(curl -s "${CLOUDFLARE_WORKER_URL}/status")
-          echo "Status response: $STATUS_RESPONSE"
-          echo "$STATUS_RESPONSE" | jq '.' || echo "Raw: $STATUS_RESPONSE"
-          
+          echo "Status:"
+          curl -s "$URL/status" | jq '.'
           echo ""
-          echo "Getting queue count..."
-          QUEUE_RESPONSE=$(curl -s "${CLOUDFLARE_WORKER_URL}/queue-count")
-          echo "Queue response: $QUEUE_RESPONSE"
-          echo "$QUEUE_RESPONSE" | jq '.' || echo "Raw: $QUEUE_RESPONSE"
-          
-          echo ""
-          echo "Getting GitHub issues..."
-          ISSUES=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-            "https://api.github.com/repos/${{ github.repository }}/issues?labels=telegram-FX&state=open")
-          ISSUE_COUNT=$(echo "$ISSUES" | jq '. | length' 2>/dev/null || echo "unknown")
-          echo "Open FX issues: $ISSUE_COUNT"
+          echo "Queue:"
+          curl -s "$URL/queue-count" | jq '.'
       
-      - name: Commit Any Remaining Changes
+      - name: Final Commit
         if: always()
         run: |
-          if [[ $(git status --porcelain | grep "tg/FX-files/") ]]; then
-            echo "📤 Committing remaining changes..."
-            git add tg/FX-files/
-            git commit -m "FX Bot: Final progress update [skip ci]"
+          if git status --porcelain | grep -q "tg/"; then
+            git add tg/
+            git commit -m "FX: Final update [skip ci]"
             git push
-            echo "✅ Changes committed successfully"
-          else
-            echo "ℹ️ No changes to commit"
           fi
-          
-          echo ""
-          echo "📋 Current git status:"
-          git status --short
