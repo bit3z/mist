@@ -21,6 +21,14 @@
       "data": {
         "update_id": 590439354
       }
+    },
+    {
+      "timestamp": "2026-05-06T19:38:30.687Z",
+      "event": "error",
+      "data": {
+        "message": "btoa() can only operate on characters in the Latin1 (ISO/IEC 8859-1) range.",
+        "path": "/webhook"
+      }
     }
   ]
 }
