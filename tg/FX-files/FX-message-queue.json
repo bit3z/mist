@@ -223,6 +223,38 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 433,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778137740,
+      "text": "Slipnet\nVaydns+Socks\n\nslipnet-enc://AVuGngYK79dS5G1U6nXYP9kcFGNjjh3yJlX5nv9k49V5y/oVTmgNb05Lh94T/FdQFyI3iKDX+Ad1ebLJTL35Sv4+HJN1H+80HlXWLr+A0odYHomfJaztIjTJ/KjjvcCfa3KR16OAaP3iEOC7P7E8467DkOf2tIvNuJ6ynn+NFeN4BGAalWExs261RDHD9Y55G8/0DxBea4jaI26gA1fYclmBbwrng+oAztx/WihSyBisy3gHqeNMeqyvbDR/VIlHQavNXB9X0q6pHGoNagxsIxOPh9QLyPKw+PbZYUEla6vZi95EJ4qpYLS1w0b2puWqlz0QvoXshbrzv6eV6IAmBSXduU8otNqNBImfhYicPwjTSQ/ic92qwnxYCJ8dDNgkddJv0ZYmAihaoEaRrDEpkmDPrpGSJtL39neoIfqnkFU+jefTqSr2TpbgmJmZ5+CLpUvesUdy7KM93S0ZsIUS+ll+C3rhV/2rbR01LiCEkPX4IzdnImVwTaLohGHgur1GL4i5vQlTOm8mGNqvvf9t64PWOeaQYPpZEvJ0/FJno8RIg9wG0bNOwXiLVppThQb5ZVaNYpWbdppPK+tBhP4maLvxZ9GKxCVHeuhNeYPEq7D377xQuGFwFrkx3rzHReDlhlGqIA33hwQh3ISHN+I9YQpwaFy7O1FjksKAwL0FONj9lNr2a7SIAR0R8V1xytxwaBU9J6jWl+fxoPPXcePbZ1C75tjMNcEgS3Wh2SVM+v2DVzCBvwtxzcReZnpyA+zx5rWDingmZBdSx5iHpkFcVia3Mg==\n\n@Error404Bin\n@ErrorBin",
+      "entities": [
+        {
+          "offset": 22,
+          "length": 810,
+          "type": "pre"
+        },
+        {
+          "offset": 834,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 847,
+          "length": 9,
+          "type": "mention"
+        }
+      ]
     }
   ]
 }
