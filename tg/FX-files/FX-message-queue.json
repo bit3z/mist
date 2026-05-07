@@ -183,6 +183,46 @@
           "type": "mention"
         }
       ]
+    },
+    {
+      "message_id": 432,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778137690,
+      "text": "✅VayDNS+SSH \n\nslipnet-enc://AYNx6q/FGOPm66YDXvYRz1klhPkt2z8NVnlspb1dxYwW2MYxlVpnj07JaYybTuXYYCymc6eyJffIesluDa00n/ZhwnhJTuer8tuCfJq/4Vo1Pu6bwH4XnyMTAis2TQT4cXNbQGM5pC+Cp0nKvFhrmqJOvbbDXk59VX55jlBJ0B+rR+pxVKY/qn6pWRGvDvYjPl4qjLdKOk70b3CjYjAMIVtmlcyZXFytrZjckGnvhMSqsa0KP4jogOkTYQ8Mt7K3rDrv7/psTBz69sHnB71RBnDiKxb+tplnCMxQ14xpN28YLMAY343h1Ss+lmowt/5KCvpagf7n6xzAa3k2nIEHXZQVOH+loEs0Mu4t77YkMk8I6StS+F6RPpmttblYQVtDDfSQ466kjIZl6xcLYd5hx4UKQHz9PCFQN0cA6xUVYS7zOlmnUrxsqrWzM17Zj0Ww9mazBmWEB85zijJNLOi/YgSsohP89JiiyLeiFUWTB30ZllKpqqcgN/XIiq034YJjvzkWwESfNpnF1qKSzWrfgOltcqrg5YevoOCZxsxuxLYSm2MU9h4mrR0k5/vqqQPAG/dKHGVauRCnuAlsPbLcwvHYbMGVUIksn1fR+8uOi1Kw84Cvb2vc8DbwBC41vigeeXc8DnhQUmD1xelazohrFH0lESs+ZY3OvbsMI+pVIxaIL39nEEkgO45HcEYtEIo6fgZpKNRxlOhVrdfF9PpOJawWVsBjiZ+b/5yqww==\nکانفیگ اسلیپ \nخصوص نسخه جدید  2.5.3\n\nhttps://t.me/socks?server=127.0.0.1&port=10880&user=%40zel2ovpn\n\n@Error404Bin\n@ErrorBin",
+      "entities": [
+        {
+          "offset": 14,
+          "length": 758,
+          "type": "blockquote"
+        },
+        {
+          "offset": 810,
+          "length": 63,
+          "type": "url"
+        },
+        {
+          "offset": 875,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 888,
+          "length": 9,
+          "type": "mention"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
