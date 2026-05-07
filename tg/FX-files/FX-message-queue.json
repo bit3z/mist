@@ -1,33 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 431,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778109252,
-      "text": "🔴پویان مختاری :\nقراره یه اپلیکیشن تو این هفته بیارم روکار به اسم «وطنگرام» تا با تلگرام رقابت کنه.\n@odin_club\n@Arvanpingbot",
-      "entities": [
-        {
-          "offset": 100,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 111,
-          "length": 13,
-          "type": "mention"
-        }
-      ]
-    },
-    {
       "message_id": 432,
       "sender_chat": {
         "id": -1003929813623,
