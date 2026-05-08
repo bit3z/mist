@@ -538,6 +538,33 @@
           "type": "mention"
         }
       ]
+    },
+    {
+      "message_id": 456,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778179226,
+      "text": "دکتر: والورده حافظه‌ش رو از دست داده و فقط میدونه که یه سیاهپوست بهش ضربه زده اما اینکه اون سیاهپوست کی بوده رو یادش نمیاد.\n@odin_club\n@Arvanpingbot",
+      "entities": [
+        {
+          "offset": 124,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 135,
+          "length": 13,
+          "type": "mention"
+        }
+      ]
     }
   ]
 }
