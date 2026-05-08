@@ -481,6 +481,63 @@
         ]
       },
       "text": "رومانو تایید کرد که والورده بر اثر مشت شوامنی یه قسمتی از حافظه‌ش رو از دست داده 😐"
+    },
+    {
+      "message_id": 455,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778179206,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIBx2n83Iaj37QJCO7GuuMJu-_NfqhcAAJwKGsb81XgU69bv-pt8YxzAQADAgADcwADOwQ",
+          "file_unique_id": "AQADcChrG_NV4FN4",
+          "file_size": 1541,
+          "width": 50,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIBx2n83Iaj37QJCO7GuuMJu-_NfqhcAAJwKGsb81XgU69bv-pt8YxzAQADAgADbQADOwQ",
+          "file_unique_id": "AQADcChrG_NV4FNy",
+          "file_size": 20322,
+          "width": 179,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIBx2n83Iaj37QJCO7GuuMJu-_NfqhcAAJwKGsb81XgU69bv-pt8YxzAQADAgADeAADOwQ",
+          "file_unique_id": "AQADcChrG_NV4FN9",
+          "file_size": 77646,
+          "width": 447,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIBx2n83Iaj37QJCO7GuuMJu-_NfqhcAAJwKGsb81XgU69bv-pt8YxzAQADAgADeQADOwQ",
+          "file_unique_id": "AQADcChrG_NV4FN-",
+          "file_size": 134710,
+          "width": 709,
+          "height": 1269
+        }
+      ],
+      "caption": "ژاپن: حک قیمت منو غذا روی بتن\nایران: استفاده از تابلوی قیمت لحظه‌ای\n@odin_club\n@Arvanpingbot",
+      "caption_entities": [
+        {
+          "offset": 68,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 79,
+          "length": 13,
+          "type": "mention"
+        }
+      ]
     }
   ]
 }
