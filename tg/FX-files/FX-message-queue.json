@@ -280,6 +280,57 @@
       },
       "date": 1778174492,
       "text": "اینترنت نداریم"
+    },
+    {
+      "message_id": 450,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778176546,
+      "text": "📥جدیدترین آپدیت جدید تلگرام\n\nنسخه: Google Play\n\nورژن:12.7.0\n\nدانلود مستقیم داخلی\n\n@Error404Bin\n@ErrorBin",
+      "entities": [
+        {
+          "offset": 2,
+          "length": 26,
+          "type": "bold"
+        },
+        {
+          "offset": 30,
+          "length": 4,
+          "type": "bold"
+        },
+        {
+          "offset": 49,
+          "length": 4,
+          "type": "bold"
+        },
+        {
+          "offset": 62,
+          "length": 19,
+          "type": "text_link",
+          "url": "https://rimondl.ir/s/1DIZPEh8sWaDN2VBrDa_jwJr5N-sHIyUP"
+        },
+        {
+          "offset": 83,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 96,
+          "length": 9,
+          "type": "mention"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
