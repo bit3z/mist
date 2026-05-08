@@ -1803,6 +1803,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 498,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778247473,
+      "text": "مسؤلین از محاصره 7 روزه دریایی امریکا صبح تا شب میگن غیرقانونی جرم و غیر انسانی و...\n\nولی کون نشور ها از قطع اینترنت بین المللی یک کشور به مدتت 70 روز میگن اینترنت طبقاتي خوبه امنیت ملی و... خو حروم زاده تو این اینترنت ملی تون بانک هاتون هک شد که جاسوس هم از افراد سر سفره تون بودن\n\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 283,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 306,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 306,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 306,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
