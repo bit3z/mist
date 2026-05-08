@@ -940,6 +940,33 @@
           "type": "mention"
         }
       ]
+    },
+    {
+      "message_id": 465,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778180354,
+      "text": "میگن حمله صورت گرفته به جمهوری اسلامی توسط امارات بوده احتمالا.\nتایید یا تکذیب نمی‌شود\n@odin_club\n@Arvanpingbot",
+      "entities": [
+        {
+          "offset": 87,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 98,
+          "length": 13,
+          "type": "mention"
+        }
+      ]
     }
   ]
 }
