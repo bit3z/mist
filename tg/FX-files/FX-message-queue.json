@@ -2571,6 +2571,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 520,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778264154,
+      "text": "کانفیگ شما:\n\nvless://f9ea56dc-39f8-4755-8d2a-900527131963@185.239.0.235:36801?type=tcp&encryption=none&security=none#SilentVibe107Referral\n\nID: 229\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 160,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 160,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 160,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
