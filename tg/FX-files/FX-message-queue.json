@@ -1,27 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 437,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778142955,
-      "document": {
-        "file_name": "iran-resolvers.txt",
-        "mime_type": "text/plain",
-        "file_id": "BQACAgQAAyEFAATqPDJ3AAIBtWn8TuspslKPYdArg6RtPqJWsqAdAAJBIgACV4ThU2J3GxZ93xVxOwQ",
-        "file_unique_id": "AgADQSIAAleE4VM",
-        "file_size": 154596
-      }
-    },
-    {
       "message_id": 438,
       "sender_chat": {
         "id": -1003929813623,
