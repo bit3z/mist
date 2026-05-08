@@ -1035,6 +1035,38 @@
           "type": "mention"
         }
       ]
+    },
+    {
+      "message_id": 469,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778180474,
+      "text": "#گزارش_مردمی\n\nقشم همین چند دیقه پیش دو تا زدن اسکله بهمن ورودی های به سمت اسکله هم بستن\n@odin_club\n@Arvanpingbot",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 12,
+          "type": "hashtag"
+        },
+        {
+          "offset": 88,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 99,
+          "length": 13,
+          "type": "mention"
+        }
+      ]
     }
   ]
 }
