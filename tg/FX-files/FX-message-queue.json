@@ -439,6 +439,48 @@
           "type": "mention"
         }
       ]
+    },
+    {
+      "message_id": 454,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778178809,
+      "reply_to_message": {
+        "message_id": 452,
+        "sender_chat": {
+          "id": -1003929813623,
+          "title": "Backup",
+          "type": "channel"
+        },
+        "chat": {
+          "id": -1003929813623,
+          "title": "Backup",
+          "type": "channel"
+        },
+        "date": 1778177642,
+        "text": "چنتا از رسانه‌های اسپانیا مدعی شدن که والورده یه قسمتی از حافظه‌ش رو بعد از این اتفاق از دست داده 😐\n@odin_club\n@Arvanpingbot",
+        "entities": [
+          {
+            "offset": 101,
+            "length": 10,
+            "type": "mention"
+          },
+          {
+            "offset": 112,
+            "length": 13,
+            "type": "mention"
+          }
+        ]
+      },
+      "text": "رومانو تایید کرد که والورده بر اثر مشت شوامنی یه قسمتی از حافظه‌ش رو از دست داده 😐"
     }
   ]
 }
