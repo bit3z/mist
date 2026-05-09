@@ -1,60 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 487,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778183484,
-      "reply_to_message": {
-        "message_id": 485,
-        "sender_chat": {
-          "id": -1003929813623,
-          "title": "Backup",
-          "type": "channel"
-        },
-        "chat": {
-          "id": -1003929813623,
-          "title": "Backup",
-          "type": "channel"
-        },
-        "date": 1778183394,
-        "text": "انفجار در تنگه هرمز😐\n@odin_club\n@Arvanpingbot",
-        "entities": [
-          {
-            "offset": 22,
-            "length": 10,
-            "type": "mention"
-          },
-          {
-            "offset": 33,
-            "length": 13,
-            "type": "mention"
-          }
-        ]
-      },
-      "text": "تأیید یا تکذیب نمیشه.\n@odin_club\n@Arvanpingbot",
-      "entities": [
-        {
-          "offset": 22,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 33,
-          "length": 13,
-          "type": "mention"
-        }
-      ]
-    },
-    {
       "message_id": 488,
       "sender_chat": {
         "id": -1003929813623,
@@ -4226,52 +4172,6 @@
         },
         {
           "offset": 143,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
-      "message_id": 588,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778356196,
-      "text": "مارک لوین : \nروسیه در حال ارسال سلاح به ایران است. تصور کنید اگر رژیم ایران بعد از رفتن ما زنده بماند، چه کارهایی خواهند کرد. \nچین هم همین‌طور.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 144,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 157,
-          "length": 13,
-          "type": "mention"
-        },
-        {
-          "offset": 183,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 183,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 183,
           "length": 8,
           "type": "underline"
         }
