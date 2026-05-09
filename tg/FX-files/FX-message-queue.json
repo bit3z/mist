@@ -1,21 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 492,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778184073,
-      "text": "قدرت مذاکرات عباس جون🤣🤣🤣"
-    },
-    {
       "message_id": 493,
       "sender_chat": {
         "id": -1003929813623,
