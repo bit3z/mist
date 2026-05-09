@@ -1,47 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 501,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778248300,
-      "text": "اولین نفری که تاس 🎲 بندازه و عدد پنج بیاره یه سرور 100 مگی برنده میشه.\nهر نفر یک بار می‌تونه تاس بندازه.\n@XBat_Team\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 106,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 129,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 129,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 129,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 503,
       "sender_chat": {
         "id": -1003929813623,
