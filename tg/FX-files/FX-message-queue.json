@@ -1,62 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 511,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778255511,
-      "text": "slipnet-enc://AQHXhKgHCPXmEriId4WNNn+hVpS+VMCVDyRCvPIEg/IxluSLA3WabzBgC28YjhvSU3W+Q/giuzsG8a/6Aax2z4nEuvghrg+ViYiWh76mRwz3GGBMUk5AOsCnG9dc9LZebQ1lt2Nv/0gTPMeKInBoze+NprtL/Lm7WqE4iKv0EwjAfZTZgDyLt9i9iAFiHzr2mgDU9BF6i48ZvZw8wxYvOlvSf7F4DRsDkK7oFII4owZ+fjyqtasprd2moGl4a6zEREpkPvN42DP1hukfg8Ot2h92SpvbLZMxi54lvhFTEgxHxsPak5xUiayzYc5Iuvr9Vzo5dtBCBiQRKnRQLSPiMhhpJrof67UeWGaqsiUoaCqeTYJVK//Zmg8vNr60YDmjJ1pta4kIgwTZ5TX1wAEpTKHDlHtvKGXEmfODJfAtDZX1eExlhDozt8i9jW7kYFH3KQYYyv5up7xUjzunnSRhDMTG6V0dD/m8XBkg/KsoVHR7s1HkzGZ8Y1h03L8TXE53+ChIeyE66E7LNAoyRuoSwx88/C/XtIq6XCXlHsdFLDQgK/h21mcwma/wBOua/OyHBxQ1TVQI7AvxnmgkJOqn8xBXcy8KfzG45bSLI0bAM/+M+awK24CM4OIBSNS/HbgHRrPHlRNeXk3BfB5FPybOS9yc4xixvqBO6pRmMbcJP63FBfsq4jsNh+b6MGhvyP3fjMVUvpAy0m6gjtCba0tU5/AYaUJcCsVg+UcjMJf0o5jIcgB+0nEUCHhziRqm4/XuGagqJAs939bg4UaWFWvj01rMjzrS3bkWiA==\nSlipNet [VayDNS+ssh]\nConnected with or without proxy \nProxy :\nhttps://t.me/socks?server=127.0.0.1&port=10880&user=%40vasl_bashim\nhttps://t.me/socks?server=0.0.0.0&port=10880&user=%40vasl_bashim\nبه ما بپیوندید🤝\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 0,
-          "length": 818,
-          "type": "blockquote"
-        },
-        {
-          "offset": 0,
-          "length": 818,
-          "type": "code"
-        },
-        {
-          "offset": 881,
-          "length": 66,
-          "type": "url"
-        },
-        {
-          "offset": 948,
-          "length": 64,
-          "type": "url"
-        },
-        {
-          "offset": 1042,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 1042,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 1042,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 512,
       "sender_chat": {
         "id": -1003929813623,
