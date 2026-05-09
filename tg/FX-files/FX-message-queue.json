@@ -5480,6 +5480,73 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 581,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778340804,
+      "media_group_id": "14226726438789076",
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAICRWn_U8R6Q4i_stUgo21cgFpbMutFAAIpDWsbf_kAAVCfru6mTa2whAEAAwIAA3MAAzsE",
+          "file_unique_id": "AQADKQ1rG3_5AAFQeA",
+          "file_size": 1720,
+          "width": 67,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAICRWn_U8R6Q4i_stUgo21cgFpbMutFAAIpDWsbf_kAAVCfru6mTa2whAEAAwIAA20AAzsE",
+          "file_unique_id": "AQADKQ1rG3_5AAFQcg",
+          "file_size": 19147,
+          "width": 240,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAICRWn_U8R6Q4i_stUgo21cgFpbMutFAAIpDWsbf_kAAVCfru6mTa2whAEAAwIAA3gAAzsE",
+          "file_unique_id": "AQADKQ1rG3_5AAFQfQ",
+          "file_size": 20569,
+          "width": 270,
+          "height": 360
+        }
+      ],
+      "caption": "‏حسین حیدری، ۵۰ ساله، دو روز مانده به تولدش،  \n۱۸ دی در هفت‌حوض با شلیک گلوله جنگی به پشت سر و پهلو کشته شد.  \n\nخانواده‌اش بعد از ساعت‌ها جستجو، پیکر او را در حیاط پشتی بیمارستان الغدیر پیدا کردند؛ پیچیده در یک پتوی آبی، میان انبوه پیکرها.  \n\nاو همان معترضی بود که نوشته بود: هر شب تا رسیدن به آزادی، یه لحظه هم نمی‌نشینیم.\n\nخانواده، حسین را از روی پوتین‌هایی شناختند که دخترش سال قبل برای تولدش هدیه داده\n\nحسین حیدری از هواداران استقلال بود.\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 443,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 454,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 480,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 480,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 480,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
