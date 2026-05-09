@@ -1,47 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 579,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778338675,
-      "text": "vless://4d8b0067-1d60-43de-9538-722d7476921c@snapp.ir:80?path=%2F&security=none&encryption=none&host=mypassvps-b1eed1fa2e-xprojer.apps.ir-central1.arvancaas.ir&type=ws#asali.https%3A%2F%2Ft.me%2FError404Bin\n\nیزنید عشق کنید فعلا🤣😂\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 0,
-          "length": 206,
-          "type": "code"
-        },
-        {
-          "offset": 244,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 244,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 244,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 580,
       "sender_chat": {
         "id": -1003929813623,
