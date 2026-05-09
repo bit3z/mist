@@ -1,51 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 475,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778181177,
-      "photo": [
-        {
-          "file_id": "AgACAgQAAyEFAATqPDJ3AAIB22n85Dnsv2n1vp_7yS2anF9xbn1VAAKbDmsbcbbhUxfAE5OWCAm2AQADAgADcwADOwQ",
-          "file_unique_id": "AQADmw5rG3G24VN4",
-          "file_size": 1125,
-          "width": 90,
-          "height": 60
-        },
-        {
-          "file_id": "AgACAgQAAyEFAATqPDJ3AAIB22n85Dnsv2n1vp_7yS2anF9xbn1VAAKbDmsbcbbhUxfAE5OWCAm2AQADAgADbQADOwQ",
-          "file_unique_id": "AQADmw5rG3G24VNy",
-          "file_size": 17869,
-          "width": 320,
-          "height": 213
-        },
-        {
-          "file_id": "AgACAgQAAyEFAATqPDJ3AAIB22n85Dnsv2n1vp_7yS2anF9xbn1VAAKbDmsbcbbhUxfAE5OWCAm2AQADAgADeAADOwQ",
-          "file_unique_id": "AQADmw5rG3G24VN9",
-          "file_size": 69871,
-          "width": 800,
-          "height": 533
-        },
-        {
-          "file_id": "AgACAgQAAyEFAATqPDJ3AAIB22n85Dnsv2n1vp_7yS2anF9xbn1VAAKbDmsbcbbhUxfAE5OWCAm2AQADAgADeQADOwQ",
-          "file_unique_id": "AQADmw5rG3G24VN-",
-          "file_size": 110516,
-          "width": 1280,
-          "height": 853
-        }
-      ],
-      "caption": "⭕️هم‌اکنون شاخص فلافل در جنوب ایران به شدت صعودی شد\n🤣🤣🤣"
-    },
-    {
       "message_id": 477,
       "sender_chat": {
         "id": -1003929813623,
