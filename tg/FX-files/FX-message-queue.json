@@ -977,6 +977,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 609,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778398377,
+      "text": "بازگشت «ویزاکارت» و «مسترکارت» به سوریه بعد از ۱۵ سال\n\nقبل از این هم سوئیفت (سامانه انتقال پول بین بانک های جهان) به سوریه بازگشت.\n@odin_club | @ArvanPingbot\nکی بشه این روزو توی ایران ببینم\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 131,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 144,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 202,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 202,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 202,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
