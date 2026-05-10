@@ -2896,6 +2896,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 645,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778434559,
+      "text": "آرسنال بازیشو 1-0 برد و حالا با یک بازی بیشتر 5 امتیاز اختلاف انداخته. \n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 72,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 85,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 111,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 111,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 111,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
