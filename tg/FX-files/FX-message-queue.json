@@ -6223,7 +6223,7 @@
       }
     },
     {
-      "message_id": 714,
+      "message_id": 715,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -6235,31 +6235,31 @@
         "type": "channel"
       },
       "date": 1778516402,
-      "text": "🔴 ترامپ: اگر توافقی حاصل نشه، ایران رو به یجوری هدف قرار می‌دیم که تا حالا مثلش رو ندیدن.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "text": "🔴 ترامپ: آتش‌بس با ایران تو وضعیت بسیار ضعیفی قرار داره و در آستانه فروپاشیه.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
       "entities": [
         {
-          "offset": 91,
+          "offset": 79,
           "length": 10,
           "type": "mention"
         },
         {
-          "offset": 104,
+          "offset": 92,
           "length": 13,
           "type": "mention"
         },
         {
-          "offset": 130,
+          "offset": 118,
           "length": 8,
           "type": "text_link",
           "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
         },
         {
-          "offset": 130,
+          "offset": 118,
           "length": 8,
           "type": "bold"
         },
         {
-          "offset": 130,
+          "offset": 118,
           "length": 8,
           "type": "underline"
         }
