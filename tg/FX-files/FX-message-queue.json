@@ -5560,6 +5560,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 700,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778495401,
+      "text": "❗️دوستان کانفینگ ۲۰۰ مگ رایگان میده مخصوص برنامه Happ خرید نکنید فقط اکانت تست بگیرید:\n\nhttps://t.me/OpenworldNetBot?start=269679814\n\n📥@Ezrael_chanle\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 88,
+          "length": 44,
+          "type": "url"
+        },
+        {
+          "offset": 136,
+          "length": 14,
+          "type": "mention"
+        },
+        {
+          "offset": 163,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 163,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 163,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://t.me/OpenworldNetBot?start=269679814"
+      }
     }
   ]
 }
