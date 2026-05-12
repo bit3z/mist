@@ -7116,6 +7116,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 735,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778602875,
+      "text": "اوه مهدی عرفان چنل رو بگا دادید هی فروش هی فروش 🥴 یه تنفس بدین بد نیست یارو 250 شو میبره شما سر 50 هزار خودتون رو جر ندین 😂😂\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 140,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 140,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 140,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
