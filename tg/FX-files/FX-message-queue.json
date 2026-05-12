@@ -6858,6 +6858,85 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 730,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778591115,
+      "text": "❤️Psiphon\nHostname: 78.38.180.27\nPort: 8080\n\nHostname: 217.219.133.161\nPort: 8080\n\nHostname: 85.133.207.5\nPort: 3128\n\nHostname: 87.247.188.93\nPort: 8080\n\n➖➖➖➖➖➖➖➖➖➖\n👑NexPers1 NexPers2 NexPers Gp\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 10,
+          "length": 142,
+          "type": "blockquote"
+        },
+        {
+          "offset": 20,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 55,
+          "length": 15,
+          "type": "url"
+        },
+        {
+          "offset": 93,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 128,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 167,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/+3eerO6lYZyEzNzc0"
+        },
+        {
+          "offset": 176,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/+1NpCb-pp0txjNWE0"
+        },
+        {
+          "offset": 185,
+          "length": 10,
+          "type": "text_link",
+          "url": "https://t.me/+xp9kam_p2n4yOTU0"
+        },
+        {
+          "offset": 208,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 208,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 208,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
