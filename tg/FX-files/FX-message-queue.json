@@ -10593,6 +10593,95 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 805,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778665037,
+      "text": "❤️Psiphon Proxy | پروکسی سایفون\n\n🛜متصل و تست شده ایرانسل\n\n🔴Host: 45.82.136.180\n❤️Port: 22888\n\n🛜متصل و تست شده همراه اول\n\n🔴Host: 87.247.188.93\n❤️Port: 8080\n\n➖➖➖➖➖➖➖➖➖➖\n👑NexPers1 NexPers2 NexPers Gp\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 2,
+          "length": 29,
+          "type": "bold"
+        },
+        {
+          "offset": 33,
+          "length": 24,
+          "type": "bold"
+        },
+        {
+          "offset": 67,
+          "length": 13,
+          "type": "code"
+        },
+        {
+          "offset": 89,
+          "length": 5,
+          "type": "code"
+        },
+        {
+          "offset": 98,
+          "length": 24,
+          "type": "bold"
+        },
+        {
+          "offset": 132,
+          "length": 13,
+          "type": "code"
+        },
+        {
+          "offset": 154,
+          "length": 4,
+          "type": "code"
+        },
+        {
+          "offset": 173,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/+3eerO6lYZyEzNzc0"
+        },
+        {
+          "offset": 182,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/+1NpCb-pp0txjNWE0"
+        },
+        {
+          "offset": 191,
+          "length": 10,
+          "type": "text_link",
+          "url": "https://t.me/+xp9kam_p2n4yOTU0"
+        },
+        {
+          "offset": 214,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 214,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 214,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
