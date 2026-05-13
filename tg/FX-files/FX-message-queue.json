@@ -11739,6 +11739,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 827,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778691378,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIDO2oErTJ188GwiTWk4B_OMUO3_UGxAALUDmsbttQoUMXp_QUE6N7vAQADAgADcwADOwQ",
+          "file_unique_id": "AQAD1A5rG7bUKFB4",
+          "file_size": 1169,
+          "width": 55,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIDO2oErTJ188GwiTWk4B_OMUO3_UGxAALUDmsbttQoUMXp_QUE6N7vAQADAgADbQADOwQ",
+          "file_unique_id": "AQAD1A5rG7bUKFBy",
+          "file_size": 14543,
+          "width": 195,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIDO2oErTJ188GwiTWk4B_OMUO3_UGxAALUDmsbttQoUMXp_QUE6N7vAQADAgADeAADOwQ",
+          "file_unique_id": "AQAD1A5rG7bUKFB9",
+          "file_size": 50620,
+          "width": 487,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIDO2oErTJ188GwiTWk4B_OMUO3_UGxAALUDmsbttQoUMXp_QUE6N7vAQADAgADeQADOwQ",
+          "file_unique_id": "AQAD1A5rG7bUKFB-",
+          "file_size": 74853,
+          "width": 780,
+          "height": 1280
+        }
+      ],
+      "caption": "این تصویر داره دست به دست میشه\nعاقبت خرید اینترنت پرو\n\nاز سگ کمترید از سگ\n\nحیف اسم سگ کص ننه تک تک کسانیکه پول زور دادن بابت همون نتی که قبل از جنگ در اختیار همه بود با گیگی 10 هزار استفاده نامحدود تو روز هر قدر بسته داشتین الان قلاده رو میکشن میگن هووی استفاده نکن\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 31,
+          "length": 22,
+          "type": "bold"
+        },
+        {
+          "offset": 266,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 289,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 289,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 289,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
