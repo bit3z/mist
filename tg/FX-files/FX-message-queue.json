@@ -10537,6 +10537,62 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 804,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778663777,
+      "text": "SlipNet Version : 2.5.3 \nSettings:\nVPN MTU : 512\nDNS size: 50\nMax channels: Auto\nDNS Workers: 2 , 5\nCipher : Auto\nslipnet-enc://AZsJ80UQfyMgx48+TMrbeIaXPcfT4Ss9cx554jOs0tO9bUBFYrKfX13NP3w9U0MffiERf4+sb0eg8h5jR1+T3aIwfmkcdXaarpTi3YjDnFenDW9j/XK8FxJ/JK3uNfTCBagwHWE16mmZdoLHRJn57wOO8jTOg1OEzn9Tv+YJUzuOwOfwdvR87bjT6RaP0ymwR/B+ZLnQB0Q5RQlgSRcyt41IlNV9BOpK7rV4orJUCBUUmN8gtJhh0RGVQzj72ah+N2jyWCLfS9q2dgw+iAtq5A0dslKonfiRPuM9MOPk8+nBWAwG9GrU/opzMzFG/FomD582bjobLXu8RoypMSq8kULfLdfHBgCWggECrJcS/atN1TAt3jbSSxOjUjPo+kvpo0QmOsj9rrDJHdLPzYRC/4Yvr7Mq5P06NbW5Mdu4NtQ52tkhIRwLjVJ8rN+1I4VeW9vxXSqN74/ECdxXs3FUz0BiaY+fXuWSTk4snbaV9Sz/OvgpyyXwxagHwEZdQ3kRzl3VXQA5F9QipP6v31ZhygDXa6YqPTBq5EvN1/kI6g4eO0g9JskMXYAYCIgdw8VhJSUF1mQv/M0fxTHvlGoQnqrtmWbRUFwGg5vS4Z/2U9fymrzhvecDVGGDHv2iywlcjNcYoLbw/LJWs60wfbU5OysnnyGnAKC2l+FEqB1MjnFEzgE=\n\nبا همه اپراتور ها تست کنید🇩🇪⚡\n\nمیتونید مقادیری که بالای پست نوشتم مثل DNS Query Size و MTU با توجه به کیفیت اینترنت منطقه خودتون افزایش بدید\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 24,
+          "type": "blockquote"
+        },
+        {
+          "offset": 47,
+          "length": 79,
+          "type": "blockquote"
+        },
+        {
+          "offset": 961,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 974,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 996,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 996,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 996,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
