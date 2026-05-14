@@ -13339,7 +13339,7 @@
       }
     },
     {
-      "message_id": 861,
+      "message_id": 862,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -13351,138 +13351,28 @@
         "type": "channel"
       },
       "date": 1778746580,
-      "video": {
-        "duration": 111,
-        "width": 720,
-        "height": 1280,
-        "mime_type": "video/mp4",
-        "qualities": [
-          {
-            "width": 720,
-            "height": 1280,
-            "codec": "av01",
-            "file_id": "BAACAgQAAyEFAATqPDJ3AAIDXWoFhNT2ZUcsIs37-GE631k0_DM6AAKYHgACgbMwUEoJdN1A7oqDOwQ",
-            "file_unique_id": "AgADmB4AAoGzMFA",
-            "file_size": 11222274
-          },
-          {
-            "width": 720,
-            "height": 1280,
-            "codec": "h264",
-            "file_id": "BAACAgQAAyEFAATqPDJ3AAIDXWoFhNTi3_TuByx230SG_nx4UcyzAAJbGwACFPkxUOFqUUBEIuXfOwQ",
-            "file_unique_id": "AgADWxsAAhT5MVA",
-            "file_size": 14843721
-          },
-          {
-            "width": 480,
-            "height": 852,
-            "codec": "av01",
-            "file_id": "BAACAgQAAyEFAATqPDJ3AAIDXWoFhNTfzuaiScsrjQIzF_fIM4eeAAKSHwACTdgpUJ27X9LL0Bx6OwQ",
-            "file_unique_id": "AgADkh8AAk3YKVA",
-            "file_size": 6675055
-          },
-          {
-            "width": 480,
-            "height": 852,
-            "codec": "h264",
-            "file_id": "BAACAgQAAyEFAATqPDJ3AAIDXWoFhNSp8UpbIGr7xJsZhAgRSwQ-AAJMIQACSrcpUH5NiYkyYMRyOwQ",
-            "file_unique_id": "AgADTCEAAkq3KVA",
-            "file_size": 8389281
-          }
-        ],
-        "thumbnail": {
-          "file_id": "AAMCBAADIQUABOo8MncAAgNdagWE1EWoHBjg-NhBQ9WQUhGkkRUAAnQdAAIgyTFQ7mIJjOLQxpMBAAdtAAM7BA",
-          "file_unique_id": "AQADdB0AAiDJMVBy",
-          "file_size": 13829,
-          "width": 180,
-          "height": 320
-        },
-        "thumb": {
-          "file_id": "AAMCBAADIQUABOo8MncAAgNdagWE1EWoHBjg-NhBQ9WQUhGkkRUAAnQdAAIgyTFQ7mIJjOLQxpMBAAdtAAM7BA",
-          "file_unique_id": "AQADdB0AAiDJMVBy",
-          "file_size": 13829,
-          "width": 180,
-          "height": 320
-        },
-        "file_id": "BAACAgQAAyEFAATqPDJ3AAIDXWoFhNRFqBwY4PjYQUPVkFIRpJEVAAJ0HQACIMkxUO5iCYzi0MaTOwQ",
-        "file_unique_id": "AgADdB0AAiDJMVA",
-        "file_size": 14855065
-      },
-      "caption": "آموزش تصویری کامل و ساده\nمتود Psiphon—MITM\nسرعت: عالی\nحجم: نامحدود!\nپیش‌نیاز: هیچی!!!\nنکته مهم نهایی!!! برنامه v2rayNG باید تونل نشه! گزینه Don't tunnel selected apps بزنید و برنامه v2rayNG رو انتخاب کنید!\nسایت مورد نیاز اول ویدیو برای دریافت سرتیفیکیت:\nhttps://regery.com/en/security/ssl-tools/self-signed-certificate-generator\nدانلود ZIP آموزش تصویری + پی دی اف + کانفیگ لازم با لینک داخلی:\nhttps://uploadgirl.ir/d/de707acd-2595-4357-9cbe-ae670a0ddc40\n\nZIP Password: @TheVPNMethod\nلینک دانلود داخلی سایفون!\nلینک دانلود داخلی v2rayNG!\n— More: @TheVPNMethod\n\n• Sent via TeleFeed",
-      "caption_entities": [
+      "text": "بزنید اینو تست کردم اوکیه ...😁❤️\n\n• Sent via TeleFeed",
+      "entities": [
         {
-          "offset": 0,
-          "length": 42,
-          "type": "blockquote"
-        },
-        {
-          "offset": 55,
-          "length": 42,
-          "type": "blockquote"
-        },
-        {
-          "offset": 110,
-          "length": 120,
-          "type": "blockquote"
-        },
-        {
-          "offset": 242,
-          "length": 122,
-          "type": "blockquote"
-        },
-        {
-          "offset": 254,
-          "length": 74,
-          "type": "url"
-        },
-        {
-          "offset": 377,
-          "length": 153,
-          "type": "blockquote"
-        },
-        {
-          "offset": 393,
-          "length": 60,
-          "type": "url"
-        },
-        {
-          "offset": 469,
-          "length": 13,
-          "type": "mention"
-        },
-        {
-          "offset": 483,
-          "length": 25,
-          "type": "text_link",
-          "url": "https://c224731.parspack.net/c224731/psi/PsiphonPro_v460.apk"
-        },
-        {
-          "offset": 543,
-          "length": 25,
-          "type": "blockquote"
-        },
-        {
-          "offset": 544,
-          "length": 13,
-          "type": "mention"
-        },
-        {
-          "offset": 570,
+          "offset": 46,
           "length": 8,
           "type": "text_link",
           "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
         },
         {
-          "offset": 570,
+          "offset": 46,
           "length": 8,
           "type": "bold"
         },
         {
-          "offset": 570,
+          "offset": 46,
           "length": 8,
           "type": "underline"
         }
-      ]
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
