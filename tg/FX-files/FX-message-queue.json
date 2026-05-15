@@ -17893,6 +17893,90 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 933,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778856297,
+      "text": "🔴آیپی تمیز برا شیر و خورشید\n\nsophos .com  185.200.232.27, 185.200.232.16 \nwww.mathworks.com  2.23.169.12 \n\n➖➖➖➖➖➖➖➖➖➖\n👑NexPers1 NexPers2 NexPers Gp\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 2,
+          "length": 27,
+          "type": "bold"
+        },
+        {
+          "offset": 30,
+          "length": 76,
+          "type": "blockquote"
+        },
+        {
+          "offset": 43,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 59,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 75,
+          "length": 17,
+          "type": "url"
+        },
+        {
+          "offset": 94,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 121,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/+3eerO6lYZyEzNzc0"
+        },
+        {
+          "offset": 130,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/+1NpCb-pp0txjNWE0"
+        },
+        {
+          "offset": 139,
+          "length": 10,
+          "type": "text_link",
+          "url": "https://t.me/+xp9kam_p2n4yOTU0"
+        },
+        {
+          "offset": 162,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 162,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 162,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
