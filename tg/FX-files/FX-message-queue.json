@@ -18909,6 +18909,72 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 954,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778866557,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIDumoHWX0LcAQk9-LDgxgjf3_7TVYRAAKKD2sbbOhAUOwrD1AL4iKlAQADAgADcwADOwQ",
+          "file_unique_id": "AQADig9rG2zoQFB4",
+          "file_size": 1240,
+          "width": 90,
+          "height": 56
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIDumoHWX0LcAQk9-LDgxgjf3_7TVYRAAKKD2sbbOhAUOwrD1AL4iKlAQADAgADbQADOwQ",
+          "file_unique_id": "AQADig9rG2zoQFBy",
+          "file_size": 16928,
+          "width": 320,
+          "height": 200
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIDumoHWX0LcAQk9-LDgxgjf3_7TVYRAAKKD2sbbOhAUOwrD1AL4iKlAQADAgADeAADOwQ",
+          "file_unique_id": "AQADig9rG2zoQFB9",
+          "file_size": 44423,
+          "width": 580,
+          "height": 362
+        }
+      ],
+      "caption": "🔴محل ترور عزالدین حداد فرمانده گردان های القسام در شهر غزه\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 61,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 74,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 100,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 100,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 100,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
