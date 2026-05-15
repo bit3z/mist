@@ -17292,6 +17292,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 921,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778846114,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIDmWoHCaJvbS5FgUeCZNDV2Kw3MFazAAJdDmsbbOhAUCi_12u2SY5HAQADAgADcwADOwQ",
+          "file_unique_id": "AQADXQ5rG2zoQFB4",
+          "file_size": 1757,
+          "width": 67,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIDmWoHCaJvbS5FgUeCZNDV2Kw3MFazAAJdDmsbbOhAUCi_12u2SY5HAQADAgADbQADOwQ",
+          "file_unique_id": "AQADXQ5rG2zoQFBy",
+          "file_size": 27373,
+          "width": 240,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIDmWoHCaJvbS5FgUeCZNDV2Kw3MFazAAJdDmsbbOhAUCi_12u2SY5HAQADAgADeAADOwQ",
+          "file_unique_id": "AQADXQ5rG2zoQFB9",
+          "file_size": 123271,
+          "width": 600,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIDmWoHCaJvbS5FgUeCZNDV2Kw3MFazAAJdDmsbbOhAUCi_12u2SY5HAQADAgADeQADOwQ",
+          "file_unique_id": "AQADXQ5rG2zoQFB-",
+          "file_size": 192598,
+          "width": 900,
+          "height": 1200
+        }
+      ],
+      "caption": "لیست تیم ملی بلژیک برای جام جهانی هم اومد. اونا 31 خرداد ساعت 22:30 با ایران بازی دارن\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 87,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 100,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 126,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 126,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 126,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
