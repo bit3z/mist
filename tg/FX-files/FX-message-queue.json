@@ -22365,7 +22365,7 @@
       }
     },
     {
-      "message_id": 1023,
+      "message_id": 1024,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -22377,68 +22377,38 @@
         "type": "channel"
       },
       "date": 1778957033,
-      "animation": {
-        "mime_type": "video/mp4",
-        "duration": 8,
-        "width": 392,
-        "height": 700,
-        "thumbnail": {
-          "file_id": "AAMCBAADIQUABOo8MncAAgP_agi66neUpJz2hgfOQqZ6pXE9vCAAAjkdAAJ7RUlQw3xYyh8CIbgBAAdtAAM7BA",
-          "file_unique_id": "AQADOR0AAntFSVBy",
-          "file_size": 13118,
-          "width": 179,
-          "height": 320
-        },
-        "thumb": {
-          "file_id": "AAMCBAADIQUABOo8MncAAgP_agi66neUpJz2hgfOQqZ6pXE9vCAAAjkdAAJ7RUlQw3xYyh8CIbgBAAdtAAM7BA",
-          "file_unique_id": "AQADOR0AAntFSVBy",
-          "file_size": 13118,
-          "width": 179,
-          "height": 320
-        },
-        "file_id": "CgACAgQAAyEFAATqPDJ3AAID_2oIuup3lKSc9oYHzkKmeqVxPbwgAAI5HQACe0VJUMN8WMofAiG4OwQ",
-        "file_unique_id": "AgADOR0AAntFSVA",
-        "file_size": 1043425
-      },
-      "document": {
-        "mime_type": "video/mp4",
-        "thumbnail": {
-          "file_id": "AAMCBAADIQUABOo8MncAAgP_agi66neUpJz2hgfOQqZ6pXE9vCAAAjkdAAJ7RUlQw3xYyh8CIbgBAAdtAAM7BA",
-          "file_unique_id": "AQADOR0AAntFSVBy",
-          "file_size": 13118,
-          "width": 179,
-          "height": 320
-        },
-        "thumb": {
-          "file_id": "AAMCBAADIQUABOo8MncAAgP_agi66neUpJz2hgfOQqZ6pXE9vCAAAjkdAAJ7RUlQw3xYyh8CIbgBAAdtAAM7BA",
-          "file_unique_id": "AQADOR0AAntFSVBy",
-          "file_size": 13118,
-          "width": 179,
-          "height": 320
-        },
-        "file_id": "CgACAgQAAyEFAATqPDJ3AAID_2oIuup3lKSc9oYHzkKmeqVxPbwgAAI5HQACe0VJUMN8WMofAiG4OwQ",
-        "file_unique_id": "AgADOR0AAntFSVA",
-        "file_size": 1043425
-      },
-      "caption": "• Sent via TeleFeed",
-      "caption_entities": [
+      "text": "کیرم دهنت مهدی قائدی\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
         {
-          "offset": 11,
+          "offset": 21,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 34,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 60,
           "length": 8,
           "type": "text_link",
           "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
         },
         {
-          "offset": 11,
+          "offset": 60,
           "length": 8,
           "type": "bold"
         },
         {
-          "offset": 11,
+          "offset": 60,
           "length": 8,
           "type": "underline"
         }
-      ]
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
