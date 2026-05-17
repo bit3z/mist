@@ -1,0 +1,675 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Akamai Clean IP Scanner | اسکنر IP تمیز آکامای</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  :root {
+    --bg-1: #0a0e1a;
+    --bg-2: #131826;
+    --bg-3: #1a2138;
+    --accent: #00d9ff;
+    --accent-2: #7c5cff;
+    --green: #00ff88;
+    --red: #ff4757;
+    --yellow: #ffb84d;
+    --text: #e6edf3;
+    --text-dim: #8b95a7;
+    --border: #2a3349;
+  }
+  body {
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    background: radial-gradient(circle at top left, #1a2342 0%, var(--bg-1) 50%);
+    color: var(--text);
+    min-height: 100vh;
+    padding: 20px;
+    line-height: 1.6;
+  }
+  .container { max-width: 1200px; margin: 0 auto; }
+
+  header {
+    text-align: center;
+    padding: 30px 0;
+    margin-bottom: 30px;
+    border-bottom: 1px solid var(--border);
+  }
+  header h1 {
+    font-size: 2.2rem;
+    background: linear-gradient(90deg, var(--accent), var(--accent-2));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 8px;
+  }
+  header p { color: var(--text-dim); font-size: 0.95rem; }
+
+  .card {
+    background: var(--bg-2);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 24px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+  }
+  .card h2 {
+    font-size: 1.2rem;
+    margin-bottom: 16px;
+    color: var(--accent);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .card h2::before {
+    content: '';
+    width: 4px;
+    height: 20px;
+    background: var(--accent);
+    border-radius: 2px;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 16px;
+    margin-bottom: 16px;
+  }
+  .form-group label {
+    display: block;
+    margin-bottom: 6px;
+    color: var(--text-dim);
+    font-size: 0.85rem;
+  }
+  input, select, textarea {
+    width: 100%;
+    padding: 10px 14px;
+    background: var(--bg-3);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    color: var(--text);
+    font-family: inherit;
+    font-size: 0.95rem;
+    transition: border-color 0.2s;
+  }
+  input:focus, select:focus, textarea:focus {
+    outline: none;
+    border-color: var(--accent);
+  }
+  textarea {
+    min-height: 120px;
+    font-family: 'Consolas', monospace;
+    resize: vertical;
+  }
+
+  .button-row {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    margin-top: 16px;
+  }
+  button {
+    padding: 12px 24px;
+    border: none;
+    border-radius: 8px;
+    font-family: inherit;
+    font-size: 0.95rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: transform 0.15s, box-shadow 0.15s;
+  }
+  button:hover { transform: translateY(-2px); }
+  button:active { transform: translateY(0); }
+  button:disabled { opacity: 0.5; cursor: not-allowed; transform: none; }
+
+  .btn-primary {
+    background: linear-gradient(135deg, var(--accent), var(--accent-2));
+    color: #000;
+  }
+  .btn-secondary {
+    background: var(--bg-3);
+    color: var(--text);
+    border: 1px solid var(--border);
+  }
+  .btn-danger {
+    background: var(--red);
+    color: #fff;
+  }
+  .btn-success {
+    background: var(--green);
+    color: #000;
+  }
+
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 12px;
+    margin-bottom: 16px;
+  }
+  .stat {
+    background: var(--bg-3);
+    padding: 14px;
+    border-radius: 8px;
+    text-align: center;
+    border: 1px solid var(--border);
+  }
+  .stat .value {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--accent);
+  }
+  .stat .label {
+    font-size: 0.8rem;
+    color: var(--text-dim);
+    margin-top: 4px;
+  }
+
+  .progress-bar {
+    width: 100%;
+    height: 8px;
+    background: var(--bg-3);
+    border-radius: 4px;
+    overflow: hidden;
+    margin: 12px 0;
+  }
+  .progress-fill {
+    height: 100%;
+    background: linear-gradient(90deg, var(--accent), var(--accent-2));
+    width: 0%;
+    transition: width 0.3s;
+  }
+
+  .results-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 12px;
+    font-size: 0.9rem;
+  }
+  .results-table th {
+    background: var(--bg-3);
+    padding: 12px;
+    text-align: right;
+    color: var(--accent);
+    font-weight: 600;
+    position: sticky;
+    top: 0;
+  }
+  .results-table td {
+    padding: 10px 12px;
+    border-bottom: 1px solid var(--border);
+  }
+  .results-table tr:hover { background: var(--bg-3); }
+
+  .badge {
+    display: inline-block;
+    padding: 3px 10px;
+    border-radius: 12px;
+    font-size: 0.75rem;
+    font-weight: 600;
+  }
+  .badge-alive { background: rgba(0, 255, 136, 0.15); color: var(--green); }
+  .badge-dead  { background: rgba(255, 71, 87, 0.15); color: var(--red); }
+  .badge-fast  { background: rgba(0, 217, 255, 0.15); color: var(--accent); }
+  .badge-slow  { background: rgba(255, 184, 77, 0.15); color: var(--yellow); }
+
+  .table-wrapper {
+    max-height: 500px;
+    overflow-y: auto;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+  }
+
+  .empty-state {
+    text-align: center;
+    padding: 40px;
+    color: var(--text-dim);
+  }
+
+  .toast {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: var(--bg-3);
+    border: 1px solid var(--accent);
+    padding: 12px 24px;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+    opacity: 0;
+    transition: opacity 0.3s;
+    z-index: 1000;
+  }
+  .toast.show { opacity: 1; }
+
+  .info-note {
+    background: rgba(0, 217, 255, 0.08);
+    border-right: 3px solid var(--accent);
+    padding: 12px 16px;
+    border-radius: 6px;
+    margin-bottom: 16px;
+    font-size: 0.88rem;
+    color: var(--text-dim);
+  }
+
+  footer {
+    text-align: center;
+    padding: 20px;
+    color: var(--text-dim);
+    font-size: 0.85rem;
+    margin-top: 30px;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <header>
+    <h1>⚡ Akamai Clean IP Scanner</h1>
+    <p>اسکنر آنلاین IP تمیز آکامای — کاملاً مرورگری، بدون نیاز به سرور</p>
+  </header>
+
+  <!-- بخش ورودی -->
+  <div class="card">
+    <h2>تنظیمات اسکن</h2>
+
+    <div class="info-note">
+      💡 می‌توانید IP، CIDR (مثل <code>23.72.0.0/24</code>) یا بازه (<code>2.16.0.1-2.16.0.50</code>) وارد کنید.
+      یا یکی از رنج‌های آماده‌ی آکامای را از منوی زیر انتخاب کنید.
+    </div>
+
+    <div class="grid">
+      <div class="form-group">
+        <label>رنج‌های آماده‌ی Akamai</label>
+        <select id="presetRange">
+          <option value="">— انتخاب کن —</option>
+          <option value="2.16.0.0/16">2.16.0.0/16 (Akamai EU)</option>
+          <option value="2.17.0.0/16">2.17.0.0/16 (Akamai EU)</option>
+          <option value="2.18.0.0/16">2.18.0.0/16 (Akamai EU)</option>
+          <option value="23.32.0.0/16">23.32.0.0/16 (Akamai US)</option>
+          <option value="23.72.0.0/16">23.72.0.0/16 (Akamai US)</option>
+          <option value="23.192.0.0/16">23.192.0.0/16 (Akamai US)</option>
+          <option value="23.193.0.0/16">23.193.0.0/16 (Akamai US)</option>
+          <option value="104.64.0.0/16">104.64.0.0/16 (Akamai)</option>
+          <option value="104.65.0.0/16">104.65.0.0/16 (Akamai)</option>
+          <option value="104.103.0.0/16">104.103.0.0/16 (Akamai)</option>
+          <option value="184.24.0.0/16">184.24.0.0/16 (Akamai)</option>
+          <option value="184.84.0.0/16">184.84.0.0/16 (Akamai)</option>
+          <option value="184.86.0.0/16">184.86.0.0/16 (Akamai)</option>
+        </select>
+      </div>
+
+      <div class="form-group">
+        <label>تعداد همزمان (Concurrency)</label>
+        <input type="number" id="concurrency" value="20" min="1" max="100">
+      </div>
+
+      <div class="form-group">
+        <label>تایم‌اوت (میلی‌ثانیه)</label>
+        <input type="number" id="timeout" value="3000" min="500" max="10000">
+      </div>
+
+      <div class="form-group">
+        <label>حداکثر IP برای تست</label>
+        <input type="number" id="maxIps" value="256" min="1" max="2000">
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label>لیست IP / CIDR / بازه (هر کدام در یک خط)</label>
+      <textarea id="ipInput" placeholder="مثال:&#10;23.72.0.0/24&#10;2.16.0.1-2.16.0.50&#10;104.64.0.5"></textarea>
+    </div>
+
+    <div class="button-row">
+      <button class="btn-primary" id="startBtn">🚀 شروع اسکن</button>
+      <button class="btn-danger" id="stopBtn" disabled>⏹ توقف</button>
+      <button class="btn-secondary" id="clearBtn">🗑 پاک کردن نتایج</button>
+      <button class="btn-success" id="exportBtn" disabled>💾 خروجی TXT</button>
+      <button class="btn-secondary" id="exportCsvBtn" disabled>📊 خروجی CSV</button>
+    </div>
+  </div>
+
+  <!-- بخش وضعیت -->
+  <div class="card">
+    <h2>وضعیت اسکن</h2>
+    <div class="stats">
+      <div class="stat"><div class="value" id="statTotal">0</div><div class="label">کل</div></div>
+      <div class="stat"><div class="value" id="statTested">0</div><div class="label">تست‌شده</div></div>
+      <div class="stat"><div class="value" id="statAlive">0</div><div class="label">زنده</div></div>
+      <div class="stat"><div class="value" id="statDead">0</div><div class="label">قطع</div></div>
+      <div class="stat"><div class="value" id="statBest">—</div><div class="label">بهترین (ms)</div></div>
+      <div class="stat"><div class="value" id="statAvg">—</div><div class="label">میانگین (ms)</div></div>
+    </div>
+    <div class="progress-bar"><div class="progress-fill" id="progressFill"></div></div>
+    <div id="statusText" style="text-align:center; color:var(--text-dim); font-size:0.9rem;">آماده برای شروع...</div>
+  </div>
+
+  <!-- بخش نتایج -->
+  <div class="card">
+    <h2>نتایج (مرتب‌شده بر اساس کمترین تأخیر)</h2>
+    <div class="table-wrapper">
+      <table class="results-table">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>IP</th>
+            <th>وضعیت</th>
+            <th>تأخیر</th>
+            <th>کیفیت</th>
+          </tr>
+        </thead>
+        <tbody id="resultsBody">
+          <tr><td colspan="5"><div class="empty-state">هنوز نتیجه‌ای نیست. اسکن را شروع کنید.</div></td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <footer>
+    ساخته‌شده برای تست شخصی • فقط روی IPهای مجاز اسکن کنید
+  </footer>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+// ============================================================
+// Akamai Clean IP Scanner - Browser-based
+// ============================================================
+
+// State
+let scanState = {
+  running: false,
+  stopRequested: false,
+  results: [],
+  total: 0,
+  tested: 0,
+  alive: 0,
+  dead: 0
+};
+
+// ---------- Utility: Toast ----------
+function toast(msg, duration = 2500) {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), duration);
+}
+
+// ---------- IP Parsing ----------
+function ipToInt(ip) {
+  const parts = ip.split('.').map(Number);
+  if (parts.length !== 4 || parts.some(p => isNaN(p) || p < 0 || p > 255)) return null;
+  return ((parts[0] << 24) | (parts[1] << 16) | (parts[2] << 8) | parts[3]) >>> 0;
+}
+function intToIp(n) {
+  return [(n >>> 24) & 255, (n >>> 16) & 255, (n >>> 8) & 255, n & 255].join('.');
+}
+
+function expandCidr(cidr) {
+  const [ip, bitsStr] = cidr.split('/');
+  const bits = parseInt(bitsStr, 10);
+  if (isNaN(bits) || bits < 0 || bits > 32) return [];
+  const ipInt = ipToInt(ip);
+  if (ipInt === null) return [];
+  const hostBits = 32 - bits;
+  const count = Math.pow(2, hostBits);
+  const network = ipInt & (~((1 << hostBits) - 1) >>> 0);
+  const ips = [];
+  for (let i = 0; i < count; i++) {
+    ips.push(intToIp((network + i) >>> 0));
+  }
+  return ips;
+}
+
+function expandRange(range) {
+  const [start, end] = range.split('-').map(s => s.trim());
+  const s = ipToInt(start);
+  const e = ipToInt(end);
+  if (s === null || e === null || e < s) return [];
+  const ips = [];
+  for (let i = s; i <= e; i++) ips.push(intToIp(i));
+  return ips;
+}
+
+function parseInput(text) {
+  const lines = text.split('\n').map(l => l.trim()).filter(l => l && !l.startsWith('#'));
+  const all = new Set();
+  for (const line of lines) {
+    if (line.includes('/')) {
+      expandCidr(line).forEach(ip => all.add(ip));
+    } else if (line.includes('-')) {
+      expandRange(line).forEach(ip => all.add(ip));
+    } else if (ipToInt(line) !== null) {
+      all.add(line);
+    }
+  }
+  return Array.from(all);
+}
+
+// ---------- IP Test (browser-compatible) ----------
+// Technique: load a tiny resource from the IP over HTTPS.
+// Even if CORS/SSL fails, a FAST failure means the IP responded.
+// A timeout means the IP is dead or blocked.
+function testIp(ip, timeoutMs) {
+  return new Promise(resolve => {
+    const start = performance.now();
+    let settled = false;
+    const url = `https://${ip}/favicon.ico?_=${Math.random()}`;
+
+    const finish = (alive, latency, reason) => {
+      if (settled) return;
+      settled = true;
+      clearTimeout(timer);
+      resolve({ ip, alive, latency: Math.round(latency), reason });
+    };
+
+    const timer = setTimeout(() => {
+      finish(false, timeoutMs, 'timeout');
+    }, timeoutMs);
+
+    // Use fetch with no-cors mode; we don't care about the response body,
+    // only whether the connection completes quickly.
+    fetch(url, {
+      method: 'GET',
+      mode: 'no-cors',
+      cache: 'no-store',
+      signal: AbortSignal.timeout ? AbortSignal.timeout(timeoutMs) : undefined
+    })
+      .then(() => {
+        const latency = performance.now() - start;
+        finish(true, latency, 'ok');
+      })
+      .catch(() => {
+        // A fast error (under timeout) often means TCP connected but TLS/CORS rejected
+        // -> the IP is reachable. A slow failure = dead.
+        const latency = performance.now() - start;
+        if (latency < timeoutMs * 0.9) {
+          finish(true, latency, 'fast-fail');
+        } else {
+          finish(false, latency, 'slow-fail');
+        }
+      });
+  });
+}
+
+// ---------- Concurrency Pool ----------
+async function runPool(items, worker, concurrency, onProgress) {
+  let index = 0;
+  const workers = Array.from({ length: concurrency }, async () => {
+    while (index < items.length && !scanState.stopRequested) {
+      const myIndex = index++;
+      const item = items[myIndex];
+      const result = await worker(item);
+      onProgress(result);
+    }
+  });
+  await Promise.all(workers);
+}
+
+// ---------- UI Updates ----------
+function updateStats() {
+  document.getElementById('statTotal').textContent = scanState.total;
+  document.getElementById('statTested').textContent = scanState.tested;
+  document.getElementById('statAlive').textContent = scanState.alive;
+  document.getElementById('statDead').textContent = scanState.dead;
+
+  const alives = scanState.results.filter(r => r.alive);
+  if (alives.length) {
+    const best = Math.min(...alives.map(r => r.latency));
+    const avg = alives.reduce((s, r) => s + r.latency, 0) / alives.length;
+    document.getElementById('statBest').textContent = best;
+    document.getElementById('statAvg').textContent = Math.round(avg);
+  }
+
+  const pct = scanState.total ? (scanState.tested / scanState.total) * 100 : 0;
+  document.getElementById('progressFill').style.width = pct + '%';
+  document.getElementById('statusText').textContent =
+    scanState.running
+      ? `در حال اسکن... ${scanState.tested}/${scanState.total} (${pct.toFixed(1)}%)`
+      : (scanState.tested ? `اسکن تمام شد. ${scanState.alive} IP زنده پیدا شد.` : 'آماده برای شروع...');
+}
+
+function renderResults() {
+  const body = document.getElementById('resultsBody');
+  const sorted = [...scanState.results]
+    .filter(r => r.alive)
+    .sort((a, b) => a.latency - b.latency);
+
+  if (!sorted.length) {
+    body.innerHTML = '<tr><td colspan="5"><div class="empty-state">هنوز IP زنده‌ای پیدا نشده.</div></td></tr>';
+    return;
+  }
+
+  body.innerHTML = sorted.map((r, i) => {
+    const qualityBadge =
+      r.latency < 200 ? '<span class="badge badge-fast">عالی</span>' :
+      r.latency < 500 ? '<span class="badge badge-fast">خوب</span>' :
+      r.latency < 1000 ? '<span class="badge badge-slow">متوسط</span>' :
+      '<span class="badge badge-slow">کند</span>';
+    return `
+      <tr>
+        <td>${i + 1}</td>
+        <td style="font-family:Consolas,monospace;">${r.ip}</td>
+        <td><span class="badge badge-alive">زنده</span></td>
+        <td>${r.latency} ms</td>
+        <td>${qualityBadge}</td>
+      </tr>`;
+  }).join('');
+}
+
+// ---------- Main Scan ----------
+async function startScan() {
+  const input = document.getElementById('ipInput').value;
+  const concurrency = Math.max(1, Math.min(100, parseInt(document.getElementById('concurrency').value) || 20));
+  const timeout = Math.max(500, parseInt(document.getElementById('timeout').value) || 3000);
+  const maxIps = Math.max(1, parseInt(document.getElementById('maxIps').value) || 256);
+
+  let ips = parseInput(input);
+  if (!ips.length) {
+    toast('❌ هیچ IP معتبری وارد نکردی!');
+    return;
+  }
+
+  if (ips.length > maxIps) {
+    // Random sample to avoid scanning thousands
+    ips = ips.sort(() => Math.random() - 0.5).slice(0, maxIps);
+    toast(`⚠️ نمونه‌ی تصادفی ${maxIps} IP انتخاب شد`);
+  }
+
+  // Reset state
+  scanState = {
+    running: true, stopRequested: false,
+    results: [], total: ips.length, tested: 0, alive: 0, dead: 0
+  };
+
+  document.getElementById('startBtn').disabled = true;
+  document.getElementById('stopBtn').disabled = false;
+  document.getElementById('exportBtn').disabled = true;
+  document.getElementById('exportCsvBtn').disabled = true;
+
+  updateStats();
+  renderResults();
+
+  await runPool(ips, ip => testIp(ip, timeout), concurrency, result => {
+    scanState.results.push(result);
+    scanState.tested++;
+    if (result.alive) scanState.alive++; else scanState.dead++;
+    updateStats();
+    // Re-render every 5 results to avoid lag
+    if (scanState.tested % 5 === 0 || scanState.tested === scanState.total) {
+      renderResults();
+    }
+  });
+
+  scanState.running = false;
+  renderResults();
+  updateStats();
+
+  document.getElementById('startBtn').disabled = false;
+  document.getElementById('stopBtn').disabled = true;
+  document.getElementById('exportBtn').disabled = scanState.alive === 0;
+  document.getElementById('exportCsvBtn').disabled = scanState.alive === 0;
+
+  toast(scanState.stopRequested ? '⏹ متوقف شد' : '✅ اسکن کامل شد');
+}
+
+function stopScan() {
+  scanState.stopRequested = true;
+  toast('در حال توقف...');
+}
+
+function clearResults() {
+  scanState = { running: false, stopRequested: false, results: [], total: 0, tested: 0, alive: 0, dead: 0 };
+  document.getElementById('statBest').textContent = '—';
+  document.getElementById('statAvg').textContent = '—';
+  document.getElementById('exportBtn').disabled = true;
+  document.getElementById('exportCsvBtn').disabled = true;
+  updateStats();
+  renderResults();
+  toast('🗑 پاک شد');
+}
+
+// ---------- Export ----------
+function downloadFile(filename, content, type = 'text/plain') {
+  const blob = new Blob([content], { type });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = filename;
+  a.click();
+  URL.revokeObjectURL(url);
+}
+
+function exportTxt() {
+  const sorted = scanState.results.filter(r => r.alive).sort((a, b) => a.latency - b.latency);
+  const content = sorted.map(r => r.ip).join('\n');
+  downloadFile('akamai_clean_ips.txt', content);
+  toast('💾 فایل TXT ذخیره شد');
+}
+
+function exportCsv() {
+  const sorted = scanState.results.filter(r => r.alive).sort((a, b) => a.latency - b.latency);
+  const rows = [['IP', 'Latency (ms)', 'Status'], ...sorted.map(r => [r.ip, r.latency, 'alive'])];
+  const csv = rows.map(r => r.join(',')).join('\n');
+  downloadFile('akamai_clean_ips.csv', csv, 'text/csv');
+  toast('📊 فایل CSV ذخیره شد');
+}
+
+// ---------- Event Listeners ----------
+document.getElementById('startBtn').addEventListener('click', startScan);
+document.getElementById('stopBtn').addEventListener('click', stopScan);
+document.getElementById('clearBtn').addEventListener('click', clearResults);
+document.getElementById('exportBtn').addEventListener('click', exportTxt);
+document.getElementById('exportCsvBtn').addEventListener('click', exportCsv);
+
+document.getElementById('presetRange').addEventListener('change', (e) => {
+  if (e.target.value) {
+    const ta = document.getElementById('ipInput');
+    ta.value = (ta.value ? ta.value + '\n' : '') + e.target.value;
+    e.target.value = '';
+    toast('✅ به لیست اضافه شد');
+  }
+});
+</script>
+</body>
+</html>
