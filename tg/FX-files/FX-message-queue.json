@@ -1,61 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 892,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778780721,
-      "document": {
-        "file_name": "Best IP 300.txt",
-        "mime_type": "text/plain",
-        "file_id": "BQACAgQAAyEFAATqPDJ3AAIDfGoGCjFskVr5A95PM-ddi6prLXieAALqHQACi8YwUJipenbO19ZjOwQ",
-        "file_unique_id": "AgAD6h0AAovGMFA",
-        "file_size": 4089
-      },
-      "caption": "300 آیپی جدید برای استفاده در برنامه شیر و خورشید\n\n\nآیپی‌ ها رو از داخل فایل کپی کنید و طبق آموزش در برنامه قرار بدید و وصل بشید.\n\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
-      "caption_entities": [
-        {
-          "offset": 0,
-          "length": 49,
-          "type": "bold"
-        },
-        {
-          "offset": 132,
-          "length": 12,
-          "type": "mention"
-        },
-        {
-          "offset": 145,
-          "length": 9,
-          "type": "mention"
-        },
-        {
-          "offset": 167,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 167,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 167,
-          "length": 8,
-          "type": "underline"
-        }
-      ]
-    },
-    {
       "message_id": 893,
       "sender_chat": {
         "id": -1003929813623,
