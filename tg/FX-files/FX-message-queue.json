@@ -1,47 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 846,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778704743,
-      "text": "کسی تون کویین داره !؟؟\n\nاگه داره بیاد پیوی \n@y6siin\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 44,
-          "length": 7,
-          "type": "mention"
-        },
-        {
-          "offset": 64,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 64,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 64,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 847,
       "sender_chat": {
         "id": -1003929813623,
