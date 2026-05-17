@@ -1,52 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 1015,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778954340,
-      "text": "🔻رسمی: سردار آزمون از لیست 30 نفره تیم جمهوری اسلامی برای جام جهانی خط خورد \n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 78,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 91,
-          "length": 13,
-          "type": "mention"
-        },
-        {
-          "offset": 117,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 117,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 117,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 1016,
       "sender_chat": {
         "id": -1003929813623,
