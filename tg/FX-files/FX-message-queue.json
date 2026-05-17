@@ -1,52 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 759,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778613495,
-      "text": "رویترز: ریاض پیش از انجام حملات، تهران را از قصد خود مطلع کرده بود\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 68,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 79,
-          "length": 13,
-          "type": "mention"
-        },
-        {
-          "offset": 105,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 105,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 105,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 760,
       "sender_chat": {
         "id": -1003929813623,
