@@ -1,47 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 987,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778938249,
-      "text": "🔅کانفینگ نامحدود ویتوری بدون محدودیت سرعت مدت یکماهه:\n\n💵قیمت فقط  7/000/000\n\n🔴  سرورها دارای ساب و بدون ضریب، ضمانت بازگشت وجه میباشد.\n\n👨‍💻@qatel_seryalei\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 144,
-          "length": 15,
-          "type": "mention"
-        },
-        {
-          "offset": 172,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 172,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 172,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 988,
       "sender_chat": {
         "id": -1003929813623,
