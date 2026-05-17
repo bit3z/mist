@@ -1,47 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 831,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778692638,
-      "text": "دو سال پیش تو صدا وسیما یه زنه میگفت اگه رفاه و تفریح این چنینی میخواهد برید کانادا سوئیسو...\nمجری بی ناموس صدا و سیما امسال گفته بود اینترنت میخواهید برید افغانستان و عراق و سوریه\n\nسال بعد میان میگن غذا ندارین بخورین غذا و دارو میخواهید برید آفریقا، سنگال، غنا و...\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 182,
-          "length": 84,
-          "type": "bold"
-        },
-        {
-          "offset": 279,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 279,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 279,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 832,
       "sender_chat": {
         "id": -1003929813623,
