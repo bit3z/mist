@@ -1,52 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 626,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778415959,
-      "text": "اسپورت: با وجود درگذشت پدرش، هانسی فلیک اصرار داشت امروز خودش تیم رو تو مسابقه هدایت کنه  و امشب هم روی نیمکته❤\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 112,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 125,
-          "length": 13,
-          "type": "mention"
-        },
-        {
-          "offset": 151,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 151,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 151,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 627,
       "sender_chat": {
         "id": -1003929813623,
