@@ -25319,6 +25319,47 @@
       "link_preview_options": {
         "url": "https://t.me/alihappirbot?start=ref_6948878650"
       }
+    },
+    {
+      "message_id": 1078,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779039364,
+      "text": "تخفیف شروع شد\nمولتی لوکیشن گیگی 250\nاقتصادی 200\nحجمای بالاتر تخفیف بیشتری داره\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 79,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 102,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 102,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 102,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
