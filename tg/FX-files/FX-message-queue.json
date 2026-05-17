@@ -25631,6 +25631,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1085,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779045986,
+      "text": "🔴طبق اعلام آموزش و پرورش؛\n\nامتحانات پایانی پایه‌های هفتم تا دهم تو تهران مجازی شد - تکلیف امتحانات پایه‌های یازدهم و دوازدهم هم به زودی اعلام میشه.\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 150,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 163,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 189,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 189,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 189,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
