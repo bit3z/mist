@@ -24551,6 +24551,69 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1062,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779019862,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEJmoJsFaWKehphT4fjZSz6OY_7nH2AAJrDmsblrBQUJ9-h73MZ3eEAQADAgADcwADOwQ",
+          "file_unique_id": "AQADaw5rG5awUFB4",
+          "file_size": 1490,
+          "width": 90,
+          "height": 79
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEJmoJsFaWKehphT4fjZSz6OY_7nH2AAJrDmsblrBQUJ9-h73MZ3eEAQADAgADbQADOwQ",
+          "file_unique_id": "AQADaw5rG5awUFBy",
+          "file_size": 22211,
+          "width": 320,
+          "height": 280
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEJmoJsFaWKehphT4fjZSz6OY_7nH2AAJrDmsblrBQUJ9-h73MZ3eEAQADAgADeAADOwQ",
+          "file_unique_id": "AQADaw5rG5awUFB9",
+          "file_size": 75282,
+          "width": 800,
+          "height": 701
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEJmoJsFaWKehphT4fjZSz6OY_7nH2AAJrDmsblrBQUJ9-h73MZ3eEAQADAgADeQADOwQ",
+          "file_unique_id": "AQADaw5rG5awUFB-",
+          "file_size": 90117,
+          "width": 1123,
+          "height": 984
+        }
+      ],
+      "caption": "⭐در حالیکه حدود ۳ ماه از قطع اینترنت در ایران گذشته مسعود پزشکیان در اقدامی انتحاری روز جهانی ارتباطات را تبریک گفت.\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 129,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 129,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 129,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
