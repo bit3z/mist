@@ -23763,6 +23763,42 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1048,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779008162,
+      "text": "این متود جدید ک وصل میشد با شیر خورشید \nتوی برنامه مهسا هم میتونید وصل بشید دوست داشتین بگین اموزشش بزارم براتون\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 125,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 125,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 125,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
