@@ -1,47 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 955,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778867157,
-      "text": "vless://8e998b68-965c-4c70-9134-c66c84192d5a@snapp.ir:8080?path=%2F&security=none&encryption=none&host=kolis1.zivoryx.ir&type=ws#https%3A%2F%2Ft.me%2FError404Bin\n\n8گیگ\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 0,
-          "length": 161,
-          "type": "code"
-        },
-        {
-          "offset": 180,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 180,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 180,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 956,
       "sender_chat": {
         "id": -1003929813623,
