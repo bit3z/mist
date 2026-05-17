@@ -1,52 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 1016,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778954521,
-      "text": "🎁 تخفیف تا آخر امشب\n\n🎗سرعت متناسب با پیک مصرف\n🎗دارای ساب و بدون ضریب\n🎗مناسب برای تمامی سیستم ها\n🎗 آیپی مولتی آلمان، هلند، انگلیس، ترکیه، آمریکا، امارات، فرانسه، لهستان و لوکزامبورگ\n🎗تضمین مصرف تا پایان حجم\n🎗مناسب برای تمامی اپراتور ها\n🎗مناسب برای اینستا، تلگرام و یوتیوب\n\n━━━━━━━━━━━━\n\n۱ گیگ => ۳۰۰,۰۰۰ تومان\n۳ گیگ => ۸۰۰,۰۰۰  تومان\n۵ گیگ => ۱,۵۰۰,۰۰۰  تومان\n۱۰ گیگ => ۲,۵۰۰,۰۰۰  تومان\n\n\n👨‍💻@qatel_seryalei\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 114,
-          "length": 71,
-          "type": "bold"
-        },
-        {
-          "offset": 401,
-          "length": 15,
-          "type": "mention"
-        },
-        {
-          "offset": 429,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 429,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 429,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 1017,
       "sender_chat": {
         "id": -1003929813623,
