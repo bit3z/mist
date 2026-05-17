@@ -1,42 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 920,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778843696,
-      "text": "اگر بازم کاررنداد براتون \n\nبرنامه حذف نصب یا کلیردیتا کنید\n\nپروتکل بزارید CDN\nلوکیشنم بزارین انگلیس\nاین ای پی هارو هم اضافه کنید\n۱دقیقع صبرکنید وصل میشه😐\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 167,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 167,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 167,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 921,
       "sender_chat": {
         "id": -1003929813623,
