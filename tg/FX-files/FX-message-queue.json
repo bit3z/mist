@@ -1,52 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 599,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778359856,
-      "text": "این خبری که داره دست به دست میشه مبنی بر اینکه روبیو گفته ایران پیشنهاد توافق رو رد کرده توسط هیچ منبع معتبری کار نشده و متاسفانه فیکه\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 135,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 148,
-          "length": 13,
-          "type": "mention"
-        },
-        {
-          "offset": 174,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 174,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 174,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 600,
       "sender_chat": {
         "id": -1003929813623,
