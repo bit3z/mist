@@ -1,62 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 1049,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1779009302,
-      "text": "🙂نسخه آزمایشی اپلیکیشن iOS تیم WhiteDNS برای تست اتصال‌های MasterDNS و فورک StormDNS آماده شده است.\n\nبرای استفاده، ابتدا باید اپلیکیشن TestFlight را روی دستگاه خود نصب کنید، بعد از طریق لینک زیر وارد نسخه آزمایشی شوید:\nhttps://testflight.apple.com/join/GfUqXrFz\n\n⚠️ لطفاً توجه داشته باشید که این نسخه آزمایشی است و ممکن است هنوز باگ یا ناپایداری داشته باشد.\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 2,
-          "length": 98,
-          "type": "bold"
-        },
-        {
-          "offset": 102,
-          "length": 117,
-          "type": "blockquote"
-        },
-        {
-          "offset": 220,
-          "length": 42,
-          "type": "code"
-        },
-        {
-          "offset": 276,
-          "length": 94,
-          "type": "blockquote"
-        },
-        {
-          "offset": 371,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 371,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 371,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 1050,
       "sender_chat": {
         "id": -1003929813623,
