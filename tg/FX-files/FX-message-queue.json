@@ -3718,6 +3718,79 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1120,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779095507,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEYGoK19PHIPcmiZh6LAABJkNUk9d-DQAC7w1rG0iiWFBZJzVC8SD7sAEAAwIAA3MAAzsE",
+          "file_unique_id": "AQAD7w1rG0iiWFB4",
+          "file_size": 1029,
+          "width": 90,
+          "height": 44
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEYGoK19PHIPcmiZh6LAABJkNUk9d-DQAC7w1rG0iiWFBZJzVC8SD7sAEAAwIAA20AAzsE",
+          "file_unique_id": "AQAD7w1rG0iiWFBy",
+          "file_size": 9431,
+          "width": 320,
+          "height": 155
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEYGoK19PHIPcmiZh6LAABJkNUk9d-DQAC7w1rG0iiWFBZJzVC8SD7sAEAAwIAA3gAAzsE",
+          "file_unique_id": "AQAD7w1rG0iiWFB9",
+          "file_size": 34506,
+          "width": 800,
+          "height": 387
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEYGoK19PHIPcmiZh6LAABJkNUk9d-DQAC7w1rG0iiWFBZJzVC8SD7sAEAAwIAA3kAAzsE",
+          "file_unique_id": "AQAD7w1rG0iiWFB-",
+          "file_size": 43534,
+          "width": 1119,
+          "height": 541
+        }
+      ],
+      "caption": "واکنش سردار به خط خوردن از تیم ملی جمهوری اسلامی :\nپاک کردن پروفایل با لباس تیم ملی ایران و آنفالوی پیج های تیم ملی\n\nکیرت تو تک‌تک بازیکنای تیم ملی و خود تیم ملی\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 162,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 175,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 201,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 201,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 201,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
