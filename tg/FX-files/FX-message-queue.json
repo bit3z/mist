@@ -3533,6 +3533,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1117,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779094625,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEXWoK1GHpfwcvhkWAvrNo6XkCzKEiAALqDWsbSKJYUCyl_8Z-104WAQADAgADcwADOwQ",
+          "file_unique_id": "AQAD6g1rG0iiWFB4",
+          "file_size": 989,
+          "width": 42,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEXWoK1GHpfwcvhkWAvrNo6XkCzKEiAALqDWsbSKJYUCyl_8Z-104WAQADAgADbQADOwQ",
+          "file_unique_id": "AQAD6g1rG0iiWFBy",
+          "file_size": 10639,
+          "width": 148,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEXWoK1GHpfwcvhkWAvrNo6XkCzKEiAALqDWsbSKJYUCyl_8Z-104WAQADAgADeAADOwQ",
+          "file_unique_id": "AQAD6g1rG0iiWFB9",
+          "file_size": 40189,
+          "width": 369,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEXWoK1GHpfwcvhkWAvrNo6XkCzKEiAALqDWsbSKJYUCyl_8Z-104WAQADAgADeQADOwQ",
+          "file_unique_id": "AQAD6g1rG0iiWFB-",
+          "file_size": 65772,
+          "width": 590,
+          "height": 1280
+        }
+      ],
+      "caption": "قیمت جدید اینترنت عالی وطنم ایران\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 34,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 47,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 73,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 73,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 73,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
