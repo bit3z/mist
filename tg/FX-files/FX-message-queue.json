@@ -4363,6 +4363,83 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1132,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779114726,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEbGoLIuY0d68pWX_sxaLjiRH4QsFEAAJqDmsbw5NYUMRqsoneyqK2AQADAgADcwADOwQ",
+          "file_unique_id": "AQADag5rG8OTWFB4",
+          "file_size": 1259,
+          "width": 90,
+          "height": 86
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEbGoLIuY0d68pWX_sxaLjiRH4QsFEAAJqDmsbw5NYUMRqsoneyqK2AQADAgADbQADOwQ",
+          "file_unique_id": "AQADag5rG8OTWFBy",
+          "file_size": 15855,
+          "width": 320,
+          "height": 306
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEbGoLIuY0d68pWX_sxaLjiRH4QsFEAAJqDmsbw5NYUMRqsoneyqK2AQADAgADeAADOwQ",
+          "file_unique_id": "AQADag5rG8OTWFB9",
+          "file_size": 23897,
+          "width": 459,
+          "height": 439
+        }
+      ],
+      "caption": "​🚨بازداشت و ناپدیدسازی نوجوان ۱۷ ساله — #آسو_کیخسروی\n\n​آسو کیخسروی، معترض ۱۷ ساله اهل #جوانرود که برای آزادی و آینده‌ای بهتر به خیابان‌ها آمده بود، توسط نیروهای امنیتی بازداشت شده و اکنون با گذشت ۴ ماه از زمان دستگیری، در وضعیت ناپدیدسازی به سر می‌برد. هیچ‌گونه اطلاعاتی از شرایط روحی، سلامت جسمانی و محل نگهداری این نوجوان شجاع در دست نیست و سکوت مطلق نهادهای بازداشت‌کننده، نگرانی‌ها را درباره شکنجه و خطر جانی جدی او به اوج رسانده است. خانواده آسو در میان دلهره، بیم و بی‌خبری مطلق روزگار می‌گذرانند و تنها پناه آن‌ها شکستن این سکوت خبری است. ما باید نام این نوجوان را فریاد بزنیم؛ چرا که گمنامی و بی‌خبری، دست بازجویان را برای هرگونه آسیب به او بازتر می‌کند. صدای آسو کیخسروی باشیم.\n\n​این یک نمونه کامنت برای حمایت از آسو کیخسروی است؛ می‌توانید آن را ویرایش کرده، عکس او را اضافه کنید و منتشر کنید.\n\n​» کامنت انگلیسی برای آسو کیخسروی «\n\n@SedayeAzadi1401\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 41,
+          "length": 12,
+          "type": "hashtag"
+        },
+        {
+          "offset": 87,
+          "length": 8,
+          "type": "hashtag"
+        },
+        {
+          "offset": 805,
+          "length": 35,
+          "type": "text_link",
+          "url": "https://x.com/intent/tweet?in_reply_to=2019336320946954700&text=17yo%20%23AsoKeykhosravi%20from%20Javanrud%2C%20arrested%204%20months%20ago%20during%20protests.%20Enforced%20disappearance%3A%20zero%20news%20on%20his%20health%2C%20prison%2C%20or%20life.%20Imminent%20danger.%20%40MELANIATRUMP%20%40UNHumanRights%20%40POTUS%20%40WhiteHouse%20%23StopExecutionsInIran%20%23DigitalBlackOutIran"
+        },
+        {
+          "offset": 842,
+          "length": 16,
+          "type": "mention"
+        },
+        {
+          "offset": 871,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 871,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 871,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
