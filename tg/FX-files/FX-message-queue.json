@@ -4440,6 +4440,42 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1133,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779114775,
+      "text": "🔴 پزشکیان :\nما در برابر هیچ قدرتی سر فرود نمیاریم، ما با عزت مذاکره میکنیم.\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 89,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 89,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 89,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
