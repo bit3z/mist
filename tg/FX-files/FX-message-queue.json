@@ -4912,6 +4912,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1142,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779123246,
+      "text": "https://t.me/trade_kyc_bot?start=7106584375\n\nتست بدون رفرال میده 50 مگ 31 هزار اعتبار میده باهاش 50 مگابایت رو 30هزار  بخرید از بخش سرور های اقتصادی و بفرستید دوستان تون رو آنلاین بکنین \n\nاین یکی هم 👇👇 حجم کمی میده\n@shopv2bot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 43,
+          "type": "url"
+        },
+        {
+          "offset": 217,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 240,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 240,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 240,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://t.me/trade_kyc_bot?start=7106584375"
+      }
     }
   ]
 }
