@@ -4065,6 +4065,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1127,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779102846,
+      "text": "🔴 وزیر قطع ارتباطات: اینترنت در قالب دو یا چند پیام‌رسان خلاصه نمیشه (منظور: با اپلیکیشن‌های بله، سروش، روبیکا و... نمیشه قطعی اینترنت بین‌المللی رو جبران کرد) و دسترسی آزاد به فضای جهانی، یک ضرورت انکارناپذیر برای توسعه‌اقتصادی و اجتماعی هست.\nصحبت از قطع شبکه‌ها هیچوقت از سوی «قوه عاقله» مطرح نشده و نگاه اعضای دولت به این حوزه کاملا متفاوته.\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 358,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 358,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 358,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
