@@ -4687,6 +4687,88 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1138,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779114906,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEcmoLI5p5gOWa0Rn2OBCEEWCx4iqiAAJsDmsbw5NYUL8jpThzc7owAQADAgADcwADOwQ",
+          "file_unique_id": "AQADbA5rG8OTWFB4",
+          "file_size": 1513,
+          "width": 89,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEcmoLI5p5gOWa0Rn2OBCEEWCx4iqiAAJsDmsbw5NYUL8jpThzc7owAQADAgADbQADOwQ",
+          "file_unique_id": "AQADbA5rG8OTWFBy",
+          "file_size": 19359,
+          "width": 318,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEcmoLI5p5gOWa0Rn2OBCEEWCx4iqiAAJsDmsbw5NYUL8jpThzc7owAQADAgADeAADOwQ",
+          "file_unique_id": "AQADbA5rG8OTWFB9",
+          "file_size": 43003,
+          "width": 588,
+          "height": 592
+        }
+      ],
+      "caption": "​🚨 خطر اعدام فوری خواهر و برادر #زینب_موسوی و #حسن_موسوی\n\n​زینب موسوی و برادرش، حسن موسوی، که در جریان اعتراضات سراسری دی‌ماه بازداشت شده بودند، اکنون در زندان وکیل‌آباد #مشهد با اتهام سنگین محاربه روبرو شده و به اعدام محکوم شده‌اند. این خواهر و برادر معترض در بیدادگاهی فرمایشی و بدون دسترسی به دادرسی عادلانه به مرگ محکوم شده‌اند و جانشان در خطر فوری اجرای حکم قرار دارد. خانواده موسوی در وضعیت روحی به‌شدت بحرانی و دلهره‌آوری به سر می‌برند و زیر سایه این احکام ظالمانه، چشم‌انتظار یاری و همصدایی افکار عمومی هستند. سکوت در برابر این جنایت، دست دستگاه سرکوب را برای گرفتن جان این دو جوان بازتر می‌کند؛ نام زینب و حسن را فریاد بزنیم و اجازه ندهیم در بی‌خبری به مسلخ بروند.\n\n​این یک نمونه کامنت برای حمایت از زینب موسوی و حسن موسوی است؛ می‌توانید آن را ویرایش کرده، عکس آن‌ها را اضافه کنید و منتشر کنید.\n\n​» کامنت انگلیسی برای زینب موسوی و حسن موسوی «\n\n@SedayeAzadi1401\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 33,
+          "length": 11,
+          "type": "hashtag"
+        },
+        {
+          "offset": 47,
+          "length": 10,
+          "type": "hashtag"
+        },
+        {
+          "offset": 171,
+          "length": 5,
+          "type": "hashtag"
+        },
+        {
+          "offset": 806,
+          "length": 46,
+          "type": "text_link",
+          "url": "https://x.com/intent/tweet?in_reply_to=2019336320946954700&text=Siblings%20%23ZeynabMousavi%20%26%20%23HassanMousavi%2C%20arrested%20in%20Jan%20protests%2C%20sentenced%20to%20DEATH%20for%20%22Moharebeh%22%20in%20Vakilabad%20Prison%2C%20Mashhad.%20In%20imminent%20danger%21%20%40MELANIATRUMP%20%40UNHumanRights%20%40POTUS%20%40WhiteHouse%20%23StopExecutionsInIran%20%23DigitalBlackOutIran"
+        },
+        {
+          "offset": 854,
+          "length": 16,
+          "type": "mention"
+        },
+        {
+          "offset": 883,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 883,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 883,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
