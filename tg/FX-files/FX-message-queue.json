@@ -6039,6 +6039,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1163,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779139738,
+      "text": "🔴 علیرضا بیرانوند:\n\n کاری میکنم ترامپ هنگام دادن جام قهرمانی لری برقصد.\n\nدماغ که چیزی نیست برای تیم ملی جمهوری اسلامی حاضرم مردانگی‌ام نیز فدا شود.\n\nدوست دارم به ارژانتین بخوریم و پنالتی مسی رو بگیرم و به رهبر شهید تقدیم کنم.\n\nاز مسئولان کشوری خواهش کردم پاداش های بازیکنان را به ریال پرداخت کنند تا ارزش پول ملی حفظ شود. \n\nدوست داریم به آمریکا بخوریم و در خاک خودشون نتیجه بازی جام جهانی ۱۹۹۸ را تکرار کنیم\n\nکص‌ننننتتتتتتتت\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 427,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 440,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 466,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 466,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 466,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
