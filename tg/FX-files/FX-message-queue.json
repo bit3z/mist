@@ -2975,6 +2975,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1105,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779077645,
+      "text": "‏شاهزاده رضا پهلوی: «برای انجام نقش خودم به بهترین نحو، باید کاملا موضع فراجناحی و بی‌طرف داشته باشم. نه به نفع پادشاهی و نه به نفع جمهوری؛ به نفع دموکراسی!»\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 158,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 171,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 197,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 197,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 197,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
