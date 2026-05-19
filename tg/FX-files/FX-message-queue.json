@@ -8085,6 +8085,47 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1204,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779198179,
+      "text": "یه دونه سرور 4.5 گیگی موجوده سرعتش در حد وبگردیه \n530 تومن\nبرای خرید به این آیدی پیام بدید:\n@e7fnn\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 92,
+          "length": 6,
+          "type": "mention"
+        },
+        {
+          "offset": 111,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 111,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 111,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
