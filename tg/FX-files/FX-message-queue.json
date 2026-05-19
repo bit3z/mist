@@ -8218,6 +8218,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1207,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779202320,
+      "text": "مدیرعامل صندوق قرض‌الحسنه دانشجویان جهاددانشگاهی:به هر دانشجویی که ازدواج کنه مبلغ 30 میلیون تومن وام میدیم که بره عشق کنه!\n\n@odin_club \n@ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 125,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 137,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 163,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 163,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 163,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
