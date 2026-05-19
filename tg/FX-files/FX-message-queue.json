@@ -8727,6 +8727,62 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1219,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779225120,
+      "text": "لینک دانلود داخلی هات وی پی ان🔥\n\nhttps://punkpaste.ir/f/HotVPN-Fast-Safe-VPN-qj05x9\nبرای نصبش هم این اپ رو از مایکت بگیرین \n\nhttps://myket.ir/app/com.wuliang.xapkinstaller\nدوستان فرمت فایل xapk هست بطور پیشفرض روی گوشیتون نصب نمیشه، باید xapk installer رو از مایکت دانلود کنید.\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 34,
+          "length": 50,
+          "type": "url"
+        },
+        {
+          "offset": 126,
+          "length": 46,
+          "type": "url"
+        },
+        {
+          "offset": 280,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 293,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 319,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 319,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 319,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://myket.ir/app/com.wuliang.xapkinstaller"
+      }
     }
   ]
 }
