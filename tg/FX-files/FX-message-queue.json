@@ -9059,6 +9059,84 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1226,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779227821,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEymoM3K0Hvjs4ujghX_s-ngdQoFCfAAIJEGsbyo1pUGpAqcY0Wh-dAQADAgADcwADOwQ",
+          "file_unique_id": "AQADCRBrG8qNaVB4",
+          "file_size": 626,
+          "width": 40,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEymoM3K0Hvjs4ujghX_s-ngdQoFCfAAIJEGsbyo1pUGpAqcY0Wh-dAQADAgADbQADOwQ",
+          "file_unique_id": "AQADCRBrG8qNaVBy",
+          "file_size": 5311,
+          "width": 143,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEymoM3K0Hvjs4ujghX_s-ngdQoFCfAAIJEGsbyo1pUGpAqcY0Wh-dAQADAgADeAADOwQ",
+          "file_unique_id": "AQADCRBrG8qNaVB9",
+          "file_size": 19577,
+          "width": 358,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEymoM3K0Hvjs4ujghX_s-ngdQoFCfAAIJEGsbyo1pUGpAqcY0Wh-dAQADAgADeQADOwQ",
+          "file_unique_id": "AQADCRBrG8qNaVB-",
+          "file_size": 33856,
+          "width": 573,
+          "height": 1280
+        }
+      ],
+      "caption": "تست وصل بودن 🤝\nخط شاتل موبایل وصل شد \nهمراه اول پینگ میده وصل نمیشه \n@odin_club\n@Arvanpingbot\n#mahdi\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 70,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 81,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 95,
+          "length": 6,
+          "type": "hashtag"
+        },
+        {
+          "offset": 114,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 114,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 114,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
