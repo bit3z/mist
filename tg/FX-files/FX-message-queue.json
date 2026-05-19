@@ -9183,6 +9183,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1228,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779231181,
+      "text": "🔴پس از ۷ تلاش ناموفق، سنای آمریکا طرحی را تصویب کرد که مصوبه کنگره را برای ادامه حملات نظامی به ایران الزامی می‌کند.\n\n🔴سنا با رأی ۵۰ به ۴۷، اکنون به طور رسمی قطعنامه اختیارات جنگ در ایران» را پیش برد.\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 204,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 217,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 243,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 243,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 243,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
