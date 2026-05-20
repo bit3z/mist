@@ -12770,6 +12770,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1279,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779293013,
+      "text": "ترامپ:\nهمه چیز آنها از بین رفته است.\nتنها سوال باقی‌مانده این است که آیا ما می‌رویم و کار را تمام می‌کنیم، یا آن‌ها قرار است یک تسلیم‌نامه را امضا کنند؟ خواهیم دید چه خواهد شد\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 176,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 189,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 215,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 215,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 215,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
