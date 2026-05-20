@@ -9682,6 +9682,72 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1239,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779254401,
+      "video": {
+        "duration": 6,
+        "width": 720,
+        "height": 852,
+        "mime_type": "video/mp4",
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgTXag1EgWbjWD_raajzn6UBaLk80JQAAiMcAALKjXFQQWuo4tW-1ooBAAdtAAM7BA",
+          "file_unique_id": "AQADIxwAAsqNcVBy",
+          "file_size": 20095,
+          "width": 270,
+          "height": 320
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgTXag1EgWbjWD_raajzn6UBaLk80JQAAiMcAALKjXFQQWuo4tW-1ooBAAdtAAM7BA",
+          "file_unique_id": "AQADIxwAAsqNcVBy",
+          "file_size": 20095,
+          "width": 270,
+          "height": 320
+        },
+        "file_id": "BAACAgQAAyEFAATqPDJ3AAIE12oNRIFm41g_62mo85-lAWi5PNCUAAIjHAACyo1xUEFrqOLVvtaKOwQ",
+        "file_unique_id": "AgADIxwAAsqNcVA",
+        "file_size": 765778
+      },
+      "caption": "تو آپدیت جدید تلگرام ربات‌ها میتونن با همدیگه ارتباط برقرار کنن\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 65,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 78,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 104,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 104,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 104,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
