@@ -13762,6 +13762,74 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1301,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779305223,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFFWoOCwd-b9aafCnXVXmdZEH4eEX2AAKoDmsbFIlxUGs0BqCcTdjHAQADAgADcwADOwQ",
+          "file_unique_id": "AQADqA5rGxSJcVB4",
+          "file_size": 1039,
+          "width": 53,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFFWoOCwd-b9aafCnXVXmdZEH4eEX2AAKoDmsbFIlxUGs0BqCcTdjHAQADAgADbQADOwQ",
+          "file_unique_id": "AQADqA5rGxSJcVBy",
+          "file_size": 10564,
+          "width": 190,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFFWoOCwd-b9aafCnXVXmdZEH4eEX2AAKoDmsbFIlxUGs0BqCcTdjHAQADAgADeAADOwQ",
+          "file_unique_id": "AQADqA5rGxSJcVB9",
+          "file_size": 40143,
+          "width": 474,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFFWoOCwd-b9aafCnXVXmdZEH4eEX2AAKoDmsbFIlxUGs0BqCcTdjHAQADAgADeQADOwQ",
+          "file_unique_id": "AQADqA5rGxSJcVB-",
+          "file_size": 65100,
+          "width": 758,
+          "height": 1280
+        }
+      ],
+      "caption": "دوستانی درخواست اپیکیشن انیمه گیت رو داشتن مودش گذاشته بشه اکانتش خریداری شده در اختیار مهدی گذاشته شد  احتمالاً فردا شب بزاره یا... اینش دیگه با مهدی هس سؤالی چیزی بود ازش بپرسید\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 180,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 203,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 203,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 203,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
