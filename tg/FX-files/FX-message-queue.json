@@ -9748,6 +9748,24 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1240,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779254461,
+      "dice": {
+        "emoji": "🎰",
+        "value": 7
+      }
     }
   ]
 }
