@@ -12217,6 +12217,74 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1268,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779282723,
+      "photo": [
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIE9GoNsyP4Upo5l7XaTBADDv7Om46EAAKsDGsbOvNoROx1eWwdd-jiAQADAgADcwADOwQ",
+          "file_unique_id": "AQADrAxrGzrzaER4",
+          "file_size": 1284,
+          "width": 55,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIE9GoNsyP4Upo5l7XaTBADDv7Om46EAAKsDGsbOvNoROx1eWwdd-jiAQADAgADbQADOwQ",
+          "file_unique_id": "AQADrAxrGzrzaERy",
+          "file_size": 20573,
+          "width": 196,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIE9GoNsyP4Upo5l7XaTBADDv7Om46EAAKsDGsbOvNoROx1eWwdd-jiAQADAgADeAADOwQ",
+          "file_unique_id": "AQADrAxrGzrzaER9",
+          "file_size": 78650,
+          "width": 490,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIE9GoNsyP4Upo5l7XaTBADDv7Om46EAAKsDGsbOvNoROx1eWwdd-jiAQADAgADeQADOwQ",
+          "file_unique_id": "AQADrAxrGzrzaER-",
+          "file_size": 137979,
+          "width": 784,
+          "height": 1280
+        }
+      ],
+      "caption": "این چه تبلیغی دیدم😐😂\n\n📥@Ezrael_chanle\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 26,
+          "length": 14,
+          "type": "mention"
+        },
+        {
+          "offset": 53,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 53,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 53,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
