@@ -9766,6 +9766,79 @@
         "emoji": "🎰",
         "value": 7
       }
+    },
+    {
+      "message_id": 1241,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779254474,
+      "text": "🔰Hot VPN🔰\n\n🔎 GooglePlayLink\n\n💡9.2.1 | #VPN\n \n\nⓂ️ نسخه vip شده\n\n ◈حذف تبلیغات برنامه🚀✓\n◈ حذف فایل‌های اضافه✓\n◈ بهینه سازی برنامه✓\n\n✪ معماری: arm64-v8\n\nتوضیحات درباره برنامه:\nارتباط ایمن و سریع با HotVPN داشته باشید\n\nآنتی فیلتر و پروکسی VPN برای دسترسی ایمن و سریع به هر محتوای فیلتر شده\n\n~ سرورهای اختصاصی VPN با سرعت بالا در سراسر جهان\n~ فعالیت های اینترنتی را ایمن می کند\n~رایگان\n~ بدون حساب ثبت نام\n~ استفاده آسان با یک ضربه اتصال برای ایمن کردن اتصال شما\n~کارایی و سرعت بالا با استفاده از پروتکل های قدرتمند محتوای فیلتر شده را باز می کند\n~ فعالیت های اینترنتی را ایمن می کند\n~ زمان نامحدود، پهنای باند نامحدود، پخش و بارگیری و آپلود نامحدود\n⭐️حمایت کنید دوستان با معرفی کردن کانالمون به بقیه.\n\n📲برای دانلود فایل از سایت بر روی ( دانــلود )  کلیک کنید.\n\n👨‍💻@qatel_seryalei\n\n📥@Ezrael_chanle\n📥@Xbat_team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 16,
+          "length": 14,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.hotcodes.hotvpn"
+        },
+        {
+          "offset": 42,
+          "length": 4,
+          "type": "hashtag"
+        },
+        {
+          "offset": 178,
+          "length": 472,
+          "type": "blockquote"
+        },
+        {
+          "offset": 739,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://nixfile.com/f/wx5t6f"
+        },
+        {
+          "offset": 768,
+          "length": 15,
+          "type": "mention"
+        },
+        {
+          "offset": 787,
+          "length": 14,
+          "type": "mention"
+        },
+        {
+          "offset": 804,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 827,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 827,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 827,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://play.google.com/store/apps/details?id=com.hotcodes.hotvpn"
+      }
     }
   ]
 }
