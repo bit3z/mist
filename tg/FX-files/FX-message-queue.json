@@ -2281,6 +2281,76 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1350,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779379806,
+      "photo": [
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIFRmoPLl6f0uV_TcsUxam2WgZ4l_OgAALEC2sbISZ4RMFShBiC387kAQADAgADcwADOwQ",
+          "file_unique_id": "AQADxAtrGyEmeER4",
+          "file_size": 1161,
+          "width": 42,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIFRmoPLl6f0uV_TcsUxam2WgZ4l_OgAALEC2sbISZ4RMFShBiC387kAQADAgADbQADOwQ",
+          "file_unique_id": "AQADxAtrGyEmeERy",
+          "file_size": 13824,
+          "width": 148,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIFRmoPLl6f0uV_TcsUxam2WgZ4l_OgAALEC2sbISZ4RMFShBiC387kAQADAgADeAADOwQ",
+          "file_unique_id": "AQADxAtrGyEmeER9",
+          "file_size": 53922,
+          "width": 369,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIFRmoPLl6f0uV_TcsUxam2WgZ4l_OgAALEC2sbISZ4RMFShBiC387kAQADAgADeQADOwQ",
+          "file_unique_id": "AQADxAtrGyEmeER-",
+          "file_size": 101701,
+          "width": 591,
+          "height": 1280
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIFRmoPLl6f0uV_TcsUxam2WgZ4l_OgAALEC2sbISZ4RMFShBiC387kAQADAgADdwADOwQ",
+          "file_unique_id": "AQADxAtrGyEmeER8",
+          "file_size": 176518,
+          "width": 1183,
+          "height": 2560
+        }
+      ],
+      "caption": "شیر و خورشید :)\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 28,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 28,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 28,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
