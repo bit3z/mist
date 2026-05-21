@@ -3702,6 +3702,69 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1360,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779385266,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFUGoPQ7Ld5K85N5AtnrJ1KWqECYshAAK7EmsbRqF4UK_Q6_QwLmFQAQADAgADcwADOwQ",
+          "file_unique_id": "AQADuxJrG0aheFB4",
+          "file_size": 1723,
+          "width": 90,
+          "height": 60
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFUGoPQ7Ld5K85N5AtnrJ1KWqECYshAAK7EmsbRqF4UK_Q6_QwLmFQAQADAgADbQADOwQ",
+          "file_unique_id": "AQADuxJrG0aheFBy",
+          "file_size": 23330,
+          "width": 320,
+          "height": 212
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFUGoPQ7Ld5K85N5AtnrJ1KWqECYshAAK7EmsbRqF4UK_Q6_QwLmFQAQADAgADeAADOwQ",
+          "file_unique_id": "AQADuxJrG0aheFB9",
+          "file_size": 97515,
+          "width": 800,
+          "height": 529
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFUGoPQ7Ld5K85N5AtnrJ1KWqECYshAAK7EmsbRqF4UK_Q6_QwLmFQAQADAgADeQADOwQ",
+          "file_unique_id": "AQADuxJrG0aheFB-",
+          "file_size": 156766,
+          "width": 1280,
+          "height": 847
+        }
+      ],
+      "caption": "🔴العربیه: پیش‌نویس نهایی توافق‌نامه ایالات متحده و ایران با میانجیگری پاکستان دست یافته است که قرار است ظرف چند ساعت آینده اعلام شود.\n\n۱. این پیش‌نویس شامل آتش‌بس فوری و جامع در تمامی جبهه‌ها است.\n\n۲. طرفین متعهد می‌شوند به‌صورت متقابل از هدف قرار دادن زیرساخت‌ها خودداری کنند.\n\n۳. آزادی کشتیرانی در خلیج فارس و تنگه هرمز تحت یک سازوکار نظارتی مشترک تضمین می‌شود.\n\n۴. تحریم‌ها در برابر پایبندی ایران به مفاد توافق، به‌تدریج لغو خواهد شد.\n\n۵. مذاکرات درباره مسائل معوقه حداکثر ظرف هفت روز آغاز می‌شود.\n﻿\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 516,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 516,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 516,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
