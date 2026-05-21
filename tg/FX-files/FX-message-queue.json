@@ -62,6 +62,46 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1318,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779352589,
+      "sticker": {
+        "width": 512,
+        "height": 512,
+        "emoji": "🤬",
+        "set_name": "Aramashs",
+        "is_animated": false,
+        "is_video": false,
+        "type": "regular",
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgUmag7EDZjoYBMqngiSFKuGpOQWzFUAAh0RAAJHYwABU0qr24Lh2hV6AQAHbQADOwQ",
+          "file_unique_id": "AQADHREAAkdjAAFTcg",
+          "file_size": 9934,
+          "width": 320,
+          "height": 320
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgUmag7EDZjoYBMqngiSFKuGpOQWzFUAAh0RAAJHYwABU0qr24Lh2hV6AQAHbQADOwQ",
+          "file_unique_id": "AQADHREAAkdjAAFTcg",
+          "file_size": 9934,
+          "width": 320,
+          "height": 320
+        },
+        "file_id": "CAACAgQAAyEFAATqPDJ3AAIFJmoOxA2Y6GATKp4IkhSrhqTkFsxVAAIdEQACR2MAAVNKq9uC4doVejsE",
+        "file_unique_id": "AgADHREAAkdjAAFT",
+        "file_size": 14658
+      }
     }
   ]
 }
