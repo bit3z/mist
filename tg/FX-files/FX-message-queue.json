@@ -1624,6 +1624,94 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1341,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779365046,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFPWoO9LYVHv3UIlxbbcAurbdrLNAaAAIrDmsbj494ULBec0r4aRlNAQADAgADcwADOwQ",
+          "file_unique_id": "AQADKw5rG4-PeFB4",
+          "file_size": 1306,
+          "width": 90,
+          "height": 57
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFPWoO9LYVHv3UIlxbbcAurbdrLNAaAAIrDmsbj494ULBec0r4aRlNAQADAgADbQADOwQ",
+          "file_unique_id": "AQADKw5rG4-PeFBy",
+          "file_size": 12853,
+          "width": 320,
+          "height": 202
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFPWoO9LYVHv3UIlxbbcAurbdrLNAaAAIrDmsbj494ULBec0r4aRlNAQADAgADeAADOwQ",
+          "file_unique_id": "AQADKw5rG4-PeFB9",
+          "file_size": 42201,
+          "width": 800,
+          "height": 505
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFPWoO9LYVHv3UIlxbbcAurbdrLNAaAAIrDmsbj494ULBec0r4aRlNAQADAgADeQADOwQ",
+          "file_unique_id": "AQADKw5rG4-PeFB-",
+          "file_size": 50565,
+          "width": 1013,
+          "height": 640
+        }
+      ],
+      "caption": "سحرگاه امروز، در سکوتِ سنگین و پشت دیوارهای سرد زندان #نقده، غیورمردان ایران، #رامین_زله و #کریم_معروف‌پور ، مظلومانه و به صورت مخفیانه اعدام کردند\nیعنی بدون اینکه به خانوادش بگن و یا خانوادشون بیان ملاقتشون.\nمرگ بر جمهوری‌اسلامی\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 54,
+          "length": 5,
+          "type": "hashtag"
+        },
+        {
+          "offset": 78,
+          "length": 10,
+          "type": "hashtag"
+        },
+        {
+          "offset": 91,
+          "length": 15,
+          "type": "hashtag"
+        },
+        {
+          "offset": 231,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 244,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 270,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 270,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 270,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
