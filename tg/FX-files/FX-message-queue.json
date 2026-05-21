@@ -14362,6 +14362,47 @@
       "link_preview_options": {
         "url": "https://t.me/alihappirbot?start=ref_7106584375"
       }
+    },
+    {
+      "message_id": 1313,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779349505,
+      "text": "اون 3 تا مغز فندوقی سیک کنید بیرون حوصله بچه خوشگلللللللل ناز نازی رو ندارم \n\nراست گفتن ذات خیلی ها رو با قدرنشناسی بریدن این همه هزینه مود کردیم اکانت رایگان دادیم که چند تا عرزشی کونی تو تلگرامی که مسوولان مادرجنده شون بستن بیان ول بچرخن گور تون گم کنید همون روبیکا سروش و... تخم سگا بی چشم و رو\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 298,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 321,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 321,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 321,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
