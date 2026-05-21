@@ -489,6 +489,117 @@
       "link_preview_options": {
         "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
       }
+    },
+    {
+      "message_id": 1321,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779352686,
+      "text": "اگر شیر و خورشیدتون وصل نمیشه این چند تا کار رو انجام بدید \n\n۱: مهم ترین کار من تست کردم جواب داد توی تنظیمات گوشی بخش سیم کارت اینترنتمون رو 3g یا همون H کنید بعدش برید شیر و خورشیدو وصل کنید \n------------------------------------------------------\n\n۲:توی تنظیمات گوشیتون سرچ کنین \"نام های نقاط دستیابی\" یا \"apn\" یا \"access points names\" و چند تای پایین رو بسازین و سیو کنین :\nName(نام) : cmcom\nApn(نام دستیابی) : cmco\nm\nName(نام) : google.com\nApn(نام دستیابی) : google.\ncom\nName(نام) : SYSTEC GPRS\nApn(نان دستیابی) : S\nYSTEC\nوقتی همه اینا رو ساختین، هر بار به یکیش وصل بشین و بیاین شیر و خورشید رو start بزنین\nاینجوری میتونین راحتتر وص\nل بشین\n------------------------------------------------------\n\nروش های پایین هم ممکنه \nجواب بدن\n۳: برنامه رو کلییر \n\nدیتا کنید\n۴: گوشیتون رو بزارید حالت هواپیما موقع اتصال و بعد\nش در بیارید\n۵: گوشی هایی که قابلیت nfc دارن \nیه بار nfc خاموش روشن کنن بعد بزنن حالت هواپیما تو برنامه بزنن رو است\nا\nرت \nوصل میشه\n۶:از تنظیمات گوشی برید داخل نقاط دسترسی به حالت پیش‌فرض برگر\nدونید وصل میشه \n------------------------------------------------------\n\n\nروش اول رو حتما تست کنید تاکید می‌کنم حتما تست کنید!\nابنو بعضیا گفتن جوابه\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 59,
+          "type": "bold"
+        },
+        {
+          "offset": 61,
+          "length": 132,
+          "type": "blockquote"
+        },
+        {
+          "offset": 64,
+          "length": 33,
+          "type": "bold"
+        },
+        {
+          "offset": 262,
+          "length": 126,
+          "type": "blockquote"
+        },
+        {
+          "offset": 400,
+          "length": 42,
+          "type": "blockquote"
+        },
+        {
+          "offset": 454,
+          "length": 52,
+          "type": "blockquote"
+        },
+        {
+          "offset": 518,
+          "length": 49,
+          "type": "blockquote"
+        },
+        {
+          "offset": 579,
+          "length": 118,
+          "type": "blockquote"
+        },
+        {
+          "offset": 796,
+          "length": 28,
+          "type": "blockquote"
+        },
+        {
+          "offset": 837,
+          "length": 61,
+          "type": "blockquote"
+        },
+        {
+          "offset": 910,
+          "length": 116,
+          "type": "blockquote"
+        },
+        {
+          "offset": 1038,
+          "length": 1,
+          "type": "blockquote"
+        },
+        {
+          "offset": 1052,
+          "length": 74,
+          "type": "blockquote"
+        },
+        {
+          "offset": 1154,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 1167,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 1189,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 1189,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 1189,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
