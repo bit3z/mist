@@ -1459,6 +1459,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1338,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779363426,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFOmoO7mLyG652fmh_AkKRCqBleRy1AAIkDmsbj494ULLQJkEDVDxYAQADAgADcwADOwQ",
+          "file_unique_id": "AQADJA5rG4-PeFB4",
+          "file_size": 1689,
+          "width": 72,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFOmoO7mLyG652fmh_AkKRCqBleRy1AAIkDmsbj494ULLQJkEDVDxYAQADAgADbQADOwQ",
+          "file_unique_id": "AQADJA5rG4-PeFBy",
+          "file_size": 27117,
+          "width": 256,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFOmoO7mLyG652fmh_AkKRCqBleRy1AAIkDmsbj494ULLQJkEDVDxYAQADAgADeAADOwQ",
+          "file_unique_id": "AQADJA5rG4-PeFB9",
+          "file_size": 123512,
+          "width": 640,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFOmoO7mLyG652fmh_AkKRCqBleRy1AAIkDmsbj494ULLQJkEDVDxYAQADAgADeQADOwQ",
+          "file_unique_id": "AQADJA5rG4-PeFB-",
+          "file_size": 236175,
+          "width": 1024,
+          "height": 1280
+        }
+      ],
+      "caption": "🚨🇩🇪 رسمی: فهرست تیم ملی آلمان برای جام جهانی \n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 50,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 63,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 89,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 89,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 89,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
