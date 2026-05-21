@@ -3657,6 +3657,51 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1359,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779383826,
+      "document": {
+        "file_name": "XBat_Team (1).npvt",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAIFT2oPPhKjmaRJrnVRIYLbV6_qMB9YAAJVHQACgqx4UA2HLq3JY_OUOwQ",
+        "file_unique_id": "AgADVR0AAoKseFA",
+        "file_size": 2472
+      },
+      "caption": "برای همراه اول رایتل و.. \n\nفقط بفرستین دوستانتون پیام های تلگرام شون بیاد\nرمز 88\nنکته بهشون بگین که 6 دقیقه ای باید منتظر باشن تا پیام ها بیان نمیدونم تا کی جوابه سروره\n\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 170,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 193,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 193,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 193,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
