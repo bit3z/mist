@@ -1195,6 +1195,86 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1333,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779359226,
+      "video": {
+        "duration": 50,
+        "width": 480,
+        "height": 852,
+        "file_name": "349.mp4",
+        "mime_type": "video/mp4",
+        "qualities": [
+          {
+            "width": 480,
+            "height": 852,
+            "codec": "av01",
+            "file_id": "BAACAgEAAyEFAATqPDJ3AAIFNWoO3fk3CEfM3ybqh4FO11Ot5KDsAAIrBgACmMZwRDSIEx658IeDOwQ",
+            "file_unique_id": "AgADKwYAApjGcEQ",
+            "file_size": 2372637
+          },
+          {
+            "width": 480,
+            "height": 852,
+            "codec": "h264",
+            "file_id": "BAACAgEAAyEFAATqPDJ3AAIFNWoO3fmNS7grQIITdKx1Q8_aSDZpAAJWBgACJud5RFIoiPR_8Mh6OwQ",
+            "file_unique_id": "AgADVgYAAibneUQ",
+            "file_size": 3234202
+          }
+        ],
+        "thumbnail": {
+          "file_id": "AAMCAQADIQUABOo8MncAAgU1ag7d-YjorCPCxBWRIjS7FTB3Oa0AAgUHAAJEhXFEBSOsO1o-JT8BAAdtAAM7BA",
+          "file_unique_id": "AQADBQcAAkSFcURy",
+          "file_size": 13210,
+          "width": 180,
+          "height": 320
+        },
+        "thumb": {
+          "file_id": "AAMCAQADIQUABOo8MncAAgU1ag7d-YjorCPCxBWRIjS7FTB3Oa0AAgUHAAJEhXFEBSOsO1o-JT8BAAdtAAM7BA",
+          "file_unique_id": "AQADBQcAAkSFcURy",
+          "file_size": 13210,
+          "width": 180,
+          "height": 320
+        },
+        "file_id": "BAACAgEAAyEFAATqPDJ3AAIFNWoO3fmI6KwjwsQVkSI0uxUwdzmtAAIFBwACRIVxRAUjrDtaPiU_OwQ",
+        "file_unique_id": "AgADBQcAAkSFcUQ",
+        "file_size": 3661750
+      },
+      "caption": "خو حیف پول اینا اوردین از افغانستان ادم میاوردین سگ شرف داشت اگه یکی از اینا حامل ویروس باشه 10 20 روز دیگه کشور بگا میره\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 122,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 145,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 145,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 145,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
