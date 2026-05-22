@@ -5180,6 +5180,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1390,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779472860,
+      "text": "🔥💢ترامپ:\n\nدر حالی که خیلی دلم میخواست در کنار پسرم، دان جونیور، و جدیدترین عضو خانواده‌ی ترامپ، یعنی همسر آینده‌اش بتینا باشم، اما شرایط مربوط به دولت و عشقم به ایالات متحده آمریکا، این اجازه رو به من نمیدهد. احساس میکنم خیلی مهمه که در طول این بازه‌ی زمانی حساس، در واشینگتن دی‌سی و در کاخ سفید بمونم. تبریک به دان و بتینا! پرزیدنت دونالد جی. ترامپ\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 352,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 365,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 391,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 391,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 391,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
