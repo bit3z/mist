@@ -6617,7 +6617,7 @@
       }
     },
     {
-      "message_id": 1417,
+      "message_id": 1418,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -6628,32 +6628,32 @@
         "title": "Backup",
         "type": "channel"
       },
-      "date": 1779493560,
-      "text": "🔴توییت اتاق جنگ اسرائیل : تیک تاک.\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "date": 1779493561,
+      "text": "🔴ورود هر خبرنگاری امشب به کاخ سفید لغو شده.\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
       "entities": [
         {
-          "offset": 37,
+          "offset": 46,
           "length": 10,
           "type": "mention"
         },
         {
-          "offset": 50,
+          "offset": 59,
           "length": 13,
           "type": "mention"
         },
         {
-          "offset": 76,
+          "offset": 85,
           "length": 8,
           "type": "text_link",
           "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
         },
         {
-          "offset": 76,
+          "offset": 85,
           "length": 8,
           "type": "bold"
         },
         {
-          "offset": 76,
+          "offset": 85,
           "length": 8,
           "type": "underline"
         }
