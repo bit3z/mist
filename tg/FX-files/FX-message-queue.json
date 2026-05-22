@@ -5771,6 +5771,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1402,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779478140,
+      "text": "🚨 امکان دسترسی دانشجویان ساکن در تهران به اینترنت\n\n🔴معاون آموزشی دانشگاه علامه طباطبائی با اشاره به مشکلات دسترسی دانشجویان به اینترنت گفت: در حال حاضر دانشجویانی که در تهران حضور دارند، می‌توانند از اینترنت این دانشگاه استفاده کنند؛ حتی دانشجویان سایر دانشگاه‌ها نیز در صورت حضور در تهران امکان استفاده از خدمات اینترنتی دانشگاه علامه را دارند.\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 349,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 362,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 388,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 388,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 388,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
