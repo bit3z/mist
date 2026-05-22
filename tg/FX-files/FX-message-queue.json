@@ -4929,6 +4929,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1384,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779449399,
+      "text": "رسمی : با اعلام سازمان لیگ، فصل 1404/05 نیمه تموم و بدون قهرمان به پایان رسید.\n\nسهمیه های آسیایی طبق جدول تقسیم شد و همچنین تیمی سقوط نمیکنه و فصل بعد لیگ 18 تیمه خواهد بود!\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 175,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 188,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 214,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 214,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 214,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
