@@ -5386,6 +5386,69 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1394,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779473660,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFcmoQnPw2RJmAzbhnXGwN-4vJjK5oAALbDWsbRqGAUHUDRHmdP4-hAQADAgADcwADOwQ",
+          "file_unique_id": "AQAD2w1rG0ahgFB4",
+          "file_size": 848,
+          "width": 42,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFcmoQnPw2RJmAzbhnXGwN-4vJjK5oAALbDWsbRqGAUHUDRHmdP4-hAQADAgADbQADOwQ",
+          "file_unique_id": "AQAD2w1rG0ahgFBy",
+          "file_size": 9234,
+          "width": 148,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFcmoQnPw2RJmAzbhnXGwN-4vJjK5oAALbDWsbRqGAUHUDRHmdP4-hAQADAgADeAADOwQ",
+          "file_unique_id": "AQAD2w1rG0ahgFB9",
+          "file_size": 31999,
+          "width": 369,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFcmoQnPw2RJmAzbhnXGwN-4vJjK5oAALbDWsbRqGAUHUDRHmdP4-hAQADAgADeQADOwQ",
+          "file_unique_id": "AQAD2w1rG0ahgFB-",
+          "file_size": 53403,
+          "width": 590,
+          "height": 1280
+        }
+      ],
+      "caption": "اگر شیرو خورشید براتون وصل نمیشه حتما حتما این روش رو تست کنید ✔️\n\nداخل تنظیمات \nکلمه وضعیت رو سرچ  کنید و بزنید روش\nحالا یکم اسکرول کنید پایین و جایی که نوشته نشانی یاIP addrees رو بهش دقت کنید .\nیک عددی اونجا نوشته شده   با یکی از این عدد های زیر شروع بشه.\nاگر همراه اول هستید باید با29 شروع بشه\n\nاگر ایرانسل هستید باید با 26 شروع بشه\n\nحالا اگر اون IP شما با این بالایی ها شروع نمیشد باید گوشیتون رو بزارید حالت پرواز و در بیارید \n\nرو همون حالت وضعیت بمونید  و  فقط حالت پرواز بزارید و خارج شوید  قسمت IP شما عوض میشه و باید اینقدر این کار تکرار کنید تا IP\nدرست با همون رنج شروع شود و با یکی از اونایی که بالا گفتم شروع شود دیگه حالت پرواز نزارید و برید IP شیرو خورشید رو توی برنامه وارد کنید و به احتمال زیاد با 90درصد IP وصل میشه\n\n\nنکته اگر هر چقدر گوشیتون رو گذاشتید حالت پرواز و IP عوض نشد گوشیتون رو یکبار خاموش روشن (ری استارت)\nکنید\n﻿\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 855,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 855,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 855,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
