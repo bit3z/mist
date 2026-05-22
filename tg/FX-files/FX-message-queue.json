@@ -6496,6 +6496,79 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1415,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779487500,
+      "poll": {
+        "id": "5803116689436443637",
+        "question": "ممبرای عزیز ترجیحتون کدوم گیفت کارته؟\n\n",
+        "options": [
+          {
+            "persistent_id": "0",
+            "text": "پی‌اس 5",
+            "voter_count": 0
+          },
+          {
+            "persistent_id": "1",
+            "text": "ایکس باکس",
+            "voter_count": 0
+          },
+          {
+            "persistent_id": "2",
+            "text": "گوگل پلی",
+            "voter_count": 0
+          },
+          {
+            "persistent_id": "3",
+            "text": "اپل",
+            "voter_count": 0
+          },
+          {
+            "persistent_id": "4",
+            "text": "نینتندو",
+            "voter_count": 0
+          }
+        ],
+        "total_voter_count": 0,
+        "open_period": 86400,
+        "close_date": 1779573900,
+        "is_closed": false,
+        "is_anonymous": true,
+        "allows_multiple_answers": true,
+        "allows_revoting": true,
+        "members_only": false,
+        "type": "regular",
+        "description": "• Sent via TeleFeed",
+        "description_entities": [
+          {
+            "offset": 11,
+            "length": 8,
+            "type": "text_link",
+            "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+          },
+          {
+            "offset": 11,
+            "length": 8,
+            "type": "bold"
+          },
+          {
+            "offset": 11,
+            "length": 8,
+            "type": "underline"
+          }
+        ]
+      }
     }
   ]
 }
