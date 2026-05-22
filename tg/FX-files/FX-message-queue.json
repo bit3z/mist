@@ -6402,6 +6402,100 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1414,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779484680,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFhmoQyAg2nPCYW1laDOtkCtV91otJAAKmEGsbVqRxUDi0co_gVGMwAQADAgADcwADOwQ",
+          "file_unique_id": "AQADphBrG1akcVB4",
+          "file_size": 1996,
+          "width": 90,
+          "height": 84
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFhmoQyAg2nPCYW1laDOtkCtV91otJAAKmEGsbVqRxUDi0co_gVGMwAQADAgADbQADOwQ",
+          "file_unique_id": "AQADphBrG1akcVBy",
+          "file_size": 25328,
+          "width": 320,
+          "height": 300
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFhmoQyAg2nPCYW1laDOtkCtV91otJAAKmEGsbVqRxUDi0co_gVGMwAQADAgADeAADOwQ",
+          "file_unique_id": "AQADphBrG1akcVB9",
+          "file_size": 103363,
+          "width": 800,
+          "height": 751
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFhmoQyAg2nPCYW1laDOtkCtV91otJAAKmEGsbVqRxUDi0co_gVGMwAQADAgADeQADOwQ",
+          "file_unique_id": "AQADphBrG1akcVB-",
+          "file_size": 110998,
+          "width": 912,
+          "height": 856
+        }
+      ],
+      "caption": "​🚨 خطر اعدام قریب‌الوقوع برای #داراب_احمدی\n\n​داراب احمدی، کارمند دانشگاه آزاد واحد #ممسنی، در تاریخ ۱۱ اسفند ۱۴۰۴ به دلیل شرکت در مراسم بزرگداشت جاویدنامان، مهرشاد قائدی و رضا شهریور، بازداشت شد. مأموران امنیتی او را به دلیل در دست داشتن پرچم شیر و خورشید دستگیر کردند و اکنون در سلول‌های انفرادی بازداشتگاه #عادل‌آباد #شیراز تحت فشارهای شدید نگهداری می‌شود. دستگاه قضایی با استناد به این اقدام نمادین، اتهام سنگین محاربه را علیه او مطرح کرده است؛ اتهامی ساختگی که جان این کارمند شریف را با خطر فوری اعدام روبرو می‌سازد. خانواده و نزدیکان داراب در وضعیت روحی بسیار بحرانی و زیر سایه تهدیدها به سر می‌برند و برای نجات جان فرزندشان چشم‌انتظار یاری و صدای رسای افکار عمومی هستند.\n\n​این یک نمونه کامنت برای حمایت از داراب احمدی است؛ می‌توانید آن را ویرایش کرده، عکس او را اضافه کنید و منتشر کنید.\n\n​» کامنت انگلیسی برای داراب احمدی «\n\n@SedayeAzadi1401\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 31,
+          "length": 12,
+          "type": "hashtag"
+        },
+        {
+          "offset": 84,
+          "length": 6,
+          "type": "hashtag"
+        },
+        {
+          "offset": 309,
+          "length": 10,
+          "type": "hashtag"
+        },
+        {
+          "offset": 320,
+          "length": 6,
+          "type": "hashtag"
+        },
+        {
+          "offset": 795,
+          "length": 35,
+          "type": "text_link",
+          "url": "https://x.com/intent/tweet?in_reply_to=2019336320946954700&text=%23DarabAhmadi%2C%20uni%20employee%20from%20Mamasani%2C%20arrested%20Mar%201%2C%202026%20for%20holding%20Lion%20%26%20Sun%20flag%20at%20a%20memorial.%20Held%20in%20AdelAbad%20prison%20solitary%2C%20charged%20with%20Moharebeh%2C%20facing%20execution.%20%40MELANIATRUMP%20%40UNHumanRights%20%40POTUS%20%40WhiteHouse%20%23DigitalBlackOutIran%20%23StopExecutionsInIran"
+        },
+        {
+          "offset": 832,
+          "length": 16,
+          "type": "mention"
+        },
+        {
+          "offset": 861,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 861,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 861,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
