@@ -4421,6 +4421,74 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1375,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779423838,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFX2oP2l6trXQmrZr70gwV6i2i2iAfAALeDWsbgqyAUJLIaLjoqh4-AQADAgADcwADOwQ",
+          "file_unique_id": "AQAD3g1rG4KsgFB4",
+          "file_size": 679,
+          "width": 42,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFX2oP2l6trXQmrZr70gwV6i2i2iAfAALeDWsbgqyAUJLIaLjoqh4-AQADAgADbQADOwQ",
+          "file_unique_id": "AQAD3g1rG4KsgFBy",
+          "file_size": 4818,
+          "width": 148,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFX2oP2l6trXQmrZr70gwV6i2i2iAfAALeDWsbgqyAUJLIaLjoqh4-AQADAgADeAADOwQ",
+          "file_unique_id": "AQAD3g1rG4KsgFB9",
+          "file_size": 16192,
+          "width": 369,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFX2oP2l6trXQmrZr70gwV6i2i2iAfAALeDWsbgqyAUJLIaLjoqh4-AQADAgADeQADOwQ",
+          "file_unique_id": "AQAD3g1rG4KsgFB-",
+          "file_size": 25863,
+          "width": 591,
+          "height": 1280
+        }
+      ],
+      "caption": "با پرداخت 660 یعنی زیر 1000هزار تومن برای یکی 5 گیگ اینترنت گرفتم 🥴 گفت چطوری گفتم خودتت چطوری 😂😂😂(با درگاه بانک تجارت بزنید)\n @XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 131,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 154,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 154,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 154,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
