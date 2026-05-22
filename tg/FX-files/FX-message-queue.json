@@ -5987,6 +5987,72 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1406,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779481920,
+      "video": {
+        "duration": 7,
+        "width": 270,
+        "height": 480,
+        "mime_type": "video/mp4",
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgV-ahC9QHOMgR1vhpvzJFQGhfD_LjwAAiAiAAKPj4hQjGXBjlqCE4wBAAdtAAM7BA",
+          "file_unique_id": "AQADICIAAo-PiFBy",
+          "file_size": 24867,
+          "width": 180,
+          "height": 320
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgV-ahC9QHOMgR1vhpvzJFQGhfD_LjwAAiAiAAKPj4hQjGXBjlqCE4wBAAdtAAM7BA",
+          "file_unique_id": "AQADICIAAo-PiFBy",
+          "file_size": 24867,
+          "width": 180,
+          "height": 320
+        },
+        "file_id": "BAACAgQAAyEFAATqPDJ3AAIFfmoQvUBzjIEdb4ab8yRUBoXw_y48AAIgIgACj4-IUIxlwY5aghOMOwQ",
+        "file_unique_id": "AgADICIAAo-PiFA",
+        "file_size": 747381
+      },
+      "caption": "اعتراض دانش‌آموزای چهارمحال بختیاری جلوی آموزش پرورش برای مجازی شدن امتحانات \nآموزش پرورشم امتحانارو مجازی کرد\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 111,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 124,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 150,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 150,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 150,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
