@@ -8596,6 +8596,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1441,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779557642,
+      "text": "💢‼️🇺🇸🇮🇷 ادعای واشنگتن تایمز: انتظار می‌رود ایالات متحده و ایران تا بعدازظهر روز یکشنبه توافقنامه‌ای برای پایان دادن به درگیری‌ها در تمام جبهه‌ها اعلام کنند.\n\nپیش‌نویس این پیشنهاد در اوایل روز جمعه نهایی شد و برای تأیید نهایی به رهبری هر دو کشور ارسال شد.\n\nچهره‌های کلیدی درگیر در تأیید پیش‌نویس شامل محمدباقر قالیباف، رئیس مجلس ایران، جی‌دی وانس، معاون رئیس‌جمهور، استیو ویتکوف و جرد کوشنر هستند.\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 414,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 414,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 414,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
