@@ -8111,6 +8111,67 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1435,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779544202,
+      "text": "Sni spoof\n46.38.137.156\n81.12.32.136\nhcaptcha.com \nNet مخابرات\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 9,
+          "type": "bold"
+        },
+        {
+          "offset": 10,
+          "length": 13,
+          "type": "blockquote"
+        },
+        {
+          "offset": 10,
+          "length": 13,
+          "type": "code"
+        },
+        {
+          "offset": 24,
+          "length": 12,
+          "type": "code"
+        },
+        {
+          "offset": 36,
+          "length": 12,
+          "type": "blockquote"
+        },
+        {
+          "offset": 75,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 75,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 75,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
