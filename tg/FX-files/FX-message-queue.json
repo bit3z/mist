@@ -8172,6 +8172,217 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1436,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779544382,
+      "text": "آیپی متصل شیر و خورشید : \n2.17.35.217\n2.17.35.40\n2.17.35.24\n2.17.100.234\n2.17.97.137\n2.17.106.118\n2.17.35.163\n2.17.106.137\n2.16.53.57\n2.16.53.65\n185.141.106.238\n2.17.35.217\n2.17.35.40\n2.17.35.24\n2.17.100.234\n2.17.97.137\n2.17.106.118\n2.17.35.163\n2.17.106.137\n2.16.53.57\n2.16.53.65\n23.58.222.107\n2.17.35.217\n2.17.35.40\n2.17.35.24\n2.17.100.234\n2.17.97.137\n2.17.106.118\n2.17.35.163\n2.17.106.137\n2.16.53.57\n2.16.53.65\nهمراه اول \n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 26,
+          "length": 386,
+          "type": "blockquote"
+        },
+        {
+          "offset": 26,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 38,
+          "length": 10,
+          "type": "url"
+        },
+        {
+          "offset": 49,
+          "length": 10,
+          "type": "url"
+        },
+        {
+          "offset": 60,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 73,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 85,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 98,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 110,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 123,
+          "length": 10,
+          "type": "url"
+        },
+        {
+          "offset": 134,
+          "length": 10,
+          "type": "url"
+        },
+        {
+          "offset": 145,
+          "length": 15,
+          "type": "url"
+        },
+        {
+          "offset": 161,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 173,
+          "length": 10,
+          "type": "url"
+        },
+        {
+          "offset": 184,
+          "length": 10,
+          "type": "url"
+        },
+        {
+          "offset": 195,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 208,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 220,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 233,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 245,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 258,
+          "length": 10,
+          "type": "url"
+        },
+        {
+          "offset": 269,
+          "length": 10,
+          "type": "url"
+        },
+        {
+          "offset": 280,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 294,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 306,
+          "length": 10,
+          "type": "url"
+        },
+        {
+          "offset": 317,
+          "length": 10,
+          "type": "url"
+        },
+        {
+          "offset": 328,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 341,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 353,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 366,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 378,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 391,
+          "length": 10,
+          "type": "url"
+        },
+        {
+          "offset": 402,
+          "length": 10,
+          "type": "url"
+        },
+        {
+          "offset": 424,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 437,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 459,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 459,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 459,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
