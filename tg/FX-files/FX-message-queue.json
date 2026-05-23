@@ -7118,6 +7118,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1429,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779527258,
+      "text": "همراه اول شیر و خورشید \n\n184.86.251.27\n184.51.252.36\n185.200.232.50\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 25,
+          "length": 42,
+          "type": "code"
+        },
+        {
+          "offset": 68,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 81,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 103,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 103,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 103,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
