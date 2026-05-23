@@ -9020,6 +9020,257 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1450,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779565863,
+      "text": "Site: nim.video\nBIN: *****\nIP: OWN\n\nSite: stockcake.com\nBIN: *****\nIP: OWN\n\nSite: wayin.ai\nBIN: *****\n— — — — —\nSite: tactiq.io\nBIN: *****\n— — — — —\nSite: kapwing.com\nBIN: *****\n— — — — —\nSite: spikes.studio\nBIN: *****\n— — — — —\nSite: humanizeai.pro\nBIN: *****\n— — — — —\nSite: scispace.com\nBIN: *****\n— — — — —\nSite: 21st.dev\nBIN: *****\n— — — — —\nSite: kodekloud.com\nBIN: *****\n— — — — —\nSite: zerogpt.com\nBIN: *****\n— — — — —\nSite: expo.dev\nBIN: *****\n— — — — —\nSite: webnovel.com\nBIN: *****\n— — — — —\nSite: hyperwriteai.com\nBIN: *****\n— — — — —\nSite: creativemode.net\nBIN: *****\n— — — — —\nSite: chessly.com\nBIN: *****\n— — — — —\nSite: uncensored.ai\nBIN: *****\n— — — — —\nSite: meshy.ai\nBIN: *****\n— — — — —\nSite: uncensored.chat\nBIN: *****\n— — — — —\nSite: replyworker.com\nBIN: *****\n— — — — —\nSite: yimeta.ai\nBIN: *****\n— — — — —\nSite: kimi.com\nBIN: *****\n— — — — —\nSite: vibecodeapp.com\nBIN: *****\n— — — — —\nSite: turboscribe.ai\nBIN: *****\n— — — — —\nSite: botify.ai\nBIN: *****\n— — — — —\nSite: gregmat.com\nBIN: *****\n— — — — —\nSite: egghead.io\nBIN: *****\n— — — — —\n— — — — —\nSite: dartnode.com\nBIN: *****\n— — — — —\nSite: koala.sh\nBIN: *****\n— — — — —\nSite: hedra.com\nBIN: *****\n— — — — —\nSite: jarvis.cx\nBIN: *****\n— — — — —\nSite: chatlyai.app\nBIN: *****\n— — — — —\nSite: digen.ai\nBIN: *****\n— — — — —\nSite: hyper3d.ai\nBIN: *****\n— — — — —\nSite: audiosocket.com\nBIN: *****\n— — — — —\nSite: mangatranslator.ai\nBIN: *****\n— — — — —\nSite: netus.ai\nBIN: *****\n— — — — —\nSite: lyricallabs.io\nBIN: *****\n— — — — —\nSite: novita.ai\nBIN: *****\n— — — — —\nSite: websim.ai\nBIN: *****\n— — — — —\nSite: clipfly.ai\nBIN: *****\n— — — — —\nSite: domoai.app\nBIN: *****\n— — — — —\nSite: colorart.ai\nBIN: *****\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 6,
+          "length": 9,
+          "type": "url"
+        },
+        {
+          "offset": 42,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 82,
+          "length": 8,
+          "type": "url"
+        },
+        {
+          "offset": 118,
+          "length": 9,
+          "type": "url"
+        },
+        {
+          "offset": 155,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 194,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 235,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 277,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 317,
+          "length": 8,
+          "type": "url"
+        },
+        {
+          "offset": 353,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 394,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 433,
+          "length": 8,
+          "type": "url"
+        },
+        {
+          "offset": 469,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 509,
+          "length": 16,
+          "type": "url"
+        },
+        {
+          "offset": 553,
+          "length": 16,
+          "type": "url"
+        },
+        {
+          "offset": 597,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 636,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 677,
+          "length": 8,
+          "type": "url"
+        },
+        {
+          "offset": 713,
+          "length": 15,
+          "type": "url"
+        },
+        {
+          "offset": 756,
+          "length": 15,
+          "type": "url"
+        },
+        {
+          "offset": 799,
+          "length": 9,
+          "type": "url"
+        },
+        {
+          "offset": 836,
+          "length": 8,
+          "type": "url"
+        },
+        {
+          "offset": 872,
+          "length": 15,
+          "type": "url"
+        },
+        {
+          "offset": 915,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 957,
+          "length": 9,
+          "type": "url"
+        },
+        {
+          "offset": 994,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 1033,
+          "length": 10,
+          "type": "url"
+        },
+        {
+          "offset": 1081,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 1121,
+          "length": 8,
+          "type": "url"
+        },
+        {
+          "offset": 1157,
+          "length": 9,
+          "type": "url"
+        },
+        {
+          "offset": 1194,
+          "length": 9,
+          "type": "url"
+        },
+        {
+          "offset": 1231,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 1271,
+          "length": 8,
+          "type": "url"
+        },
+        {
+          "offset": 1307,
+          "length": 10,
+          "type": "url"
+        },
+        {
+          "offset": 1345,
+          "length": 15,
+          "type": "url"
+        },
+        {
+          "offset": 1388,
+          "length": 18,
+          "type": "url"
+        },
+        {
+          "offset": 1434,
+          "length": 8,
+          "type": "url"
+        },
+        {
+          "offset": 1470,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 1512,
+          "length": 9,
+          "type": "url"
+        },
+        {
+          "offset": 1549,
+          "length": 9,
+          "type": "url"
+        },
+        {
+          "offset": 1586,
+          "length": 10,
+          "type": "url"
+        },
+        {
+          "offset": 1624,
+          "length": 10,
+          "type": "url"
+        },
+        {
+          "offset": 1662,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 1697,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 1697,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 1697,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
