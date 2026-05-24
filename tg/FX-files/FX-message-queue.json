@@ -11003,6 +11003,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1488,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779635645,
+      "text": "آیپی برای همراه اول\nتست کنید\n\nSni : yryirjrhqffsxwpg-a.akamaihd.net\n\nIp : 63.141.252.203\n\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 36,
+          "length": 31,
+          "type": "url"
+        },
+        {
+          "offset": 74,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 90,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 113,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 113,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 113,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
