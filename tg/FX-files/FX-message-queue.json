@@ -11540,6 +11540,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1499,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779644585,
+      "text": "از یه طرف اون فیلترشکن فروش بیشرف الآن تا این چند روز خبر توافق یا بازگشایی نت همینجوری الکی فقط حرفش شد یادشون اومد قیمت ها رو کم کنن مثلا برای مردم\n\nشما کصکش ها به فکر مردم نیستین اون یه ترا 2 ترا حجمی که گرفتین میدادین 300 400 میخواهید رو دستتون نمونه چون 1\nدرصد نت ها باز شه کسی گیگی 20 هزارم نمیخره از شما چه برسه 200 150 و... \n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 151,
+          "length": 181,
+          "type": "blockquote"
+        },
+        {
+          "offset": 333,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 356,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 356,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 356,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
