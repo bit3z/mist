@@ -9893,7 +9893,7 @@
       ]
     },
     {
-      "message_id": 1464,
+      "message_id": 1465,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -9905,46 +9905,21 @@
         "type": "channel"
       },
       "date": 1779610504,
-      "text": "لینک داخلی آپدیت شیر و خورشید \n\nhttps://punkpaste.ir/f/ShirOKhorshid-2026-0-03iy5e\n\nhttps://dl.toolschi.com/view.php?f=43accc69841b6088.zip\nhttps://punkpaste.ir/f/ShirOKhorshid-2026-0-03iy5e\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "text": "آپدیت جدید شیر و خورشید\n نصب کنید\n\nقسمت آیپی و sni خالی بذارید ، بزنید اتصال ، خودش اسکن میکنه و وصل میشه\n\n• Sent via TeleFeed",
       "entities": [
         {
-          "offset": 32,
-          "length": 50,
-          "type": "url"
-        },
-        {
-          "offset": 84,
-          "length": 55,
-          "type": "url"
-        },
-        {
-          "offset": 140,
-          "length": 50,
-          "type": "url"
-        },
-        {
-          "offset": 192,
-          "length": 12,
-          "type": "mention"
-        },
-        {
-          "offset": 205,
-          "length": 9,
-          "type": "mention"
-        },
-        {
-          "offset": 227,
+          "offset": 118,
           "length": 8,
           "type": "text_link",
           "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
         },
         {
-          "offset": 227,
+          "offset": 118,
           "length": 8,
           "type": "bold"
         },
         {
-          "offset": 227,
+          "offset": 118,
           "length": 8,
           "type": "underline"
         }
