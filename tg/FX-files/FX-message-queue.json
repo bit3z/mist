@@ -10098,6 +10098,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1469,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779617585,
+      "text": "مولتی لوکیشن سرعت بالا گیگی 250\nمولتی لوکیشن اقتصادی گیگی 190\nوایرگارد 5 گیگ 750\n10 گیگ 1350\nاقتصادی عادی موجود نیست.\nپرداخت به صورت رمز ارز و ریالی✅\nفروش ارز و انواع اکانت‌های قانونی برای Ai و Spotify و... هم داریم.\nبرای خرید :\n@e7fnn\n\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 229,
+          "length": 6,
+          "type": "mention"
+        },
+        {
+          "offset": 237,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 260,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 260,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 260,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
