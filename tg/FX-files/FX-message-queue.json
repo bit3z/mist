@@ -9800,6 +9800,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1462,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779609964,
+      "text": "آپدیت جدید کلاینت شیر و خورشید 2026.05.24:\n\n- آپدیت Beast Mode برای درست کار کردن روی CDN Fronting\n\n- اضافه شدن اسکنر ای‌پی. برنامه لیست خیلی بزرگی از ای‌پی های ممکن را داره٬ پس اگر در اتصال مشکلی دارید پیشنهاد میکنم تنظیمات قدیمی ای‌پی ها و SNI رو از قسمت settings برنامه حذف کنید (خالی باشه)‌ و اجازه بدید برنامه خودش کار رو انجام بده. دقت کنید ممکن هست بار اول خیلی طول بکشه٬ حتی چند ساعت!\n\n- اضافه شدن پروتکل های بیشتری که با CDN Fronting کار میکنند. احتمال اتصالتون و سرعت باید یکمی بهتر باشه الان\n\n- قابلیت غیر فعال کردن سایتی که زمان اتصال٬ سایفون باز میکنه!\n\n- قابلیت تنظیم پورت مورد نظر خودتون برای LAN Proxy ها.\n\n- قابلیت تنظیم username و password مورد نظر خودتون برای LAN Proxy ها. این تنظیم دلخواه است و اگر تنظیم کنید فقط با این username و password در شبکه خانگی میتونن به شما وصل بشوند.\n\n- آپدیت شدن هسته سایفون\n\nمیتونید از اینجا دانلود و نصب کنید و ممنون میشم اگه به اشتراک بگذارید که تعداد بیشتری ببینند:\n\nhttps://github.com/shirokhorshid/shirokhorshid-android/releases/tag/v2026.05.24-a3b91cf\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 922,
+          "length": 87,
+          "type": "url"
+        },
+        {
+          "offset": 1022,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 1022,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 1022,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://github.com/shirokhorshid/shirokhorshid-android/releases/tag/v2026.05.24-a3b91cf"
+      }
     }
   ]
 }
