@@ -11586,6 +11586,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1500,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779649205,
+      "text": "وای انگاری  فلفل کردن تو کون این صاحبان بات های فروش فیلتر شکن  همی تخفیف هی تخفیف کانفیگ 500 400 دارن میکنن 130 140  ببین چقدر ریدن به خودشون که گیگی 100 اوتباند میخریدن به مردم 300 400 میدادن میدونن نت باز شه ضرر میکنن حاشیه سود دارن کف که حجم ها رد کنن بره سریع تر\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 24,
+          "length": 4,
+          "type": "spoiler"
+        },
+        {
+          "offset": 268,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 291,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 291,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 291,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
