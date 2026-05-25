@@ -12916,6 +12916,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1525,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779709148,
+      "text": "برزیل و نیمار 🥲\n@odin_club\n@Arvanpingbot\n#mahdi\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 17,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 28,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 42,
+          "length": 6,
+          "type": "hashtag"
+        },
+        {
+          "offset": 61,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 61,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 61,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
