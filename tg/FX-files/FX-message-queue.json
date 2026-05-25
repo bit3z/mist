@@ -12511,6 +12511,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1517,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779708127,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIF7WoUMN9sD0CdAWgidswbuupTu5h6AAKhD2sbvGugUBcGoyW1oda_AQADAgADcwADOwQ",
+          "file_unique_id": "AQADoQ9rG7xroFB4",
+          "file_size": 2550,
+          "width": 72,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIF7WoUMN9sD0CdAWgidswbuupTu5h6AAKhD2sbvGugUBcGoyW1oda_AQADAgADbQADOwQ",
+          "file_unique_id": "AQADoQ9rG7xroFBy",
+          "file_size": 35326,
+          "width": 256,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIF7WoUMN9sD0CdAWgidswbuupTu5h6AAKhD2sbvGugUBcGoyW1oda_AQADAgADeAADOwQ",
+          "file_unique_id": "AQADoQ9rG7xroFB9",
+          "file_size": 150591,
+          "width": 640,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIF7WoUMN9sD0CdAWgidswbuupTu5h6AAKhD2sbvGugUBcGoyW1oda_AQADAgADeQADOwQ",
+          "file_unique_id": "AQADoQ9rG7xroFB-",
+          "file_size": 258061,
+          "width": 964,
+          "height": 1205
+        }
+      ],
+      "caption": "🇪🇸 رسمی؛ لیست تیم ملی اسپانیا برای جام جهانی 2026 آمریکا\n\n◀️ دروازه‌بان‌ها: اونای سیمون، داوید رایا، خوان گارسیا\n\n◀️ مدافعین: کوکوریا، گریمالدو، کوبارسی، لاپورت، پوبیل، اریک گارسیا، مارکوس یورنته، پدرو پورو\n\n◀️ هافبک‌ها: پدری، فابیان رویز، زوبیمندی، گاوی، رودری، الکس بائنا، مرینو\n\n◀️ مهاجمین: اویارزابال، المو، نیکو ویلیامز، یرمی پینو، فران تورس، ایگلیسیاس، ویکتور مونوز، لامین یامال\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 387,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 400,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 426,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 426,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 426,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
