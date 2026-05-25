@@ -16116,6 +16116,42 @@
       "link_preview_options": {
         "url": "https://t.me/starzXXbot?start=ref_6948878650"
       }
+    },
+    {
+      "message_id": 1591,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779747936,
+      "text": "الان دیدم شماره میخواد\nواسه اینکه رفرال فیک نزنن\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 61,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 61,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 61,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
