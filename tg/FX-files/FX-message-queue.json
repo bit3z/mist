@@ -14455,6 +14455,42 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1555,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779741516,
+      "text": "🔹حوالی ساعت 23:44، ۳ انفجار بزرگ در نزدیکی شهر بندرعباس نزدیک پایگاه شکاری و فرودگاه\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 98,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 98,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 98,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
