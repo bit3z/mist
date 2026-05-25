@@ -13167,6 +13167,72 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1531,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779714968,
+      "text": "New IP shir O khorshid🦁\nSamanTell⚡️\n\n31.214.169.244\n185.109.61.27\n185.88.178.196\n185.208.174.167\n185.141.106.238\n109.72.197.1\n142.54.178.211\n63.141.252.203\n185.142.158.162\n80.191.243.226\n5.160.128.142\n78.157.41.60\n185.208.175.228\n5.160.13.85\n2.21.2.58\n2.21.2.89\n185.143.232.122\n85.133.167.108\n23.221.28.5\n185.53.142.174\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 24,
+          "type": "bold"
+        },
+        {
+          "offset": 25,
+          "length": 11,
+          "type": "bold"
+        },
+        {
+          "offset": 38,
+          "length": 282,
+          "type": "blockquote"
+        },
+        {
+          "offset": 38,
+          "length": 282,
+          "type": "code"
+        },
+        {
+          "offset": 321,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 334,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 356,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 356,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 356,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
