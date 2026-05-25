@@ -15364,6 +15364,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1574,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779745116,
+      "text": "🔴کانال سپاه \n\n اسامی شهدای حمله سحرگاه شب گذشته ۴ خرداد در جنوب جزیره لارک\n\nبر اساس اعلام منابع محلی نام سه تن از شهدای حمله دشمن متخاصم آمریکایی-صهیونی که تا این لحظه شناسایی شدند به شرح زیر است:\n\n🔸شهید عباس اسلامی \n🔸شهید قدرت زرنگاری \n🔸شهید عبدالرضا گلزاری\n\n🔸گفتنی است تعداد شهدا هنوز مشخص نشده.\n﻿\n@odin_club\n@Arvanpingbot\n#mahdi\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 305,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 316,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 330,
+          "length": 6,
+          "type": "hashtag"
+        },
+        {
+          "offset": 349,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 349,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 349,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
