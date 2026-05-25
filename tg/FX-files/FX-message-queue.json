@@ -11795,6 +11795,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1503,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779694747,
+      "text": "شیر خورشید متصل:\n185.181.183.186:53,46.148.32.198:53,46.148.32.253:53,46.148.32.60:53,46.148.32.239:53,46.148.32.47:53,91.243.170.213:53,217.219.34.42:53\n\nبا اسکنر اسکن کنید \n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 17,
+          "length": 136,
+          "type": "code"
+        },
+        {
+          "offset": 175,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 188,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 210,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 210,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 210,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
