@@ -12246,6 +12246,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1512,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779701047,
+      "text": "سیتنا : یک منبع مطلع به ما گفته؛ امروز تو جلسه ستاد ساماندهی فضای مجازی که به ریاست دکتر عارف برگزار شده، با بازگشت اینترنت به وضعیت قبل موافقت شده\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 147,
+          "type": "bold"
+        },
+        {
+          "offset": 160,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 160,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 160,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
