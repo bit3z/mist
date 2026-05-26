@@ -24983,6 +24983,194 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1790,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779829658,
+      "text": "📱دوستانی که آیفون دارند با نت های مختلف این vpn هارو تست کنید:\n\n→ X VPN\n→ Next VPN\n→ Defyx VPN\n→ Plato VPN\n→ Hola VPN\n→ TOP VPN\n→ Super VPN\n→ Ostrich VPN\n→ Psiphon VPN \n→ CoolVPN Pro\n→ JumpJump VPN\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 2,
+          "length": 62,
+          "type": "bold"
+        },
+        {
+          "offset": 65,
+          "length": 134,
+          "type": "blockquote"
+        },
+        {
+          "offset": 66,
+          "length": 6,
+          "type": "text_link",
+          "url": "https://apps.apple.com/us/app/x-vpn-vpn-fast-secure/id1250312807"
+        },
+        {
+          "offset": 66,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 75,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://apps.apple.com/us/app/nextvpn-fast-safe-vpn-proxy/id1610773520"
+        },
+        {
+          "offset": 75,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 86,
+          "length": 9,
+          "type": "text_link",
+          "url": "https://apps.apple.com/gb/app/defyx/id6746811872"
+        },
+        {
+          "offset": 86,
+          "length": 9,
+          "type": "bold"
+        },
+        {
+          "offset": 98,
+          "length": 5,
+          "type": "text_link",
+          "url": "https://apps.apple.com/us/app/platovpn-super-unlimited-proxy/id6444485605"
+        },
+        {
+          "offset": 98,
+          "length": 5,
+          "type": "bold"
+        },
+        {
+          "offset": 103,
+          "length": 4,
+          "type": "text_link",
+          "url": "https://apps.apple.com/us/app/platovpn-super-unlimited-proxy/id6444485605"
+        },
+        {
+          "offset": 103,
+          "length": 4,
+          "type": "bold"
+        },
+        {
+          "offset": 110,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://apps.apple.com/us/app/hola-vpn/id1553473179"
+        },
+        {
+          "offset": 110,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 121,
+          "length": 7,
+          "type": "text_link",
+          "url": "https://apps.apple.com/us/app/top-vpn-easy-fast-secure/id1661127857"
+        },
+        {
+          "offset": 121,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 131,
+          "length": 9,
+          "type": "text_link",
+          "url": "https://apps.apple.com/app/id1370293473"
+        },
+        {
+          "offset": 131,
+          "length": 9,
+          "type": "bold"
+        },
+        {
+          "offset": 143,
+          "length": 11,
+          "type": "text_link",
+          "url": "https://apps.apple.com/us/app/ostrich-vpn-proxy-master/id1532634346"
+        },
+        {
+          "offset": 143,
+          "length": 11,
+          "type": "bold"
+        },
+        {
+          "offset": 157,
+          "length": 12,
+          "type": "text_link",
+          "url": "https://apps.apple.com/us/app/psiphon-vpn-freedom-online/id1276263909"
+        },
+        {
+          "offset": 157,
+          "length": 12,
+          "type": "bold"
+        },
+        {
+          "offset": 172,
+          "length": 11,
+          "type": "text_link",
+          "url": "https://apps.apple.com/us/app/cool-vpn-pro-secure-proxy-vpn/id1460130689"
+        },
+        {
+          "offset": 172,
+          "length": 11,
+          "type": "bold"
+        },
+        {
+          "offset": 186,
+          "length": 12,
+          "type": "text_link",
+          "url": "https://apps.apple.com/us/app/jumpjumpvpn-super-unlimited/id6451097052"
+        },
+        {
+          "offset": 186,
+          "length": 12,
+          "type": "bold"
+        },
+        {
+          "offset": 199,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 212,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 234,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 234,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 234,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
