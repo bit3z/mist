@@ -18450,6 +18450,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1644,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779795217,
+      "text": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:443?path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#%40Error404Bin\n\nمتصل پر قدرت ایپی جدید\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 265,
+          "type": "code"
+        },
+        {
+          "offset": 291,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 304,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 326,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 326,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 326,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
