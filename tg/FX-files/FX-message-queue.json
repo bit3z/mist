@@ -17874,6 +17874,46 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1629,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779793237,
+      "sticker": {
+        "width": 512,
+        "height": 512,
+        "emoji": "🥺",
+        "set_name": "GapWhale_by_TgEmojis_bot",
+        "is_animated": false,
+        "is_video": false,
+        "type": "regular",
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgZdahV9VY3XPyXuGp5t_cXfzLK283cAAu4dAAIJa4FQAviW7mu-114BAAdtAAM7BA",
+          "file_unique_id": "AQAD7h0AAglrgVBy",
+          "file_size": 6664,
+          "width": 320,
+          "height": 320
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgZdahV9VY3XPyXuGp5t_cXfzLK283cAAu4dAAIJa4FQAviW7mu-114BAAdtAAM7BA",
+          "file_unique_id": "AQAD7h0AAglrgVBy",
+          "file_size": 6664,
+          "width": 320,
+          "height": 320
+        },
+        "file_id": "CAACAgQAAyEFAATqPDJ3AAIGXWoVfVWN1z8l7hqebf3F38yytvN3AALuHQACCWuBUAL4lu5rvtdeOwQ",
+        "file_unique_id": "AgAD7h0AAglrgVA",
+        "file_size": 12546
+      }
     }
   ]
 }
