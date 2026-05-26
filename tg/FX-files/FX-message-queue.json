@@ -18173,7 +18173,7 @@
       ]
     },
     {
-      "message_id": 1636,
+      "message_id": 1637,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -18185,31 +18185,31 @@
         "type": "channel"
       },
       "date": 1779794497,
-      "text": "ثابتی: باید از روی جنازه من رد بشوید تا بتوانید اینترنت بین‌الملل را وصل کنید.\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "text": "trojan://humanity@104.18.139.67:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#odin_club\nایرانسل رایتل\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
       "entities": [
         {
-          "offset": 80,
+          "offset": 154,
           "length": 10,
           "type": "mention"
         },
         {
-          "offset": 93,
+          "offset": 167,
           "length": 13,
           "type": "mention"
         },
         {
-          "offset": 119,
+          "offset": 193,
           "length": 8,
           "type": "text_link",
           "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
         },
         {
-          "offset": 119,
+          "offset": 193,
           "length": 8,
           "type": "bold"
         },
         {
-          "offset": 119,
+          "offset": 193,
           "length": 8,
           "type": "underline"
         }
