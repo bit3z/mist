@@ -20347,6 +20347,69 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1688,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779802117,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIGmGoVoAWdSmiQOpeUfHhYU0Km8Sb6AAJLDmsbXb6wUPxrubfbULTkAQADAgADcwADOwQ",
+          "file_unique_id": "AQADSw5rG12-sFB4",
+          "file_size": 776,
+          "width": 40,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIGmGoVoAWdSmiQOpeUfHhYU0Km8Sb6AAJLDmsbXb6wUPxrubfbULTkAQADAgADbQADOwQ",
+          "file_unique_id": "AQADSw5rG12-sFBy",
+          "file_size": 6729,
+          "width": 144,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIGmGoVoAWdSmiQOpeUfHhYU0Km8Sb6AAJLDmsbXb6wUPxrubfbULTkAQADAgADeAADOwQ",
+          "file_unique_id": "AQADSw5rG12-sFB9",
+          "file_size": 22547,
+          "width": 359,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIGmGoVoAWdSmiQOpeUfHhYU0Km8Sb6AAJLDmsbXb6wUPxrubfbULTkAQADAgADeQADOwQ",
+          "file_unique_id": "AQADSw5rG12-sFB-",
+          "file_size": 40023,
+          "width": 575,
+          "height": 1280
+        }
+      ],
+      "caption": "Flyvpn\n\nهم روی مخابرات اوکیه کسایی ک دارنش🚀\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 57,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 57,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 57,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
