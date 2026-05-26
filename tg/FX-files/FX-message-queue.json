@@ -20039,6 +20039,57 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1682,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779801037,
+      "text": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.21.7.21:2096?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%40Error404Bin\nمتصل مخابرات پیشگامان زیتل\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 200,
+          "type": "code"
+        },
+        {
+          "offset": 229,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 242,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 264,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 264,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 264,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
