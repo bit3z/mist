@@ -22077,6 +22077,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1724,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779808417,
+      "text": "Toggle vpn premium\n\n1486660503675243\n\nترجیحا اونایی ک مخابراتن و آسیاتک و ..وصلن بزنن \nهرکی هم زد اسکرین بده\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 20,
+          "length": 16,
+          "type": "code"
+        },
+        {
+          "offset": 121,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 121,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 121,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
