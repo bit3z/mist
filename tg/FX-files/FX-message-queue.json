@@ -20741,6 +20741,62 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1697,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779803977,
+      "text": "اگه سیم کارت دائمی همراه اول دارید با نسخه web وارد همراه من بشید my.mci.ir\n\nوقتی تو ماه هرچقدر صورتحسابتون باشه پرداخت کنید\n\nبرید تو قسمت تشویقی\n\nبعد هدیه شتاب در پرداخت رو بزنید\n\n۲ گیگ یا 75 امتیاز رو انتخاب کنید\n\nو تند‌تند روی فعالسازی تا قبل از نمایش پیام موفقیت سمت راست پایین ادامه بدید\nچند لحظه صبر کنید بعدش اینترنت براتون با حجم زیاد فعال میشه\n#موقت\nباگه\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 66,
+          "length": 9,
+          "type": "url"
+        },
+        {
+          "offset": 353,
+          "length": 5,
+          "type": "hashtag"
+        },
+        {
+          "offset": 364,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 377,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 403,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 403,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 403,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
