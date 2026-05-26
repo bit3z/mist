@@ -18045,6 +18045,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1633,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779794077,
+      "text": "دوتا آیپی کلودفلر باز شد.\n104.18.139.67\n104.16.7.70\n\nبسازید عشق کنید  الانم کافینگ‌میزارم\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 26,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 40,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 102,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 102,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 102,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
