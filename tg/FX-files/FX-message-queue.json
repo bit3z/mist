@@ -26324,6 +26324,96 @@
       "link_preview_options": {
         "url": "https://play.google.com/store/apps/details?id=app.intra"
       }
+    },
+    {
+      "message_id": 1814,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779868240,
+      "media_group_id": "14238945926409620",
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHFmoWolA-444nYWQuwYH21YXPqt4JAAIwDmsbZ2uwUPR0hYl2xA5KAQADAgADcwADOwQ",
+          "file_unique_id": "AQADMA5rG2drsFB4",
+          "file_size": 1549,
+          "width": 83,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHFmoWolA-444nYWQuwYH21YXPqt4JAAIwDmsbZ2uwUPR0hYl2xA5KAQADAgADbQADOwQ",
+          "file_unique_id": "AQADMA5rG2drsFBy",
+          "file_size": 23369,
+          "width": 295,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHFmoWolA-444nYWQuwYH21YXPqt4JAAIwDmsbZ2uwUPR0hYl2xA5KAQADAgADeAADOwQ",
+          "file_unique_id": "AQADMA5rG2drsFB9",
+          "file_size": 98980,
+          "width": 737,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHFmoWolA-444nYWQuwYH21YXPqt4JAAIwDmsbZ2uwUPR0hYl2xA5KAQADAgADeQADOwQ",
+          "file_unique_id": "AQADMA5rG2drsFB-",
+          "file_size": 154264,
+          "width": 1080,
+          "height": 1173
+        }
+      ],
+      "caption": "​🚨 خطر اعدام یک جوان ۲۰ ساله   #فرزاد_علائی_شیخ_رباط\n​جان فرزاد علائی شیخ رباط، جوان ۲۰ ساله بختیاری و ساکن #اصفهان، در خطری فوری و جدی قرار دارد. فرزاد در روزهای ۲۶ یا ۲۷ دی‌ماه ۱۴۰۴، زمانی که در کنار دوستانش بود، توسط نیروهای امنیتی بازداشت شد و تحت فشارهای شدید برای اعترافات اجباری قرار گرفت. اکنون برای او و دوستانش حکم سنگین اعدام صادر شده و همگی در زندان مرکزی #اصفهان تحت شرایطی سخت و در فضایی از بی‌خبری مطلق و نگرانی عمیق خانواده‌هایشان نگهداری می‌شوند. وضعیت فرزاد بحرانی است و هر لحظه بیم آن می‌رود که این حکم ناعادلانه به مرحله اجرا درآید. خانواده او در تنهایی و اضطراب، چشم‌انتظار یاری و همصدایی مردم هستند؛ نباید اجازه دهیم فرزاد در سکوت خبری به چوبه دار سپرده شود.\n\n​این یک نمونه کامنت برای حمایت از فرزاد علائی شیخ رباط است؛ می‌توانید آن را ویرایش کرده، عکس او را اضافه کنید و منتشر کنید.\n​» کامنت انگلیسی برای فرزاد علائی شیخ رباط «\n\n@SedayeAzadi1401\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 32,
+          "length": 21,
+          "type": "hashtag"
+        },
+        {
+          "offset": 109,
+          "length": 7,
+          "type": "hashtag"
+        },
+        {
+          "offset": 369,
+          "length": 7,
+          "type": "hashtag"
+        },
+        {
+          "offset": 807,
+          "length": 44,
+          "type": "text_link",
+          "url": "https://x.com/intent/tweet?in_reply_to=2019336320946954700&text=20yo%20%23FarzadAlaei%20from%20Isfahan%2C%20arrested%20Jan2026.%20Forced%20to%20confess%2C%20sentenced%20to%20death.%20Held%20in%20Isfahan%20Prison%2C%20facing%20imminent%20execution.%20Help%21%20%40MELANIATRUMP%20%40UNHumanRights%20%40POTUS%20%40WhiteHouse%20%23StopExecutionsInIran%20%23DigitalBlackOutIran"
+        },
+        {
+          "offset": 853,
+          "length": 16,
+          "type": "mention"
+        },
+        {
+          "offset": 882,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 882,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 882,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
