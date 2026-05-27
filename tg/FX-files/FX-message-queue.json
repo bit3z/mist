@@ -26222,6 +26222,108 @@
       "link_preview_options": {
         "url": "https://play.google.com/store/apps/details?id=com.ufovpn.connect.velnet"
       }
+    },
+    {
+      "message_id": 1813,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779862779,
+      "text": "کد DNS جدید برای رفع فیلتر یوتیوب\n\nhttps://BASIC.rethinkdns.com/dns-query\n\nhttps://kr-sel.doh.sb/dns-query\n\nhttps://dns.paesa.es/dns-query\n\nhttps://dns.dynx.pro/dns-query\n\nhttps://dns.anon.no/dns-query\n\nhttps://dns.nullsproxy.com/dns-query\n\nhttps://max.rethinkdns.com/rec\n\nhttps://max.rethinkdns.com/dns-query\n\nداخل برنامه intra بزنید\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 34,
+          "type": "bold"
+        },
+        {
+          "offset": 35,
+          "length": 38,
+          "type": "code"
+        },
+        {
+          "offset": 75,
+          "length": 31,
+          "type": "code"
+        },
+        {
+          "offset": 108,
+          "length": 30,
+          "type": "code"
+        },
+        {
+          "offset": 140,
+          "length": 30,
+          "type": "code"
+        },
+        {
+          "offset": 172,
+          "length": 29,
+          "type": "code"
+        },
+        {
+          "offset": 203,
+          "length": 36,
+          "type": "code"
+        },
+        {
+          "offset": 241,
+          "length": 30,
+          "type": "code"
+        },
+        {
+          "offset": 273,
+          "length": 36,
+          "type": "code"
+        },
+        {
+          "offset": 311,
+          "length": 11,
+          "type": "bold"
+        },
+        {
+          "offset": 323,
+          "length": 5,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=app.intra"
+        },
+        {
+          "offset": 323,
+          "length": 5,
+          "type": "bold"
+        },
+        {
+          "offset": 328,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 347,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 347,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 347,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://play.google.com/store/apps/details?id=app.intra"
+      }
     }
   ]
 }
