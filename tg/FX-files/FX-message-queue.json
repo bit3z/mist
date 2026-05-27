@@ -29061,6 +29061,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1855,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779904121,
+      "text": "vless://1cafdcd8-3279-48a8-a374-49428456ef62@138.124.29.1:15612?security=none&encryption=none&headerType=none&type=tcp#%40Error404Bin\n\nمتصل ۱۰۰گیگ\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 133,
+          "type": "code"
+        },
+        {
+          "offset": 147,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 160,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 182,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 182,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 182,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
