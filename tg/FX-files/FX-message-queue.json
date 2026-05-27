@@ -25655,6 +25655,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1802,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779855879,
+      "text": "Mullvad VPN\n\n0716212478906860 | Expiry: 2026-07-22 | Days Left: 57\n0967766056019002 | Expiry: 2026-06-08 | Days Left: 14\n\nاسکرین یادتون نره / بگید با چه نتی و لوکیشنی وصل شدید \n\nری اکشن بدید ندید همتون عشقید\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 13,
+          "length": 16,
+          "type": "code"
+        },
+        {
+          "offset": 67,
+          "length": 16,
+          "type": "code"
+        },
+        {
+          "offset": 220,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 220,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 220,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
