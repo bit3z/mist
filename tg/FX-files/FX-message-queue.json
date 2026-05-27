@@ -29005,6 +29005,62 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1854,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779897940,
+      "text": "#ربات فیلترشکن #جدید #روسی \n\n4 گیگ 5 روزه \n\nلینک ساب میده باید تو برنامه happ وارد کنید \n\n@WhiteGhostVPN_bot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 5,
+          "type": "hashtag"
+        },
+        {
+          "offset": 15,
+          "length": 5,
+          "type": "hashtag"
+        },
+        {
+          "offset": 21,
+          "length": 5,
+          "type": "hashtag"
+        },
+        {
+          "offset": 90,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 121,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 121,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 121,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
