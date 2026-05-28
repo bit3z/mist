@@ -34462,6 +34462,72 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1969,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780010294,
+      "video": {
+        "duration": 55,
+        "width": 268,
+        "height": 480,
+        "mime_type": "video/mp4",
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgexahjNNaIGtazpuY-ELtofEF0dX-AAAsUdAAIdGMhQ482voBb10TABAAdtAAM7BA",
+          "file_unique_id": "AQADxR0AAh0YyFBy",
+          "file_size": 4877,
+          "width": 179,
+          "height": 320
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgexahjNNaIGtazpuY-ELtofEF0dX-AAAsUdAAIdGMhQ482voBb10TABAAdtAAM7BA",
+          "file_unique_id": "AQADxR0AAh0YyFBy",
+          "file_size": 4877,
+          "width": 179,
+          "height": 320
+        },
+        "file_id": "BAACAgQAAyEFAATqPDJ3AAIHsWoYzTWiBrWs6bmPhC7aHxBdHV_gAALFHQACHRjIUOPNr6AW9dEwOwQ",
+        "file_unique_id": "AgADxR0AAh0YyFA",
+        "file_size": 2369841
+      },
+      "caption": "چندتا از نیروهای طرفدار شاهزاده رضا پهلوی مثل اینکه رفتن یکیو که تو اعتراضات دی‌ماه نقش داشته اینجوری به رگبار گرفتنش\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 118,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 131,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 157,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 157,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 157,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
