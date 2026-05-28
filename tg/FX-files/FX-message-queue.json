@@ -32286,6 +32286,287 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1926,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779990912,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHhmoYgYATg2Dwd61TJpRhTh2rWBitAAKqD2sbhijBUP2e0AAB85slCwEAAwIAA3MAAzsE",
+          "file_unique_id": "AQADqg9rG4YowVB4",
+          "file_size": 1389,
+          "width": 60,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHhmoYgYATg2Dwd61TJpRhTh2rWBitAAKqD2sbhijBUP2e0AAB85slCwEAAwIAA20AAzsE",
+          "file_unique_id": "AQADqg9rG4YowVBy",
+          "file_size": 21606,
+          "width": 213,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHhmoYgYATg2Dwd61TJpRhTh2rWBitAAKqD2sbhijBUP2e0AAB85slCwEAAwIAA3gAAzsE",
+          "file_unique_id": "AQADqg9rG4YowVB9",
+          "file_size": 96548,
+          "width": 533,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHhmoYgYATg2Dwd61TJpRhTh2rWBitAAKqD2sbhijBUP2e0AAB85slCwEAAwIAA3kAAzsE",
+          "file_unique_id": "AQADqg9rG4YowVB-",
+          "file_size": 238097,
+          "width": 853,
+          "height": 1280
+        }
+      ],
+      "caption": "اکانت و سرورهای اختصاصی  Open_Connect\n\nمتصل برای همه اپراتور و پلتفورم ها \n\nServer-Adress : \n\nTurkey:tr-is2-smart.serverlocation.co:1600\n\nItaly:it-ml.serverlocation.co:1600\n\nFrance:fr-pr1-smart.serverlocation.co:1600\n\nGermany: gr-at.serverlocation.co:1600\n\nSweden:se-st-smart.serverlocation.co:1600\n\nJapan:jp-tk2-smart.serverlocation.co:1600\n\nUSA:us-ny2-smart.serverlocation.co:1600\n\nUnited Kingdom uk-lon.serverlocation.co:1600\n\nBrazil:br-sp2-smart.serverlocation.co:1600\n\nCanada:ca-tor2-smart.serverlocation.co:1600\n\nNetherland:nl-am-smart.serverlocation.co:1600\n\nAustralia:au-mel2-smart.serverlocation.co:1600\n\nUAE:uae-db2-smart.serverlocation.co:1600\n\nSpain: es-md.serverlocation.co:1600\n\nNorway:no-os.serverlocation.co:1600\n➿➿➿➿➿➿➿➿➿➿➿➿\nUsername:VPN-1315192\n\nPassword:@Error404Bin\n\nلینک دانلود برای :\n\nAndroid  IPhone  Windows \n\n\nری اکشن یادتون نره\n\n@ErrorBin \n@Error404Bin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 23,
+          "type": "bold"
+        },
+        {
+          "offset": 39,
+          "length": 35,
+          "type": "bold"
+        },
+        {
+          "offset": 94,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 35,
+          "type": "code"
+        },
+        {
+          "offset": 138,
+          "length": 5,
+          "type": "bold"
+        },
+        {
+          "offset": 144,
+          "length": 28,
+          "type": "code"
+        },
+        {
+          "offset": 174,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 181,
+          "length": 35,
+          "type": "code"
+        },
+        {
+          "offset": 218,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 227,
+          "length": 28,
+          "type": "code"
+        },
+        {
+          "offset": 257,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 264,
+          "length": 34,
+          "type": "code"
+        },
+        {
+          "offset": 300,
+          "length": 5,
+          "type": "bold"
+        },
+        {
+          "offset": 306,
+          "length": 35,
+          "type": "code"
+        },
+        {
+          "offset": 343,
+          "length": 3,
+          "type": "bold"
+        },
+        {
+          "offset": 347,
+          "length": 35,
+          "type": "code"
+        },
+        {
+          "offset": 384,
+          "length": 14,
+          "type": "bold"
+        },
+        {
+          "offset": 399,
+          "length": 29,
+          "type": "code"
+        },
+        {
+          "offset": 430,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 437,
+          "length": 34,
+          "type": "code"
+        },
+        {
+          "offset": 474,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 481,
+          "length": 36,
+          "type": "code"
+        },
+        {
+          "offset": 519,
+          "length": 10,
+          "type": "bold"
+        },
+        {
+          "offset": 530,
+          "length": 34,
+          "type": "code"
+        },
+        {
+          "offset": 566,
+          "length": 9,
+          "type": "bold"
+        },
+        {
+          "offset": 576,
+          "length": 36,
+          "type": "code"
+        },
+        {
+          "offset": 614,
+          "length": 3,
+          "type": "bold"
+        },
+        {
+          "offset": 618,
+          "length": 36,
+          "type": "code"
+        },
+        {
+          "offset": 656,
+          "length": 5,
+          "type": "bold"
+        },
+        {
+          "offset": 663,
+          "length": 28,
+          "type": "code"
+        },
+        {
+          "offset": 693,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 700,
+          "length": 28,
+          "type": "code"
+        },
+        {
+          "offset": 742,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 751,
+          "length": 11,
+          "type": "code"
+        },
+        {
+          "offset": 764,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 773,
+          "length": 12,
+          "type": "code"
+        },
+        {
+          "offset": 787,
+          "length": 16,
+          "type": "bold"
+        },
+        {
+          "offset": 807,
+          "length": 7,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.github.digitalsoftwaresolutions.openconnect"
+        },
+        {
+          "offset": 816,
+          "length": 6,
+          "type": "text_link",
+          "url": "https://apps.apple.com/us/app/cisco-secure-client/id1135064690"
+        },
+        {
+          "offset": 824,
+          "length": 7,
+          "type": "text_link",
+          "url": "https://gitlab.com/openconnect/openconnect-gui/-/releases"
+        },
+        {
+          "offset": 835,
+          "length": 19,
+          "type": "bold"
+        },
+        {
+          "offset": 855,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 866,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 891,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 891,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 891,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
