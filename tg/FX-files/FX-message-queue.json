@@ -30992,6 +30992,74 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1901,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779960490,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHbWoYCqqe7hzXrO9lheswaGqEORWJAAJSD2sbhijBUF33kG2g0_qgAQADAgADcwADOwQ",
+          "file_unique_id": "AQADUg9rG4YowVB4",
+          "file_size": 1297,
+          "width": 67,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHbWoYCqqe7hzXrO9lheswaGqEORWJAAJSD2sbhijBUF33kG2g0_qgAQADAgADbQADOwQ",
+          "file_unique_id": "AQADUg9rG4YowVBy",
+          "file_size": 15203,
+          "width": 239,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHbWoYCqqe7hzXrO9lheswaGqEORWJAAJSD2sbhijBUF33kG2g0_qgAQADAgADeAADOwQ",
+          "file_unique_id": "AQADUg9rG4YowVB9",
+          "file_size": 50408,
+          "width": 597,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHbWoYCqqe7hzXrO9lheswaGqEORWJAAJSD2sbhijBUF33kG2g0_qgAQADAgADeQADOwQ",
+          "file_unique_id": "AQADUg9rG4YowVB-",
+          "file_size": 86654,
+          "width": 955,
+          "height": 1280
+        }
+      ],
+      "caption": "فیلترشکن Wnidscibe ، روی سرورهای فرانسه و پروتکل TCP 443 سرعت عالی و بدون اختلال داره! \n\nلینک دانلود از گوگل‌پلی:\nhttps://play.google.com/store/apps/details?id=com.windscribe.vpn\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 114,
+          "length": 64,
+          "type": "url"
+        },
+        {
+          "offset": 191,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 191,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 191,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
