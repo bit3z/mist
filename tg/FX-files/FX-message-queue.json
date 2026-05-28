@@ -31566,6 +31566,69 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1912,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779973751,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHeGoYPndfYpDWFFQHwGo8qOYog8fqAAJnD2sbhijBUKqtxdPHHUCvAQADAgADcwADOwQ",
+          "file_unique_id": "AQADZw9rG4YowVB4",
+          "file_size": 1757,
+          "width": 87,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHeGoYPndfYpDWFFQHwGo8qOYog8fqAAJnD2sbhijBUKqtxdPHHUCvAQADAgADbQADOwQ",
+          "file_unique_id": "AQADZw9rG4YowVBy",
+          "file_size": 26955,
+          "width": 310,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHeGoYPndfYpDWFFQHwGo8qOYog8fqAAJnD2sbhijBUKqtxdPHHUCvAQADAgADeAADOwQ",
+          "file_unique_id": "AQADZw9rG4YowVB9",
+          "file_size": 89386,
+          "width": 774,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHeGoYPndfYpDWFFQHwGo8qOYog8fqAAJnD2sbhijBUKqtxdPHHUCvAQADAgADeQADOwQ",
+          "file_unique_id": "AQADZw9rG4YowVB-",
+          "file_size": 123199,
+          "width": 1080,
+          "height": 1116
+        }
+      ],
+      "caption": "تبریک سایت پورنهاب به ایرانیا بخاطر وصل شدن اینترنت 😂😂😂\n\n\n😂😂😂\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 80,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 80,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 80,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
