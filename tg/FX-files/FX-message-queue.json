@@ -35939,6 +35939,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1994,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780070601,
+      "text": "vless://ff6cfb55-7111-4a9a-947c-c08c1e4001db@185.92.222.35:443?encryption=none&fp=chrome&pbk=ASjn__HLNYes-f8jh79GZoD1VfiOo9MGjOA96qEINkk&security=reality&sid=1b59d0b8&sni=www.sony.com&type=tcp#odin_club-1000GB\nیه ترا\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 217,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 230,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 256,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 256,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 256,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
