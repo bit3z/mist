@@ -34913,6 +34913,61 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1977,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780033605,
+      "document": {
+        "file_name": "همه اینترنت ها💫.npvt",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAIHuWoZKEWBC4z8wDTyxOhbZtdzebBPAAKvGwACc2LQUGseHfgcw4IGOwQ",
+        "file_unique_id": "AgADrxsAAnNi0FA",
+        "file_size": 4012
+      },
+      "caption": "نپسرنت متصل \nتست کنید\n\n\n\nپسورد \n@Error404Bin\n\nری اکشن بزنید❤️\n\n\n🚀🚀🚀🚀\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 32,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 73,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 86,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 108,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 108,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 108,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
