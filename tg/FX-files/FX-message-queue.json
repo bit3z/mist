@@ -36077,6 +36077,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1997,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780072101,
+      "text": "پلن یک ماهه Starter سورف شارک پرداختی روی ایمیل شخصی شما ماهانه با دسترسی کل اکانت فقط تا امشب باتخفیف 500ت هست\nبزودی افزایش قیمت خواهیم داشت پس اگه خریدی دارید زودتر اقدام کنید.🙏🏻❤️\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 197,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 197,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 197,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
