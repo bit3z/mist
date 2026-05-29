@@ -36444,6 +36444,46 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2005,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780075221,
+      "document": {
+        "file_name": "همراه اول ❤️⚡.npvt",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgEAAyEFAATqPDJ3AAIH1WoZytVcYukENCpXYoA7584lmuinAAJFBwACZqbRRF7Adxz2yfIKOwQ",
+        "file_unique_id": "AgADRQcAAmam0UQ",
+        "file_size": 7560
+      },
+      "caption": "• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
