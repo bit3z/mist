@@ -37266,6 +37266,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2019,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780125810,
+      "text": "عرفان علی بس کن 🥴 این مولتی لوکیشن گیگی 800 700 میدادن هی زندگی نگاه چطوری ورق برمیگرده واکنش الان سرور فروشا 👇\n\nمیخورم زمین هوا میرم\nروزی دو بار بگا میرم 🤣🤣\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 115,
+          "length": 46,
+          "type": "spoiler"
+        },
+        {
+          "offset": 162,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 185,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 185,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 185,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
