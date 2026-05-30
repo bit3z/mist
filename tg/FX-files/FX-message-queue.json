@@ -37846,6 +37846,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2031,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780148075,
+      "text": "vless://af141ca9-cc07-4a9e-92ee-135a7ea806ff@snapp.ir:2095?path=%2Fsbs&security=none&encryption=none&host=clo-rivv.tonbrownton.com&type=ws#VIPasali\n\nاینم بزنید تو رگ\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 147,
+          "type": "code"
+        },
+        {
+          "offset": 178,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 178,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 178,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
