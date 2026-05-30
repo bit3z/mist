@@ -37568,6 +37568,69 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2025,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780130071,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIH6WoaoRdxmN7HNf0EP384CWkYDlgQAAKvD2sbS9jQULZaVtmIz4xjAQADAgADcwADOwQ",
+          "file_unique_id": "AQADrw9rG0vY0FB4",
+          "file_size": 1044,
+          "width": 90,
+          "height": 76
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIH6WoaoRdxmN7HNf0EP384CWkYDlgQAAKvD2sbS9jQULZaVtmIz4xjAQADAgADbQADOwQ",
+          "file_unique_id": "AQADrw9rG0vY0FBy",
+          "file_size": 15917,
+          "width": 320,
+          "height": 270
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIH6WoaoRdxmN7HNf0EP384CWkYDlgQAAKvD2sbS9jQULZaVtmIz4xjAQADAgADeAADOwQ",
+          "file_unique_id": "AQADrw9rG0vY0FB9",
+          "file_size": 55478,
+          "width": 800,
+          "height": 674
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIH6WoaoRdxmN7HNf0EP384CWkYDlgQAAKvD2sbS9jQULZaVtmIz4xjAQADAgADeQADOwQ",
+          "file_unique_id": "AQADrw9rG0vY0FB-",
+          "file_size": 101930,
+          "width": 1220,
+          "height": 1028
+        }
+      ],
+      "caption": "قیمت بقیه 😁تک سرور \n\nقیمت عسلی مولتی لوکیشن \n۱۵\n😁موجوود میکنم عشق کنید\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 85,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 85,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 85,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
