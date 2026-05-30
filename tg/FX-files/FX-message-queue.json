@@ -37762,6 +37762,54 @@
       "link_preview_options": {
         "url": "https://t.me/madvpnbbot?start=HJKDR3"
       }
+    },
+    {
+      "message_id": 2029,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780133808,
+      "text": "ساب 21 روزه نامحدود \n1. وارد ربات: \n@madvpnbbot \n2. دکمه Start را بزنید  \n3. به بخش Buy Subscription بروید  \n4. اشتراک 21 روزه را خریداری کنید  \n5. لینک ساب را در V2RAYTUN یا Happ \nوارد کنید\n\nکانفیگ 7 روزه - حجم 50 گیگ \n1. وارد ربات شوید:\n @failvpn_bot\n2. دکمه Start را بزنید \n3. پروتکل موردنظر خود را انتخاب کنید \n4. روی گزینه ۵۰ گیگ کلیک کنید \n5. در آخر روی دکمه Confirm کلیک کنید \n6. اطلاعات کانفیگ را کپی کنید \n7. در برنامه‌های گفته شده وارد کنید (V2RayTUN، Happ، etc.)\n\n\nساب 3 روزه نامحدود\n1. وارد ربات شوید: \nOneokVPNbot\n2. دکمه Start را بزنید  \n3. روی دکمه Подключиться کلیک کنید  \n4. سپس روی دکمه Добавить подписку بزنید  \n5. اگر یکی از برنامه‌های V2RAYTUN یا Happ را دارید، روی همان کلیک کنید تا ساب به‌صورت خودکار وارد برنامه شود  \n\nاتصال سریع • پایدار • چند لوکیشن  \nمناسب گیم، استریم و استفاده روزمره\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 36,
+          "length": 11,
+          "type": "text_link",
+          "url": "https://t.me/madvpnbbot?start=HJKDR3"
+        },
+        {
+          "offset": 239,
+          "length": 13,
+          "type": "text_link",
+          "url": "https://t.me/failvpn_bot?start=ref_8376197509"
+        },
+        {
+          "offset": 825,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 825,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 825,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://t.me/madvpnbbot?start=HJKDR3"
+      }
     }
   ]
 }
