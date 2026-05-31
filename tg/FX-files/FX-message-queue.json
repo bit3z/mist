@@ -2477,6 +2477,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2085,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780218884,
+      "text": "slipnet-enc://AZZoSJBguoRnSWSmWIfardYLQUMBwfCKN/T3LBp6k8QSg+aELYkYBLAeEazgzoX2Fx52MhE3qDHR8FadXS8Pt7wRfvAQ1Ur6DsJbiVpMiQ5NPAqTb9BTc2den/+pxjtE3Bven/IfgOW5eYoFp1YUeOy0zIhzy/Xhw1bC5pOX8cvgW1p/9OBtFF5Cyi9+rp+Y18gZSX3ScRpPcBVarpDnwUwFeGD5X2hllP84oR3hcz9LAJjv8KdngqQT3E+ZQNB/QAqDkpBG2i1sHFKc1usAocZcujg5iPMBvfVuMwOj1/2nGV6Azg8sIibf5CiFSihslUDNUTcbMU8EOzMPhTkm9IPsOqUdh817EbSjGbWcKT+CNbpQupETTOugf5JWeTq49YTydLjzuj5VGk5A7YKY8uG6pFkSvdGelrUO+wouQcG92QqIf3eY2d0SQIZaLdUWDu0ZSrHloCZ91s5A/YIfNNeDDh81jHzxlGHP3KYVgOvAQgOVCHowg2GR2TG/stmd8zdNBLv+2B4+4lNQw7PyZFqlcv8/RmcA/Ny1ch1jjU4GTUUadVy2DP+CWw==\n\nبزنید\n @Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 586,
+          "type": "code"
+        },
+        {
+          "offset": 595,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 608,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 630,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 630,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 630,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
