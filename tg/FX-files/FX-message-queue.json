@@ -4442,6 +4442,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2126,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780250397,
+      "text": "دوتا نکته مهم هست خواهشمندیم رعایت کنید\n\n1_گروه مجهز به ربات بن کننده لفت دهنده هست یعنی وقتی به هردلیلی لفت دهید ربات بن میکنه و نمیتونید برگردید\n\n\n2_دادن شات لاگین بعد از برنده شدن الزامیه در صورت ندادن شات در دفعات بعد حتی اگر برنده شوید اکانت تعلق نخواهد گرفت\n\nبا تشکر از شما🌹\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 294,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 294,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 294,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
