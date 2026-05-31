@@ -3053,6 +3053,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2098,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780229424,
+      "text": "Avast VPN\n\nEYRQN4-P279D2-4YUJ6A\nK6Y4VU-FM253J-4YUJBN\nCVA8DC-M83RD2-4YUJQW\n\nپروتکل Mimic بهترینه و سرعت خوبی داره\nحتما از ویجت استفاده کنید\n\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 141,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 154,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 176,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 176,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 176,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
