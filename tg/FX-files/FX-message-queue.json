@@ -3403,6 +3403,94 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2105,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780234065,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIOWocN1GgjXZV6o-KyLNGPywgZOeWAAKADmsbCn3hULGsNf24kHszAQADAgADcwADOwQ",
+          "file_unique_id": "AQADgA5rGwp94VB4",
+          "file_size": 1189,
+          "width": 60,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIOWocN1GgjXZV6o-KyLNGPywgZOeWAAKADmsbCn3hULGsNf24kHszAQADAgADbQADOwQ",
+          "file_unique_id": "AQADgA5rGwp94VBy",
+          "file_size": 17798,
+          "width": 213,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIOWocN1GgjXZV6o-KyLNGPywgZOeWAAKADmsbCn3hULGsNf24kHszAQADAgADeAADOwQ",
+          "file_unique_id": "AQADgA5rGwp94VB9",
+          "file_size": 84807,
+          "width": 533,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIOWocN1GgjXZV6o-KyLNGPywgZOeWAAKADmsbCn3hULGsNf24kHszAQADAgADeQADOwQ",
+          "file_unique_id": "AQADgA5rGwp94VB-",
+          "file_size": 164937,
+          "width": 853,
+          "height": 1280
+        }
+      ],
+      "caption": "خب چالش داریم\n\nچالش اکانت یکساله فیلترشکن فستست پرمیوم\n\nFastest VPN\n\nاولین نفری که تاس 4بیاره اکانت تقدیم خواهد شد\n\nهر کاربر مجاز به یک تاس میباشد\n\nری اکشن و لایک مرامی❤️\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 13,
+          "type": "bold"
+        },
+        {
+          "offset": 26,
+          "length": 6,
+          "type": "underline"
+        },
+        {
+          "offset": 56,
+          "length": 11,
+          "type": "bold"
+        },
+        {
+          "offset": 172,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 185,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 207,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 207,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 207,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
