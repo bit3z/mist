@@ -2701,6 +2701,67 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2090,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780224705,
+      "text": "vless://614ad5da-e5cc-479d-bc90-3db549ca96e4@84.75.220.223:33434?encryption=none&fp=chrome&pbk=CBLftLCz0w2EX8H3sQ4ahU_lc9_aWJZO_8OHJEWGjDo&security=reality&sid=0af57b636837&sni=www.yahoo.com&type=tcp#@odin_club\nvless://afce710f-2261-403e-ada6-459dbcb44b64@84.75.220.223:80?encryption=none&fp=chrome&pbk=XnjRQWaZ2QGrIJBGPuYOePg2wLl_ZM_gkCyJ2aKxylQ&security=reality&sid=7797159c&sni=www.yahoo.com&type=tcp#@odin_club\nvless://3d1dbf5c-6f7d-47ee-9138-e217e0a77265@84.75.220.223:41034?encryption=none&mode=auto&path=%2F&security=none&type=xhttp#@odin_club\nvless://5c5cb739-1112-4eea-bad1-282db5c24512@84.75.220.223:443?encryption=none&fp=chrome&pbk=g_oiiXO-P1L5MgEzE9qx7Vt0x-Z1-vI5QjXmscfh6Uw&security=reality&sid=27fd6d7ea3&sni=www.samsung.com&type=tcp#odin_club\nنامحدود نیم ساعت.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 200,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 404,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 540,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 777,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 790,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 816,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 816,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 816,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
