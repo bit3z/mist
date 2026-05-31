@@ -3527,6 +3527,94 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2107,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780236176,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIO2ocP5D4oQFdpllY45IIn2w22ykdAAL6D2sbCn3hUPri2FFHzP5dAQADAgADcwADOwQ",
+          "file_unique_id": "AQAD-g9rGwp94VB4",
+          "file_size": 981,
+          "width": 90,
+          "height": 60
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIO2ocP5D4oQFdpllY45IIn2w22ykdAAL6D2sbCn3hUPri2FFHzP5dAQADAgADbQADOwQ",
+          "file_unique_id": "AQAD-g9rGwp94VBy",
+          "file_size": 12945,
+          "width": 320,
+          "height": 213
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIO2ocP5D4oQFdpllY45IIn2w22ykdAAL6D2sbCn3hUPri2FFHzP5dAQADAgADeAADOwQ",
+          "file_unique_id": "AQAD-g9rGwp94VB9",
+          "file_size": 77871,
+          "width": 800,
+          "height": 533
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIO2ocP5D4oQFdpllY45IIn2w22ykdAAL6D2sbCn3hUPri2FFHzP5dAQADAgADeQADOwQ",
+          "file_unique_id": "AQAD-g9rGwp94VB-",
+          "file_size": 167747,
+          "width": 1280,
+          "height": 853
+        }
+      ],
+      "caption": "خب چالش داریم\n\nچالش اکانت یکماهه فیلترشکن اکسپرس پرمیوم\n\nEXPRESS VPN Auto (تمدید مجدد)\n\nاولین نفری که بولینگ 3 بیاره اکانت تقدیم خواهد شد\n\nهر کاربر مجاز به یک بولینگ میباشد\n\nری اکشن و لایک مرامی❤️\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 13,
+          "type": "bold"
+        },
+        {
+          "offset": 57,
+          "length": 11,
+          "type": "bold"
+        },
+        {
+          "offset": 69,
+          "length": 4,
+          "type": "bold"
+        },
+        {
+          "offset": 198,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 211,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 233,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 233,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 233,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
