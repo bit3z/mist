@@ -2997,6 +2997,62 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2097,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780228485,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIMWocIYVG0RZBcxzPOpwkyHDU6J7UAAJdDmsbCn3hUBpodU3wmIRhAQADAgADcwADOwQ",
+          "file_unique_id": "AQADXQ5rGwp94VB4",
+          "file_size": 1427,
+          "width": 90,
+          "height": 79
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIMWocIYVG0RZBcxzPOpwkyHDU6J7UAAJdDmsbCn3hUBpodU3wmIRhAQADAgADbQADOwQ",
+          "file_unique_id": "AQADXQ5rGwp94VBy",
+          "file_size": 21252,
+          "width": 320,
+          "height": 280
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIMWocIYVG0RZBcxzPOpwkyHDU6J7UAAJdDmsbCn3hUBpodU3wmIRhAQADAgADeAADOwQ",
+          "file_unique_id": "AQADXQ5rGwp94VB9",
+          "file_size": 39357,
+          "width": 573,
+          "height": 501
+        }
+      ],
+      "caption": "گویا دسترسی دیتاسنتر همراه اول به اینترنت برقرار شده\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 65,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 65,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 65,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
