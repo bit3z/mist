@@ -1933,6 +1933,46 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2072,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780210844,
+      "document": {
+        "file_name": "تست Tcp.npvt",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgEAAyEFAATqPDJ3AAIIGGob3JxNvuXR0_9Jostx6DAOuTAQAAJpCAACm4_hRAhxOdokTm03OwQ",
+        "file_unique_id": "AgADaQgAApuP4UQ",
+        "file_size": 5976
+      },
+      "caption": "• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
