@@ -3852,6 +3852,79 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2113,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780245176,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIQWocYrh3vDTOmd_ODiZbporMATPyAAIuEGsbCn3hUJQSbRj0KeALAQADAgADcwADOwQ",
+          "file_unique_id": "AQADLhBrGwp94VB4",
+          "file_size": 977,
+          "width": 69,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIQWocYrh3vDTOmd_ODiZbporMATPyAAIuEGsbCn3hUJQSbRj0KeALAQADAgADbQADOwQ",
+          "file_unique_id": "AQADLhBrGwp94VBy",
+          "file_size": 13711,
+          "width": 245,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIQWocYrh3vDTOmd_ODiZbporMATPyAAIuEGsbCn3hUJQSbRj0KeALAQADAgADeAADOwQ",
+          "file_unique_id": "AQADLhBrGwp94VB9",
+          "file_size": 50281,
+          "width": 612,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIQWocYrh3vDTOmd_ODiZbporMATPyAAIuEGsbCn3hUJQSbRj0KeALAQADAgADeQADOwQ",
+          "file_unique_id": "AQADLhBrGwp94VB-",
+          "file_size": 82202,
+          "width": 979,
+          "height": 1280
+        }
+      ],
+      "caption": "برای متصل شدن به وینداسکرایب که رو همه اپراتورها عالی کانکت میشه:\n\nSettings → Connection → Anti-Censorship\n\nگزینه Protocol Tweaks رو روی Enable بذارید، بعد وارد Configuration بشید و یکی از دو گزینه آخر که ایران هست رو انتخاب کنید. گزینه Large TLS رو هم روشن کنید.\nپروتکل های udp و tcp رو تست کنید\nایرانسل tcp 587 france\nمخابرات همراه اول udp 80\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 346,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 359,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 381,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 381,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 381,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
