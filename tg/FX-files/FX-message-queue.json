@@ -5552,6 +5552,97 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2149,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780317238,
+      "text": "🔥به دلیل درخواست های فراوان شما کاربران سرویس‌های ملی‌شکن V2Ray با قیمت اقتصادی موجود شد.🔥\n🚀 سرویس‌های پایدار و پرسرعت با کیفیت خوب\n🌐 مناسب برای استفاده روزمره و دسترسی آزاد به اینترنت\n📍 دارای 10 لوکیشن مختلف\n🔗 همراه با لینک ساب (Subscription Link) برای بروزرسانی و مدیریت آسان کانفیگ‌ها\n💎 شرایط خرید:\n📌 حداقل خرید: 5 گیگابایت به بالا\n\n📌 قیمت: هر گیگ فقط 20,000 تومان\n\n📌 اعتبار سرویس‌ها: 1 ماهه\n📦 تحویل سریع پس از ثبت سفارش\n💳 روش‌های پرداخت:\n✔️ کارت به کارت\n✔️ رمز ارز USDT (BEP20)\n⚠️ ظرفیت فروش محدود بوده و اولویت تحویل با سفارش‌های زودتر می‌باشد.\n✉️ جهت ثبت سفارش و دریافت سرویس پیام دهید.\n@AlirezaSpeed\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 2,
+          "length": 88,
+          "type": "bold"
+        },
+        {
+          "offset": 198,
+          "length": 15,
+          "type": "bold"
+        },
+        {
+          "offset": 226,
+          "length": 28,
+          "type": "bold"
+        },
+        {
+          "offset": 297,
+          "length": 11,
+          "type": "bold"
+        },
+        {
+          "offset": 324,
+          "length": 10,
+          "type": "bold"
+        },
+        {
+          "offset": 335,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 353,
+          "length": 23,
+          "type": "bold"
+        },
+        {
+          "offset": 398,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 438,
+          "length": 15,
+          "type": "bold"
+        },
+        {
+          "offset": 481,
+          "length": 12,
+          "type": "bold"
+        },
+        {
+          "offset": 605,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 631,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 631,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 631,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
