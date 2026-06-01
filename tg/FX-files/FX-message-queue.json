@@ -5006,6 +5006,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2138,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780293118,
+      "text": "حمید رسایی در تجمعات شبانه: \nهمانطور که بیت رهبری را با موشک زدید، کاخ سفید را با موشک خواهیم زد و این وعده محقق خواهد شد.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 123,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 136,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 162,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 162,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 162,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
