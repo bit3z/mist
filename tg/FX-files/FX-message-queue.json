@@ -8658,6 +8658,42 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2213,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780408742,
+      "text": "لینکدین دوباره در دسترس کاربران ایرانی قرار گرفت!\n\n🔹 پلتفرم حرفه‌ای LinkedIn که یکی از مهم‌ترین ابزارهای کاریابی، جذب نیرو، توسعه ارتباطات حرفه‌ای و فعالیت‌های تجاری در جهان محسوب می‌شود، از امروز پس از مدت‌ها بدون نیاز به فیلترشکن برای بسیاری از کاربران ایرانی قابل دسترس شده است.\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 295,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 295,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 295,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
