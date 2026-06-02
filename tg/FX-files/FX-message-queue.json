@@ -8286,6 +8286,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2206,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780403581,
+      "text": "حسینی؛ سردبیر خط انرژی:\nوقتی میرم صداوسیما میگن یه چیزایی رو نگو تا مردم نترسن و امیدشون رو از دست ندن ولی الان اینجا میگم. ۲۵ درصد از زیرساخت انرژی کشور توی جنگ اخیر از بین رفته. منتظر تابستونی بسیار گرم و زمستونی بسیار سرد باشید.\nکمبود شدید بنزین داریم. توی تابستون خاموشی زیادی داریم و زمستون هم کمبود گاز شدید داریم.\nاگه الان هنوز چیزی حس نمیکنید چون فصل بهاریم. منتظر روزای سخت باشید.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 390,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 403,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 429,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 429,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 429,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
