@@ -10753,6 +10753,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2259,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780442458,
+      "text": "🔴 #گزارش_مردمی | ⏰ 2:40\n\nشنیده شدن صدای انفجار در مهرشهر - کرج\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 3,
+          "length": 12,
+          "type": "hashtag"
+        },
+        {
+          "offset": 65,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 78,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 104,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 104,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 104,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
