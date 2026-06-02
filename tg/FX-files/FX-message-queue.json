@@ -7032,6 +7032,99 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2182,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780387109,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIhmoejSXdK2jcZonLPuqiWQ0PYUmaAALjDWsb9Sr5UNI0NKi1DpMgAQADAgADcwADOwQ",
+          "file_unique_id": "AQAD4w1rG_Uq-VB4",
+          "file_size": 635,
+          "width": 42,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIhmoejSXdK2jcZonLPuqiWQ0PYUmaAALjDWsb9Sr5UNI0NKi1DpMgAQADAgADbQADOwQ",
+          "file_unique_id": "AQAD4w1rG_Uq-VBy",
+          "file_size": 6105,
+          "width": 150,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIhmoejSXdK2jcZonLPuqiWQ0PYUmaAALjDWsb9Sr5UNI0NKi1DpMgAQADAgADeAADOwQ",
+          "file_unique_id": "AQAD4w1rG_Uq-VB9",
+          "file_size": 22660,
+          "width": 376,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIhmoejSXdK2jcZonLPuqiWQ0PYUmaAALjDWsb9Sr5UNI0NKi1DpMgAQADAgADeQADOwQ",
+          "file_unique_id": "AQAD4w1rG_Uq-VB-",
+          "file_size": 36795,
+          "width": 601,
+          "height": 1280
+        }
+      ],
+      "caption": "اینم کپی کنید عین بکاپ ها و مود ها 🥴\n\nدریافت 10 گیگ هنراه اول  نسبتاً رایگان \nموارد مورد نیاز (خط همراه اول و 10 هزار و پنصد تومن پول ) \n\n1.اپلیکیشن آوانو (برای همراه اوله) رو نصب بفرمائید لینک دانلود 👇👇\n\nhttps://play.google.com/store/apps/details?id=com.ebcom.ewano\n\n2. بعد نصب برین دو راه داربن \nراه اول برین بخش خرید بسته شماره ایرانسل وارد و ده بار بسته نیم گیگ شبانه بخرید\n\nراه دوم کمک به خیریه ها هر کدوم هزار تومن خرید بسته ایرانسل بهتر جوابه\n\nبدین صورت هم کار خیر کردین\n\nنکته 10 تراکنش باید انجام بشه بهتره اول کیف پول شارژ کنید و بعد خرید بزنید اگه خط همراه اول به اسم خودتون نیست یا کارت بانکی ندارید از یکی بخواهید به کیف پول تون 10 و پنصد انتقال بده\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 39,
+          "length": 38,
+          "type": "bold"
+        },
+        {
+          "offset": 208,
+          "length": 61,
+          "type": "url"
+        },
+        {
+          "offset": 271,
+          "length": 111,
+          "type": "blockquote"
+        },
+        {
+          "offset": 394,
+          "length": 70,
+          "type": "blockquote"
+        },
+        {
+          "offset": 482,
+          "length": 182,
+          "type": "bold"
+        },
+        {
+          "offset": 665,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 688,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 688,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 688,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
