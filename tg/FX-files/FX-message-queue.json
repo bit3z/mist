@@ -10477,6 +10477,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2253,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780441683,
+      "text": "گروه تروریستی سپاه پاسداران:\n\nدوران «ضربه زدن و فرار کردن» به پایان رسیده است.\n\nهر حماقت جدیدی با پاسخی لرزه‌ای، خردکننده و قاطع مواجه خواهد شد که فراتر از قواعد و مرزهای تثبیت‌شده است.\n\nما در تبدیل تمام مقرها و منافع متجاوزان در منطقه به خاکستر تردید نخواهیم کرد.\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 266,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 279,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 305,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 305,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 305,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
