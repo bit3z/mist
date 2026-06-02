@@ -7125,6 +7125,57 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2183,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780387981,
+      "text": "vless://50307e64-b42c-4f0f-9db1-a49595f5036c@panel.panel.pythash.tr:8443?security=reality&encryption=none&pbk=TxNBDL4s91n_LuPrklBN0Xan6R7_f-MEOxyt_E6tBUU&headerType=none&fp=chrome&spx=%2Fqgpm68d7w4Ei3XZ&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=53b1141f77#pythash...%40Error404Bin.\n\n\nمتصل ۲۰۰گیگ\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 292,
+          "type": "code"
+        },
+        {
+          "offset": 307,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 320,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 342,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 342,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 342,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
