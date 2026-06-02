@@ -6808,6 +6808,42 @@
       "link_preview_options": {
         "url": "https://t.me/tonvpn_bot?start=91249dc250"
       }
+    },
+    {
+      "message_id": 2176,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780373641,
+      "text": "یه ربات دیگم هم اونم قرار میدم براتون اینو تست کنید\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 64,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 64,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 64,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
