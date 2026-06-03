@@ -12756,6 +12756,47 @@
       "link_preview_options": {
         "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
       }
+    },
+    {
+      "message_id": 2300,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780483684,
+      "text": "دوستان این ربات هدیه و تست هنو فعاله بزنید روی این لینک من فقط تا بهتون هدیه تعلق بگیره \nتا اخر شب فرصته \nبرای هر دعوت ۱۰۰هزار تومان میده ینی شما سه نفربیاری یه اشتراک میخری😕\n\nhttps://t.me/PingChiBot?start=686628907\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 177,
+          "length": 39,
+          "type": "url"
+        },
+        {
+          "offset": 229,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 229,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 229,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://t.me/PingChiBot?start=686628907"
+      }
     }
   ]
 }
