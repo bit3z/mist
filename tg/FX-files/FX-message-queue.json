@@ -13215,6 +13215,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2311,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780503485,
+      "text": "فارس: \nتاریخ برگزاری آئین وداع، تشییع علی خامنه‌ای اعلام شد.\n- 20,21,22 خرداد/ وداع در حرم امام‌ خمینی \n- 23 خرداد/ تشییع در تهران \n- 24 خرداد/ تشییع در قم \n- 25 خرداد/ تشییع در عراق \n- 26 خرداد (اول محرم)/ تشییع و خاکسپاری در مشهد\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 233,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 246,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 272,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 272,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 272,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
