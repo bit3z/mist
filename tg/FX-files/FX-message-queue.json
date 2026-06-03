@@ -13690,6 +13690,46 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2321,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780524306,
+      "sticker": {
+        "width": 512,
+        "height": 288,
+        "emoji": "😂",
+        "set_name": "b643fb4946bdf3_by_anipackbot",
+        "is_animated": false,
+        "is_video": true,
+        "type": "regular",
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgkRaiClEmtGQiKQs9eOJyTZw4QalHcAAu8PAAI0SxBTmeaZnEdM-sMBAAdtAAM7BA",
+          "file_unique_id": "AQAD7w8AAjRLEFNy",
+          "file_size": 7590,
+          "width": 320,
+          "height": 180
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgkRaiClEmtGQiKQs9eOJyTZw4QalHcAAu8PAAI0SxBTmeaZnEdM-sMBAAdtAAM7BA",
+          "file_unique_id": "AQAD7w8AAjRLEFNy",
+          "file_size": 7590,
+          "width": 320,
+          "height": 180
+        },
+        "file_id": "CAACAgQAAyEFAATqPDJ3AAIJEWogpRJrRkIikLPXjick2cOEGpR3AALvDwACNEsQU5nmmZxHTPrDOwQ",
+        "file_unique_id": "AgAD7w8AAjRLEFM",
+        "file_size": 20124
+      }
     }
   ]
 }
