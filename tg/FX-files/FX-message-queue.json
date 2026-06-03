@@ -13791,6 +13791,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2323,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780528446,
+      "text": "🔴نور پهلوی : \nما برای تاج و تخت نمی‌جنگیم،  داریم برای آزادی مردمی می‌جنگیم که 47 ساله ازش محروم شدن؛\nمن تا حالا حتی یه بارم پامو تو کشورم نذاشتم. هیچ‌وقت تو خیابون‌هاش راه نرفتم، خاکش رو لمس نکردم.\nتوی نشست خبری پدرم، رضا پهلوی در برلین؛ پدر و مادرهایی که عزیزاشون رو از دست داده بودن جلوی 150 خبرنگار بین‌المللی ایستاده بودن، ولی حتی یه خبرنگار هم ازشون یه سؤال نپرسید، اونا تصمیم گرفتن ایران رو نادیده بگیرن...\n﻿@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 416,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 429,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 455,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 455,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 455,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
