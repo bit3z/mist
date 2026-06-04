@@ -14134,6 +14134,42 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2330,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780551713,
+      "text": "اخه کدوم ادم عاقلی ساعت 3 نصف شب فروش فیلتر شکن میزاره ول کن بابا نت ها باز شد سرمون خلوت شه اینقدر بکاپ میزاریم نیازی به خرید نباشه الانم نی 🥴\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 157,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 157,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 157,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
