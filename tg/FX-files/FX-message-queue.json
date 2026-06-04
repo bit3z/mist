@@ -15056,6 +15056,46 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2349,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780575848,
+      "sticker": {
+        "width": 512,
+        "height": 512,
+        "emoji": "😂",
+        "set_name": "PersianMemeVideo2",
+        "is_animated": false,
+        "is_video": true,
+        "type": "regular",
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgj_aiATwA-P7j9yfa5zi5MPtWXVM-YAAmQaAAKpGChRbXf4TE2lXugBAAdtAAM7BA",
+          "file_unique_id": "AQADZBoAAqkYKFFy",
+          "file_size": 15630,
+          "width": 320,
+          "height": 320
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgj_aiATwA-P7j9yfa5zi5MPtWXVM-YAAmQaAAKpGChRbXf4TE2lXugBAAdtAAM7BA",
+          "file_unique_id": "AQADZBoAAqkYKFFy",
+          "file_size": 15630,
+          "width": 320,
+          "height": 320
+        },
+        "file_id": "CAACAgQAAyEFAATqPDJ3AAII_2ogE8APj-4_cn2uc4uTD7Vl1TPmAAJkGgACqRgoUW13-ExNpV7oOwQ",
+        "file_unique_id": "AgADZBoAAqkYKFE",
+        "file_size": 258377
+      }
     }
   ]
 }
