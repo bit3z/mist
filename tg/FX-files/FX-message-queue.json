@@ -14713,6 +14713,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2342,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780568827,
+      "text": "روابط عمومی وزارت آموزش و پرورش: جدولی که تحت عنوان برنامه امتحانات نهایی تیر و مردادماه با امضای رئیس مرکز ارزشیابی و تضمین کیفیت نظام آموزش و پرورش در فضای مجازی منتشر شده است، صحت ندارد.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 190,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 203,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 229,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 229,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 229,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
