@@ -15656,6 +15656,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2361,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780593585,
+      "text": "چنتا دوستان اومدن پیوی گفتن که نمیتونن تون بزنن ریالی بزنیم دونیت کنیم ،  اونم نمیشه شماره کارتو پابلیک کنیم بنا به دلایلی که خودتون میدونید پس کسی خواست پیوی میتونم بدم\n@y6siin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 170,
+          "length": 7,
+          "type": "mention"
+        },
+        {
+          "offset": 190,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 190,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 190,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
