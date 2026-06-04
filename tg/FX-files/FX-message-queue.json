@@ -15610,6 +15610,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2360,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780590764,
+      "text": "درود \nاکانتم بعد ای همه مدت محدودیت شدیدی گرفته فک کنم اگه پریمیوم نکنم دیگه این اک قدیمیم کلا بگا بره بعد از ریپورت ها و چنتا چنلی که ازم‌بن شد محدودیتا شدید تر شده \nآدرس تون میذارم هرکی مرامی هرچقد تونست ((  دونیت  )) کنه \n\nآدرس تون : \nUQBiRNQrhK7pQyAqMRbJ8xqvVNWeytEAIXflCw9ogujnLwOA\n\nهرچقد اوکی‌شد بقیه شم خودم میذارم‌روش ، برا قسط و ...حقیقت کامل نمیشه الان بزنم اینجوری سبک تر میشه برام\nچه بزنید چه نزنید دمتون گرم ❤️\n@y6siin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 238,
+          "length": 48,
+          "type": "code"
+        },
+        {
+          "offset": 424,
+          "length": 7,
+          "type": "mention"
+        },
+        {
+          "offset": 444,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 444,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 444,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
