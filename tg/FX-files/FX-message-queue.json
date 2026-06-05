@@ -17151,6 +17151,106 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2395,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780655175,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJW2oipEd8fcS5PuMOX_xLoJtL9uDFAAJDDmsbqxgRUbiaxXfbkV0uAQADAgADcwADOwQ",
+          "file_unique_id": "AQADQw5rG6sYEVF4",
+          "file_size": 1148,
+          "width": 60,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJW2oipEd8fcS5PuMOX_xLoJtL9uDFAAJDDmsbqxgRUbiaxXfbkV0uAQADAgADbQADOwQ",
+          "file_unique_id": "AQADQw5rG6sYEVFy",
+          "file_size": 17010,
+          "width": 213,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJW2oipEd8fcS5PuMOX_xLoJtL9uDFAAJDDmsbqxgRUbiaxXfbkV0uAQADAgADeAADOwQ",
+          "file_unique_id": "AQADQw5rG6sYEVF9",
+          "file_size": 85955,
+          "width": 533,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJW2oipEd8fcS5PuMOX_xLoJtL9uDFAAJDDmsbqxgRUbiaxXfbkV0uAQADAgADeQADOwQ",
+          "file_unique_id": "AQADQw5rG6sYEVF-",
+          "file_size": 214179,
+          "width": 853,
+          "height": 1280
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJW2oipEd8fcS5PuMOX_xLoJtL9uDFAAJDDmsbqxgRUbiaxXfbkV0uAQADAgADdwADOwQ",
+          "file_unique_id": "AQADQw5rG6sYEVF8",
+          "file_size": 292411,
+          "width": 1024,
+          "height": 1536
+        }
+      ],
+      "caption": "خب چالش داریم\n\nچالش اکانت 1 ماهه یوتیوب پرمیوم\n\nYouTube Premium\n\n5 نفر اولی که جیمیل های خود را راس ساعت 15 زیر پست کامنت کنن برنده خواهند بود\n\nتوجه کنید ایمیل کامنت شده نباید قبلا عضو پرمیوم بوده باشد\n\n❕اسپم و ویرایش ممنوع\n\n⁉️جیمیل های قبل از ساعت مقرر حساب نمیشوند\n\nری اکشن و شات لایک مرامی💝\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 13,
+          "type": "bold"
+        },
+        {
+          "offset": 48,
+          "length": 15,
+          "type": "bold"
+        },
+        {
+          "offset": 96,
+          "length": 25,
+          "type": "bold"
+        },
+        {
+          "offset": 144,
+          "length": 57,
+          "type": "bold"
+        },
+        {
+          "offset": 296,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 309,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 331,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 331,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 331,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
