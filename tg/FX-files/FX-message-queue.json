@@ -19038,6 +19038,46 @@
       "link_preview_options": {
         "url": "https://t.me/Xbat_chat/140413"
       }
+    },
+    {
+      "message_id": 2431,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780687007,
+      "document": {
+        "file_name": "FAST2o6o338842.conf",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAIJf2ojIJ8DjUL2t_6TIebxKerHEyY7AAIRHAAC5HgZUcBSa-xbhopvOwQ",
+        "file_unique_id": "AgADERwAAuR4GVE",
+        "file_size": 885
+      },
+      "caption": "• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
