@@ -18037,6 +18037,47 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2411,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780668587,
+      "text": "#چالش \n\n1Vpn premium\n\nعدد بذارید از 1 تا 188 / رندوم یک نفر انتخاب میشه\n\nتایم چالش : 2 ساعت\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 5,
+          "type": "hashtag"
+        },
+        {
+          "offset": 104,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 104,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 104,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
