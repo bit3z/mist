@@ -17581,6 +17581,74 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2402,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780659946,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJYmoituqr74DVqW2ZRnf6vWhwkWzOAAIUDmsb0tAYUSgPjnrev7_eAQADAgADcwADOwQ",
+          "file_unique_id": "AQADFA5rG9LQGFF4",
+          "file_size": 1201,
+          "width": 42,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJYmoituqr74DVqW2ZRnf6vWhwkWzOAAIUDmsb0tAYUSgPjnrev7_eAQADAgADbQADOwQ",
+          "file_unique_id": "AQADFA5rG9LQGFFy",
+          "file_size": 12537,
+          "width": 148,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJYmoituqr74DVqW2ZRnf6vWhwkWzOAAIUDmsb0tAYUSgPjnrev7_eAQADAgADeAADOwQ",
+          "file_unique_id": "AQADFA5rG9LQGFF9",
+          "file_size": 46718,
+          "width": 369,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJYmoituqr74DVqW2ZRnf6vWhwkWzOAAIUDmsb0tAYUSgPjnrev7_eAQADAgADeQADOwQ",
+          "file_unique_id": "AQADFA5rG9LQGFF-",
+          "file_size": 78795,
+          "width": 591,
+          "height": 1280
+        }
+      ],
+      "caption": "AzadiTunnel نسخه آیفون شیر و خورشید\n\nیک اپ iOS برای اتصال امن و پایدارتر، با تمرکز روی تجربه ساده، CDN Fronting، DNS هوشمند و تست اتصال.\nلینک مستقیم اپ استور:\nhttps://apps.apple.com/ca/app/azaditunnel/id6776486891\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 159,
+          "length": 54,
+          "type": "url"
+        },
+        {
+          "offset": 226,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 226,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 226,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
