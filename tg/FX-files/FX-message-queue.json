@@ -17453,6 +17453,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2399,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780656687,
+      "text": "🚨امیرحسین ثابتی : آمریکا بعد از جام جهانی سنگین‌تر به ایران حمله خواهد کرد\n\nایران را تبدیل به غزه دوم خواهند کرد.\n\nباید پیش‌دستانه پتروشیمی‌ها و زیرساخت‌های منطقه را بزنیم.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 174,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 187,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 213,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 213,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 213,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
