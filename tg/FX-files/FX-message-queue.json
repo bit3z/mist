@@ -21257,6 +21257,47 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2476,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780763570,
+      "text": "اخه ارتوپد چه گوهی میتونه بخوره این استخوان سه تیکه شده مگه فیلم هندیه اخه سر پات کنن با یه شیر تخم مرغ\n\nاین همه سال فوتبال بازی کردیم چیزمون نشد اینا فوتبال رو با یه چیز دیگه اشتبا گرفتن 🥴نتیجه گیری سیگار نکشید استخوان تون راحت میشکنه\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 237,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 260,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 260,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 260,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
