@@ -19630,6 +19630,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2445,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780730749,
+      "text": "سروری حجم بالامون هم شارژ شده \nگیگی ۵هزار تومان 😁پایین تر از همه جا \nهمراه با تست \nکاربر نامحدود \n۲۰گیگ.              ۱۰۰هزارتومان \n۳۰گیگ.              ۱۵۰هزار تومان\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 179,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 179,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 179,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
