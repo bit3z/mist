@@ -21603,6 +21603,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2483,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780775570,
+      "text": "خبر خبر اینترنت پاکستان هم محدود شد که در مقایسه با نت ما بچه بازیه  الان وقتشه عرفان و مهدی برن چنل ها و گروه های پاکستانی دی ان اس ای ام تونل و کانفیگ اسلیپ نت بهشون فرو بکننن چیز ببخشید بفروشند😂🥴\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 201,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 224,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 224,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 224,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
