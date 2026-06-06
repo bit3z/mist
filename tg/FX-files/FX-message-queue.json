@@ -21438,6 +21438,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2480,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780766690,
+      "text": "vless://fd28c642-682e-40ff-8253-16e2e5134942@xipanel.ir:2083?mode=auto&path=%2FiQnetservice%3Fed%3D2048&security=reality&encryption=mlkem768x25519plus.native.0rtt.ZNear8gBYJnAHrZ3eUZwaYvHvWt93QFTQogEfyvG5eIBaxR1a1ADQWUOuQokx-Re2ItkIUCq8ScOq5pG5oWMQVqXUnV8bMkGuXI7SFRRpjtLmuB5rTA2l0hNhIPCAlsgOZrJJCNUyRU-qadULfgX8ANwxfhH5ZOBLllu0JYBeIua8gkUgggQiYIn33yA_NSWonlOoScUIBpJGpuP5sl59MiePfuXVPJKV_A28kqI1XxhvaRY5XgyRxxlSlaHpCI-REJUZ4MjJnUNf4nCT1WiBhIJJIqqeFiZchl-algb0ITMJns1RwfH49EzvqWWkvtYs2yr5euW4bQzoRZOzjl3GNiTQXp50sx3U5Yhb9eRJGTPmkyh-ulx3eEWkJZxrVOLkRMvZ5YjU7QR5NMFGlZG8CSf6lYTzvA0B-wZNLlsaLcY87y8PfsU4FeRQXQvCdRygZJoOMwed2GrlSMj8qAPO-sqAIyr5RcpVLKGU9lrVDssnHS2FhDJ1hJXo8x9t4c-DFsFEhSi3AbQSFxIGWGyGFplvjJsimOjYlEGYey3bkRIVJof8pclZ_XDf3xG1CsiGKRZsHFdm9axjCemCwE24Kyc22qOCgYFl8JEFORikbIrYFlr9wa4rNSo5Ia6RcuFbZq1nJSn5syiTRfOfSaSy1kmBsI6B2cStgJiCzRvHrKK5-jOPRc__ClBVCrADKoJUlsvIaoDwPCU9VBlOAWg8nOsRicJBlQtrtXDuqUhXgljs0xPvgwlZreiIZacYhIUNWiRfvwtq1sMt4IA9ZYDhrVdMvZE1hISUed35UpiMxCgxckzDyJnsko7vTzAQ_cfoCM5RHu6metqCxM9w4gS9ccFFnPJg_qJu-FGt8PP9IFV70siEzUV_wZKq0xyz-U2iDJfy1euInVaObWdfGV2iUGpOgqRksYmZXAlyWYokUTI8RxC0GBMXlk2-tbECOpECdesbzlMCPSkg9UB89RNwkxTcem6WNYP_RYs_9iFbZiLp1M4bfGXX9gdACldExedN_I4XNiNOXm0SlwonhgBR-gJJCWA3oiJ_wufAMGQIwCiEmc0yeiEpDusqwVch3uw3ecu3pTBAJqFqpNX_rMzZceNA6s9z4AEDvqS3JZepxiNPqk_k2N8ndwfSQFNTilwKWEwtIRbKCcfu5KFgkyQURcgdbCl9Gy6VzRQrfWzOTu8l1inloqV3BxdzJAJcTY1NOhJ1mgWlWZNySQRtesaSvWRJvFiXlBkhvpn7TIlssJPwFKYAZYcZWSlKog1bzeYoiPKQavBGeeulLwU8uglE4YlRzpWsHobEwJqJFyAr5AqfyOgCyqUMaq6FZqxSbgOGDKhYGQADlAvnSJ5qjVCvNY7bZEMGCOTovcT0WKHcWCA1dTDFEgdJEQhG2Gs_UVx7gWtCbJ5zeEwnDi-LVW9N6eQYWWpIRXJmnGkwLBPKcAXelQnz_DD27CMTOhwIiSVakmdtYfLJIUGt9ykRQRKpXl4GtB-d1Q8HopE-BMKDIVyNWxhnttcYxWtOaFzpKmuNU0mK_svnk9G9mqadnxVy_Y3_GQlueYEiCRmdymqPX8&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=LI_xIuTD6GgInjjwgv7afPfaBk4fu6tBHjaHOYeW_Qc&host=www.speedtest.net&fp=chrome&spx=%2FvBFqDd1g3H77MZv&type=xhttp&sni=www.samsung.com&sid=d7572297#https%3A%2F%2Ft.me%2FError404Bin\nاینم بزنید بر بدن\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 2055,
+          "type": "blockquote"
+        },
+        {
+          "offset": 0,
+          "length": 2055,
+          "type": "code"
+        },
+        {
+          "offset": 2086,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 2086,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 2086,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
