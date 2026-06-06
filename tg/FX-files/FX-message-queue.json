@@ -21397,6 +21397,47 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2479,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780766510,
+      "text": "این رباتم میگن هر یک نفر یک دلار میده \nاستارت کنید تست کنم نتیجه بگم بهتون\n\nhttps://t.me/StrikeTokenAirdropBot?start=8376197509\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 76,
+          "length": 51,
+          "type": "url"
+        },
+        {
+          "offset": 140,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 140,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 140,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
