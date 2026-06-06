@@ -19486,6 +19486,74 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2442,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780730149,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJimojySV4Y4kDxF8peGSiWe0Rnll2AAJ_Dmsb5HghUX33GHdlKFAHAQADAgADcwADOwQ",
+          "file_unique_id": "AQADfw5rG-R4IVF4",
+          "file_size": 1825,
+          "width": 90,
+          "height": 60
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJimojySV4Y4kDxF8peGSiWe0Rnll2AAJ_Dmsb5HghUX33GHdlKFAHAQADAgADbQADOwQ",
+          "file_unique_id": "AQADfw5rG-R4IVFy",
+          "file_size": 26884,
+          "width": 320,
+          "height": 213
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJimojySV4Y4kDxF8peGSiWe0Rnll2AAJ_Dmsb5HghUX33GHdlKFAHAQADAgADeAADOwQ",
+          "file_unique_id": "AQADfw5rG-R4IVF9",
+          "file_size": 117538,
+          "width": 800,
+          "height": 533
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJimojySV4Y4kDxF8peGSiWe0Rnll2AAJ_Dmsb5HghUX33GHdlKFAHAQADAgADeQADOwQ",
+          "file_unique_id": "AQADfw5rG-R4IVF-",
+          "file_size": 216252,
+          "width": 1280,
+          "height": 853
+        }
+      ],
+      "caption": "🛑فروش فوق العاده سرورهای اختصاصی چنل برای وبگردی و گیم موجود شد\n\n🔱دو طرح سرور شامل \nیک سرویس گلد  گیم مناسب پینگ پایین ،ریجستر قدرتمند پایداری عالی\nمناسب استریم و بازی های آنلاین به قیمت فقط 12 هزارتومن\nسروریس گیم موجودی تموم شده اخر شب\n\n\n⚜طرح اقتصادی پلاتینیوم مناسب وبگردی و شبکه های مجازی و تماشای بدون وقفه فیلم و گشت و گذار\n\n✅هردوی سرورها پایداری عالی بدون قطعی و مولتی لوکیشن هستند و با نازلترین قیمت زیر همه جا فقط گیگی 6 هزار تومن با ضمانت کامل تقدیم میشود\n\nخرید\n🆔@amirasali80\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 475,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 500,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 500,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 500,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
