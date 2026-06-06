@@ -20825,6 +20825,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2467,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780754570,
+      "text": "vless://d601f422-a626-4533-a3d9-8fddf16517b5@171.22.136.84:8443?path=%2Ftest&security=&encryption=none&host=play.google.com&type=ws#100gb\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 137,
+          "type": "code"
+        },
+        {
+          "offset": 138,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 151,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 173,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 173,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 173,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
