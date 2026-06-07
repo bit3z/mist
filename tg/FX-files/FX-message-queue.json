@@ -25579,6 +25579,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2565,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780859753,
+      "text": "فوری شلیک موج دوم موشک های بالستیک به سمت مرکز اسرائیل.\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 4,
+          "type": "bold"
+        },
+        {
+          "offset": 5,
+          "length": 50,
+          "type": "bold"
+        },
+        {
+          "offset": 68,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 68,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 68,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
