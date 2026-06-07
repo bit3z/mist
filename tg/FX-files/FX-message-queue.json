@@ -25392,6 +25392,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2561,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780859453,
+      "text": "🔴پورن هاب دوباره از دسترس خارج شد.\nمردم ایران از ترس قطع اینترنت به سایت پورن هاب هجوم اوردن که باعث اختلال سایتش شده.\n\n😂😂😂\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 140,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 140,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 140,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
