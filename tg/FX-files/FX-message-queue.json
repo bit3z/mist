@@ -23884,6 +23884,62 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2528,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780848713,
+      "text": "hysteria2://masir_sefid@18.157.51.145:443?security=tls&obfs=salamander&obfs-password=masir_sefid&insecure=0&mport=443%2C2053%2C2083%2C2087%2C2096%2C8443&sni=content.masir-sefid.shop#ASALI%F0%9F%92%93\nمتصل بزنید 😁❤️\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 199,
+          "type": "blockquote"
+        },
+        {
+          "offset": 0,
+          "length": 199,
+          "type": "code"
+        },
+        {
+          "offset": 216,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 229,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 251,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 251,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 251,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
