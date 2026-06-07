@@ -26881,6 +26881,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2595,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780861734,
+      "text": "vless://4a1b6409-c3a5-496d-86ec-d4060c31dfca@95.182.99.249:55237?security=none&encryption=none&headerType=none&type=tcp#@XBat_Team\n\ntrojan://c%3ACg8%29U%2BfoGS@chatgpt.com:443?type=ws&security=tls&path=%2FeyJqdW5rIjoiQ29yRDBUbXhnRiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&sni=4QOkoKYk1-6t91632pXos28qzEJRuaLU.MahDIjOJO324.WoRkeRS.dEV&alpn=http%2F1.1&fp=chrome&allowInsecure=0#@XBat_Team\n\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 120,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 416,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 428,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 451,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 451,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 451,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
