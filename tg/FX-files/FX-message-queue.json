@@ -29159,6 +29159,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2646,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780872834,
+      "text": "🚨 رسمی: فلورنتینو پرز در انتخابات رئال مادرید پیروز شد و به عنوان رئیس باشگاه ادامه می‌دهد.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 93,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 106,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 132,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 132,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 132,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
