@@ -27259,6 +27259,69 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2603,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780862218,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKK2olzQpHnU6urpUVMlHjERwc53jkAAIzD2sbA3cwUc61GLGT_0PEAQADAgADcwADOwQ",
+          "file_unique_id": "AQADMw9rGwN3MFF4",
+          "file_size": 1264,
+          "width": 90,
+          "height": 60
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKK2olzQpHnU6urpUVMlHjERwc53jkAAIzD2sbA3cwUc61GLGT_0PEAQADAgADbQADOwQ",
+          "file_unique_id": "AQADMw9rGwN3MFFy",
+          "file_size": 17803,
+          "width": 320,
+          "height": 213
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKK2olzQpHnU6urpUVMlHjERwc53jkAAIzD2sbA3cwUc61GLGT_0PEAQADAgADeAADOwQ",
+          "file_unique_id": "AQADMw9rGwN3MFF9",
+          "file_size": 70262,
+          "width": 800,
+          "height": 533
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKK2olzQpHnU6urpUVMlHjERwc53jkAAIzD2sbA3cwUc61GLGT_0PEAQADAgADeQADOwQ",
+          "file_unique_id": "AQADMw9rGwN3MFF-",
+          "file_size": 84494,
+          "width": 1072,
+          "height": 714
+        }
+      ],
+      "caption": "🔴 شاهد برگشت کانفیگ فروشا از پاکستان ب ایران هستیم.\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 65,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 65,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 65,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
