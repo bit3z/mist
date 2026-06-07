@@ -22734,6 +22734,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2505,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780833173,
+      "text": "🔴نقوی، وزیر پاکستان🇵🇰 نامه‌ی مهمی که واسه مجتبی خامنه‌ای آورده بود رو تحویل عراقچی داد تا برسونن دست مجتبی؛\n\nخیلی‌ها میگن این نامه یه هشدار مهم از طرف ترامپه!\n\n+ متن روی پاکت :\nHis Eminence\nAyatollah Sayyed Mojtaba Hosseini Khamenei\nThe Supreme Leader of Islamic Republic of Iran\nمقام معظم\nحضرت آیت‌الله سیدمجتبی حسینی خامنه‌ای\nرهبر معظم جمهوری اسلامی ایران.\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 363,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 376,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 402,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 402,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 402,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
