@@ -27039,6 +27039,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2598,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780861918,
+      "text": "سپاه:\n\nعملیات امشب یک اعلام اخطار بود\n\nدر صورت تکرار تجاوزات پاسخ ها گسترده تر خواهد بود و تمام اهداف امریکایی ـ صهیونیستی را در منطقه در بر خواهد گرفت.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 153,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 166,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 192,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 192,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 192,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
