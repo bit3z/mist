@@ -32493,6 +32493,51 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2716,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780935132,
+      "document": {
+        "file_name": "DE50GIG.npvt",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAIKnGom6dzWn5lwNhhJRSZbzzRnQqaaAAJpHgACd_0xURYK1HLoPH-tOwQ",
+        "file_unique_id": "AgADaR4AAnf9MVE",
+        "file_size": 1348
+      },
+      "caption": "New config \n50GiG\nLocation:🇩🇪\nPass:@Xbat_chat\nمتصل روی اکثر اپراتور ها سرعت گاد\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 37,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 94,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 94,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 94,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
