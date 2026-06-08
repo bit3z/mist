@@ -29559,6 +29559,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2654,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780899551,
+      "text": "🔴 دیوید پین:\n\nدیروز وزیر کشور ترکیه اعلام کرد اردوغان «اورشلیم» رو فتح خواهد کرد!\n\nحالا اسرائیل بر خلاف جنگ با ایران، آماده استفاده از سلاح هسته ای تو جنگ احتمالی علیه ترکیه‌ست\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 179,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 190,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 216,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 216,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 216,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
