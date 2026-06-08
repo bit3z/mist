@@ -32616,6 +32616,70 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2718,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780937052,
+      "text": "📌معرفی فیلترشکن\n\n💢فیلترشکن سورن که اکثراً باهاش آشنایی دارید روی تمام اینترنت ها سرعت خوبی داره\n\nلینک دانلود از گوگل پلی\n\n\n💢فیلترشکن ترب همانند قبلی با بیشتر اپراتورها متصله و هردو رایگان هستن و سرعت قابل قبولی دارند\n\nلینک دانلود از گوگل پلی\n\n\n🆘و در آخر VPNCHI مناسب همه اینترنت ها و حتی مناسب بازی های آنلاین با پینگ خوب\n\nلینک دانلود از گوگل پلی\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 99,
+          "length": 23,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.provpn.soren"
+        },
+        {
+          "offset": 221,
+          "length": 23,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.torob.vpn"
+        },
+        {
+          "offset": 327,
+          "length": 23,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.pardis.chi"
+        },
+        {
+          "offset": 352,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 365,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 387,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 387,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 387,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
