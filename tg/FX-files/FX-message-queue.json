@@ -29811,6 +29811,42 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2659,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780901411,
+      "text": "🔴ارتش اسرائیل: حمله ایران تموم شد، ساکنای شمال اسرائیل فعلاً می‌تونن از پناهگاه‌ها و فضاهای امن خارج بشن.\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 119,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 119,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 119,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
