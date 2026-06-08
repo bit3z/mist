@@ -31510,6 +31510,48 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2697,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780908851,
+      "text": "پروکسی\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 6,
+          "type": "text_link",
+          "url": "https://t.me/proxy?server=172.65.135.177&port=25565&secret=dd104462821249bd7ac519130220c25d09"
+        },
+        {
+          "offset": 19,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 19,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 19,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+      }
     }
   ]
 }
