@@ -34808,6 +34808,69 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2761,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781018474,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKyWooL2oElgd2NNfTSKhJdVGUB9H7AAJZDmsbv4VBUfHRF6hOFyvFAQADAgADcwADOwQ",
+          "file_unique_id": "AQADWQ5rG7-FQVF4",
+          "file_size": 1534,
+          "width": 71,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKyWooL2oElgd2NNfTSKhJdVGUB9H7AAJZDmsbv4VBUfHRF6hOFyvFAQADAgADbQADOwQ",
+          "file_unique_id": "AQADWQ5rG7-FQVFy",
+          "file_size": 19855,
+          "width": 253,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKyWooL2oElgd2NNfTSKhJdVGUB9H7AAJZDmsbv4VBUfHRF6hOFyvFAQADAgADeAADOwQ",
+          "file_unique_id": "AQADWQ5rG7-FQVF9",
+          "file_size": 67072,
+          "width": 632,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKyWooL2oElgd2NNfTSKhJdVGUB9H7AAJZDmsbv4VBUfHRF6hOFyvFAQADAgADeQADOwQ",
+          "file_unique_id": "AQADWQ5rG7-FQVF-",
+          "file_size": 118142,
+          "width": 1012,
+          "height": 1280
+        }
+      ],
+      "caption": "اخرشم واسه جفتشون یه اعلامیه مشترک میزنن😐😐😐😐\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 61,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 61,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 61,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
