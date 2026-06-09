@@ -34517,6 +34517,62 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2756,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781011669,
+      "text": "trojan://Masir_Sefid@84.234.31.249:443?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FzyKRb3NaP9Ee0j4&type=tcp&sni=store.steampowered.com&sid=6ced01fc4aa417#asali\nمتصل \n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 213,
+          "type": "blockquote"
+        },
+        {
+          "offset": 0,
+          "length": 213,
+          "type": "code"
+        },
+        {
+          "offset": 220,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 233,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 255,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 255,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 255,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
