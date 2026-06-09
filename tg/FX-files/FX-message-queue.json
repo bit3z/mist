@@ -35081,6 +35081,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2767,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781027475,
+      "text": "دهنت سرویس شهرام😂من دیشب بت گفتم قیمت عرفان گذاشت زیاده ای پولا نمیخوام‌هرچند الان بیشتر از هروقتی لازم دارم ولی خب گفتم زیر ۲۰۰ بگو برا کسی سخت نباشع ب هرحال هممون تو یه کشور و وضعیت زندگی‌میکنیم\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 210,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 210,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 210,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
