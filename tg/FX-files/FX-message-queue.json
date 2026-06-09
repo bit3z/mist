@@ -35035,6 +35035,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2766,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781026215,
+      "text": "🚨🚨⚽️⚽️ بیانیه‌ی رسمی باشگاه رئال مادرید؛\nپس از جلسه هیئت مدیره که امروز برگزار شد، پیشنهادی ۱۵۰ میلیون یورویی به باشگاه اتلتیکو مادرید برای خرید حقوق فدراسیونی بازیکن خولیان آلوارز ارائه داده است.\n\n❌❌ پس از مطالعه و ارزیابی، باشگاه اتلتیکو مادرید از این باشگاه به خاطر این پیشنهاد که در چارچوب روابط خوب موجود بین دو باشگاه ارائه شده بود، تشکر کرد و با اشاره به بند آزادسازی، این پیشنهاد رو رد کرد.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 401,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 414,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 440,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 440,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 440,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
