@@ -33819,6 +33819,47 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2740,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780991833,
+      "text": "والا در حق تون خوبی کردم کجا اکانت میدن 125 هزار مثلا 1vpn یا Quark vpn هر دو 5 کاربرن هر کی دیگه بود 400 500 تومن میگرفت یه سودی از چنلش ببره یاسین گفت 250 بده سهم بردار نصفش گفتم نه نمیخواهم\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 193,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 216,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 216,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 216,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
