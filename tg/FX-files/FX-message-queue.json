@@ -34573,6 +34573,74 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2757,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781012234,
+      "photo": [
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIKxWooFwrBd1JFwd4hPuCL-FzvXhGBAALWC2sbDtxBRY0uB9VPz6tbAQADAgADcwADOwQ",
+          "file_unique_id": "AQAD1gtrGw7cQUV4",
+          "file_size": 1255,
+          "width": 47,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIKxWooFwrBd1JFwd4hPuCL-FzvXhGBAALWC2sbDtxBRY0uB9VPz6tbAQADAgADbQADOwQ",
+          "file_unique_id": "AQAD1gtrGw7cQUVy",
+          "file_size": 18467,
+          "width": 166,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIKxWooFwrBd1JFwd4hPuCL-FzvXhGBAALWC2sbDtxBRY0uB9VPz6tbAQADAgADeAADOwQ",
+          "file_unique_id": "AQAD1gtrGw7cQUV9",
+          "file_size": 74432,
+          "width": 416,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIKxWooFwrBd1JFwd4hPuCL-FzvXhGBAALWC2sbDtxBRY0uB9VPz6tbAQADAgADeQADOwQ",
+          "file_unique_id": "AQAD1gtrGw7cQUV-",
+          "file_size": 97266,
+          "width": 665,
+          "height": 1280
+        }
+      ],
+      "caption": "فووووری؛\n\n تاثیر معدل یازدهم در آزمون سراسری ۱۴۰۵ مثبت شد/ فارس\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 63,
+          "type": "bold"
+        },
+        {
+          "offset": 76,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 76,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 76,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
