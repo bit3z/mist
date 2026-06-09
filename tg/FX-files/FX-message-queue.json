@@ -33505,6 +33505,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2734,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780970953,
+      "text": "میگن این باته که الان تلگرام پخش شده به ازای 5 دعوت 3 تون میده هر تون 350 هزار گویا(اگه نداد کاربرای الکی وقت کاربرا گرفتن بن میشن 🥴) \n\n اول ربات استارت کنید جواب اون مسئله ریاضی ساده رو بدین بعد بیاین رو اد لیست بزنید عضو شید برگردین بات و تایید عضویت کنید اگه واقعی بود لینک تون تو کامنت های پست ارسال کنید \nاد لیستش:\nhttps://t.me/addlist/IiFVViQyys81OWM0\n\nاینم لینک ربات:\nhttps://t.me/gramevents_bot?startapp=ref_139607\n\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 321,
+          "length": 37,
+          "type": "url"
+        },
+        {
+          "offset": 376,
+          "length": 47,
+          "type": "url"
+        },
+        {
+          "offset": 425,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 448,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 448,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 448,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://t.me/addlist/IiFVViQyys81OWM0"
+      }
     }
   ]
 }
