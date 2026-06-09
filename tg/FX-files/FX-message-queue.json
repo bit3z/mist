@@ -34994,6 +34994,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2765,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781023995,
+      "text": "دوستان کافینگ پنل پرسرعتمون موجود شده ۱۰۰مونده فقط \n۹تا لوکیشن .مخصوص تموم هوش مصنوعی ها \nپینگ پایین \nلوکیشن های پنل \n🇹🇷Türkiye\n🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆\n🇫🇮𝐅𝐢𝐧𝐥𝐚𝐧𝐝\n🇦🇪UAE\n🇺🇸USA\n🇳🇱Netherlands\n🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆3\nگیگی فقط ۱۰\nکاربر نامحدود \nبدون ضریب \nپیوی درخدمتم\n@amirasali80\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 271,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 296,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 296,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 296,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
