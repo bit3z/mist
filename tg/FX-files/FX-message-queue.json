@@ -34380,6 +34380,89 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2754,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781009834,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKwmooDap8JDTk0iZ0q_J7UANWoTg6AAIMDmsbpVpBUWCFHfvXuDU4AQADAgADcwADOwQ",
+          "file_unique_id": "AQADDA5rG6VaQVF4",
+          "file_size": 958,
+          "width": 42,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKwmooDap8JDTk0iZ0q_J7UANWoTg6AAIMDmsbpVpBUWCFHfvXuDU4AQADAgADbQADOwQ",
+          "file_unique_id": "AQADDA5rG6VaQVFy",
+          "file_size": 10810,
+          "width": 148,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKwmooDap8JDTk0iZ0q_J7UANWoTg6AAIMDmsbpVpBUWCFHfvXuDU4AQADAgADeAADOwQ",
+          "file_unique_id": "AQADDA5rG6VaQVF9",
+          "file_size": 39679,
+          "width": 369,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKwmooDap8JDTk0iZ0q_J7UANWoTg6AAIMDmsbpVpBUWCFHfvXuDU4AQADAgADeQADOwQ",
+          "file_unique_id": "AQADDA5rG6VaQVF-",
+          "file_size": 62101,
+          "width": 591,
+          "height": 1280
+        }
+      ],
+      "caption": "🛜 دریافت 5 گیگ اینترنت یک روزه همراه اول\n   \n👟   همراه اول به مناسبت جام‌جهانی برای هرشخص که مراحل زیر رو انجام بده 5 گیگ اینترنت رایگان میده:\n👣 مراحل :\n● 1 : آخرین نسخه همراه من رو نصب کنید\nhttps://myapp.mci.ir/app/\n● 2 : وارد برنامه بشید، گزینه زمین بازی رو انتخاب کنید\n● 3 : وارد صفحه که شدین بخش پیش‌بینی وارد بشید\n● 4 : حالا کافیه فقط یک بازی نتایجش رو  پیش‌بینی کنید و روی ثبت بازی بزنید یا قهرمان جام جهانی رو پیشبنی کنید\nکاربر @KarenUT اطلاع دادن که میده نت رو 100 درصد \n\nمن موندم کدوم عقب مونده ای به ایران رای داده نامصب اسپانیا پرتغال آرژانتین فرانسه نه ایران اخه تو اپ هم خایه مالی میکنید قهرمانی ایران تو اسیا با این وضعیت غیرممکنه چه برسه جام جهانی \n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 194,
+          "length": 25,
+          "type": "url"
+        },
+        {
+          "offset": 438,
+          "length": 8,
+          "type": "mention"
+        },
+        {
+          "offset": 483,
+          "length": 183,
+          "type": "blockquote"
+        },
+        {
+          "offset": 667,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 690,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 690,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 690,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
