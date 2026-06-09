@@ -35527,6 +35527,89 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2778,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781033955,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIK2mooa-P2mmgCXix3EPrVuqZrAssNAALQDWsb6uhJUQOL30vYZVnlAQADAgADcwADOwQ",
+          "file_unique_id": "AQAD0A1rG-roSVF4",
+          "file_size": 1468,
+          "width": 60,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIK2mooa-P2mmgCXix3EPrVuqZrAssNAALQDWsb6uhJUQOL30vYZVnlAQADAgADbQADOwQ",
+          "file_unique_id": "AQAD0A1rG-roSVFy",
+          "file_size": 22695,
+          "width": 213,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIK2mooa-P2mmgCXix3EPrVuqZrAssNAALQDWsb6uhJUQOL30vYZVnlAQADAgADeAADOwQ",
+          "file_unique_id": "AQAD0A1rG-roSVF9",
+          "file_size": 94049,
+          "width": 533,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIK2mooa-P2mmgCXix3EPrVuqZrAssNAALQDWsb6uhJUQOL30vYZVnlAQADAgADeQADOwQ",
+          "file_unique_id": "AQAD0A1rG-roSVF-",
+          "file_size": 167582,
+          "width": 853,
+          "height": 1280
+        }
+      ],
+      "caption": "خب چالش داریم\n\nچالش اکانت فیلترشکن نورد پرمیوم\n\nNord  VPN Auto (تمدید مجدد)\n\nبین اعداد 1 تا عدد 85 فقط یک عدد بذارید رندوم به یک نفر اکانت تقدیم خواهد شد\n\nاسپم و ویرایش ممنوع❌\n\nری اکشن و لایک مرامی❤️\n\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 13,
+          "type": "bold"
+        },
+        {
+          "offset": 48,
+          "length": 14,
+          "type": "bold"
+        },
+        {
+          "offset": 202,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 215,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 237,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 237,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 237,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
