@@ -34317,6 +34317,69 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2753,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781009591,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKwWooDLfGR299tVuH3Z5hLnceTWZfAALODmsbs4dAUWqHj5yZj_mRAQADAgADcwADOwQ",
+          "file_unique_id": "AQADzg5rG7OHQFF4",
+          "file_size": 846,
+          "width": 66,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKwWooDLfGR299tVuH3Z5hLnceTWZfAALODmsbs4dAUWqHj5yZj_mRAQADAgADbQADOwQ",
+          "file_unique_id": "AQADzg5rG7OHQFFy",
+          "file_size": 21211,
+          "width": 234,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKwWooDLfGR299tVuH3Z5hLnceTWZfAALODmsbs4dAUWqHj5yZj_mRAQADAgADeAADOwQ",
+          "file_unique_id": "AQADzg5rG7OHQFF9",
+          "file_size": 119775,
+          "width": 586,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKwWooDLfGR299tVuH3Z5hLnceTWZfAALODmsbs4dAUWqHj5yZj_mRAQADAgADeQADOwQ",
+          "file_unique_id": "AQADzg5rG7OHQFF-",
+          "file_size": 194109,
+          "width": 938,
+          "height": 1280
+        }
+      ],
+      "caption": "🔴دیوان عدالت اداری شکایت برخی مسولین تندرو بر علیه رئیس جمهور جهت تشکیل ستاد راهبردی فضای مجازی و آزادسازی اینترنت توسط وزارت ارتباطات رو رد کرد و به نفع دولت و ستاد راهبردی فضای مجازی رای داد.\n\n+دست دولت برای بازگشایی اینترنت و رفع فیلترینگ باز تر شد.\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 266,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 266,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 266,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
