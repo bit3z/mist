@@ -37852,6 +37852,84 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2827,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781097437,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILC2opY921_zKGeKPO0K8qen6bYxhEAAJhDmsbMlVIUceXjSjfp5NGAQADAgADcwADOwQ",
+          "file_unique_id": "AQADYQ5rGzJVSFF4",
+          "file_size": 1126,
+          "width": 90,
+          "height": 51
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILC2opY921_zKGeKPO0K8qen6bYxhEAAJhDmsbMlVIUceXjSjfp5NGAQADAgADbQADOwQ",
+          "file_unique_id": "AQADYQ5rGzJVSFFy",
+          "file_size": 17928,
+          "width": 320,
+          "height": 180
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILC2opY921_zKGeKPO0K8qen6bYxhEAAJhDmsbMlVIUceXjSjfp5NGAQADAgADeAADOwQ",
+          "file_unique_id": "AQADYQ5rGzJVSFF9",
+          "file_size": 64012,
+          "width": 800,
+          "height": 449
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILC2opY921_zKGeKPO0K8qen6bYxhEAAJhDmsbMlVIUceXjSjfp5NGAQADAgADeQADOwQ",
+          "file_unique_id": "AQADYQ5rGzJVSFF-",
+          "file_size": 79209,
+          "width": 1079,
+          "height": 606
+        }
+      ],
+      "caption": "🔴 شریفی زارچی استاد سابق دانشگاه شریف:\n\nجمهوری اسلامی در حال انتقام‌گیری از دانشجوهاس؛\nحداقل 7 نفر از دانشجویان دانشگاه صنعتی آریامهر (شریف) حکم اخراج دریافت کردن.\n103 روز جرات نکردن رهبرشونو به گور بسپارن؛ با قاتل رهبرشون در حال مذاکره‌ن؛ و تمام شجاعتشون انتقام‌گیری از جوانان ایرانه.\nکفتارهای مقوایی.\n‌\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 40,
+          "length": 263,
+          "type": "blockquote"
+        },
+        {
+          "offset": 306,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 319,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 345,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 345,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 345,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
