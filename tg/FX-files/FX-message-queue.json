@@ -717,6 +717,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2845,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781109738,
+      "text": "🚨 سنتکام اعلام کرد کمی پیش یک نفتکش مرتبط با ایران را هدف حمله هوایی قرار داده است\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 84,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 97,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 123,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 123,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 123,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
