@@ -36980,6 +36980,102 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2811,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781070133,
+      "text": "Expressvpn \n\nUser: synergy9999@outlook.com\npass: Maradona@9999\n\nUser: prowler135@yahoo.com\nPass: Kimber1911@@\n\nuser: dssekyanzi@yahoo.com\npass: B2krnazxcv$\n\nUser: tarekmdemegh@gmail.com\nPass: @06943460@Tm\n\nUser: sofian.ifrah@gmail.com\nPass: Sosopopo0095@\n\nUser: c.dellanave@mac.com\nPass: f901vPRx;\n\nUser: linkfma789@gmail.com\nPass: jah784596!\n\nuser: sineadmclarke75@gmail.com\nPass: Mark@1974\n\nUser: jason.mckie@outlook.com\npass: redkites\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 19,
+          "length": 23,
+          "type": "email"
+        },
+        {
+          "offset": 70,
+          "length": 20,
+          "type": "email"
+        },
+        {
+          "offset": 117,
+          "length": 20,
+          "type": "email"
+        },
+        {
+          "offset": 163,
+          "length": 22,
+          "type": "email"
+        },
+        {
+          "offset": 192,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 212,
+          "length": 22,
+          "type": "email"
+        },
+        {
+          "offset": 262,
+          "length": 19,
+          "type": "email"
+        },
+        {
+          "offset": 305,
+          "length": 20,
+          "type": "email"
+        },
+        {
+          "offset": 350,
+          "length": 25,
+          "type": "email"
+        },
+        {
+          "offset": 399,
+          "length": 23,
+          "type": "email"
+        },
+        {
+          "offset": 439,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 452,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 474,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 474,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 474,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
