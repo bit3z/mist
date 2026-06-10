@@ -279,6 +279,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2835,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781107518,
+      "text": "🚨ترامپ:\n\nمنظور من از اینکه ایران تاوان می‌دهد این است که ما به آنها حمله بسیار سختی خواهیم کرد.\n\nما با قدرت به ایران حمله خواهیم کرد و این کشور باید توافق را امضا می‌کرد.\n\nامروز دوباره به ایران حمله‌ی سختی خواهیم کرد.\n\nفاش نمیکنم که آیا پل‌ها و نیروگاه‌ها رو هدف قرار خواهیم داد یا نه.\n\nما اهداف را دوباره در ایران از سر میگیریم.\n\n@odin_club\n@Arvanpingbot\n#mahdi\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 332,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 343,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 357,
+          "length": 6,
+          "type": "hashtag"
+        },
+        {
+          "offset": 376,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 376,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 376,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
