@@ -494,6 +494,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2840,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781108881,
+      "text": "ترامپ: حملات علیه ایران رو مجدد از سر میگیریم. این بار شدید تر بمبارونشون میکنیم.\nاونا هلی کوپتر مارو زدن و ما حق انتقام رو داریم.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 131,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 144,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 170,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 170,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 170,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
