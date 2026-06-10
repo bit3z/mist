@@ -2475,7 +2475,7 @@
       }
     },
     {
-      "message_id": 2883,
+      "message_id": 2884,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -2487,26 +2487,31 @@
         "type": "channel"
       },
       "date": 1781127258,
-      "text": "فقط میناب سیریک رو زدند چیز صدای توافق به‌گوش رسیده\n\n• Sent via TeleFeed",
+      "text": "🔴حملات رسما آغاز شد\nصدای چند انفجار در میناب و سیریک \n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
       "entities": [
         {
-          "offset": 0,
-          "length": 51,
-          "type": "bold"
+          "offset": 55,
+          "length": 10,
+          "type": "mention"
         },
         {
-          "offset": 64,
+          "offset": 68,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 94,
           "length": 8,
           "type": "text_link",
           "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
         },
         {
-          "offset": 64,
+          "offset": 94,
           "length": 8,
           "type": "bold"
         },
         {
-          "offset": 64,
+          "offset": 94,
           "length": 8,
           "type": "underline"
         }
