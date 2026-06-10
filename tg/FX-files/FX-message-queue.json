@@ -1277,6 +1277,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2855,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781120778,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILJ2opvwruxUlWmTRIHDX7kOrgvAS-AALIDWsbMlVQURsIkhE7W4bPAQADAgADcwADOwQ",
+          "file_unique_id": "AQADyA1rGzJVUFF4",
+          "file_size": 1221,
+          "width": 51,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILJ2opvwruxUlWmTRIHDX7kOrgvAS-AALIDWsbMlVQURsIkhE7W4bPAQADAgADbQADOwQ",
+          "file_unique_id": "AQADyA1rGzJVUFFy",
+          "file_size": 19401,
+          "width": 180,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILJ2opvwruxUlWmTRIHDX7kOrgvAS-AALIDWsbMlVQURsIkhE7W4bPAQADAgADeAADOwQ",
+          "file_unique_id": "AQADyA1rGzJVUFF9",
+          "file_size": 93650,
+          "width": 450,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILJ2opvwruxUlWmTRIHDX7kOrgvAS-AALIDWsbMlVQURsIkhE7W4bPAQADAgADeQADOwQ",
+          "file_unique_id": "AQADyA1rGzJVUFF-",
+          "file_size": 184691,
+          "width": 720,
+          "height": 1280
+        }
+      ],
+      "caption": "خیبر شکن اوردن تو راهپیمایی شبانه. (مشهد)\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 43,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 56,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 82,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 82,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 82,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
