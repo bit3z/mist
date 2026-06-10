@@ -1488,6 +1488,74 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2859,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781121798,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILK2opwwaobe1EwFb9SUMyjYuUSIKHAAIREGsbmRRJUSVb7nEcQeH9AQADAgADcwADOwQ",
+          "file_unique_id": "AQADERBrG5kUSVF4",
+          "file_size": 766,
+          "width": 90,
+          "height": 50
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILK2opwwaobe1EwFb9SUMyjYuUSIKHAAIREGsbmRRJUSVb7nEcQeH9AQADAgADbQADOwQ",
+          "file_unique_id": "AQADERBrG5kUSVFy",
+          "file_size": 10973,
+          "width": 320,
+          "height": 178
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILK2opwwaobe1EwFb9SUMyjYuUSIKHAAIREGsbmRRJUSVb7nEcQeH9AQADAgADeAADOwQ",
+          "file_unique_id": "AQADERBrG5kUSVF9",
+          "file_size": 49468,
+          "width": 800,
+          "height": 444
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILK2opwwaobe1EwFb9SUMyjYuUSIKHAAIREGsbmRRJUSVb7nEcQeH9AQADAgADeQADOwQ",
+          "file_unique_id": "AQADERBrG5kUSVF-",
+          "file_size": 75499,
+          "width": 1080,
+          "height": 599
+        }
+      ],
+      "caption": "#بوی_بگایی \n\n🔴 سوخت رسان‌ها دارن شلوار میپوشن و از عربستان دارن بلند میشن\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 10,
+          "type": "hashtag"
+        },
+        {
+          "offset": 87,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 87,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 87,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
