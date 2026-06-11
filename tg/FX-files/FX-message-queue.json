@@ -6812,6 +6812,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2976,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781209526,
+      "text": "vless://62ba0e46-23b4-4896-9e14-c1156f4a2682@85.9.107.132:18191?security=none&encryption=none&headerType=none&type=tcp#https%3A%2F%2Ft.me%2FError404Bin\n\nاینم اخر شبی جمعه \nبریا دانلود فیلم😂😂\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 151,
+          "type": "code"
+        },
+        {
+          "offset": 193,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 206,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 228,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 228,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 228,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
