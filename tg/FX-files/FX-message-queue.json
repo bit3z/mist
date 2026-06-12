@@ -8922,6 +8922,117 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3022,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781274267,
+      "text": "پروکسی های فعال:\n\nپروکسی های ایرانسل، همراه اول و سامانتل و رایتل \n\nسرور اول  |  سرور دوم\nسرور سوم  |  سرور چهارم\nسرور پنجم  |  سرور ششم\n\nپروکسی های مودم، وای‌فای  \n\nسرور اول  |  سرور دوم\nسرور سوم  |  سرور چهارم\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 49,
+          "type": "bold"
+        },
+        {
+          "offset": 50,
+          "length": 15,
+          "type": "bold"
+        },
+        {
+          "offset": 68,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/proxy?server=87.229.56.8&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+        },
+        {
+          "offset": 81,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/proxy?server=194.213.118.26&port=1010&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+        },
+        {
+          "offset": 90,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/proxy?server=87.229.56.6&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+        },
+        {
+          "offset": 103,
+          "length": 10,
+          "type": "text_link",
+          "url": "https://t.me/proxy?server=87.248.129.16&port=8443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+        },
+        {
+          "offset": 114,
+          "length": 9,
+          "type": "text_link",
+          "url": "https://t.me/proxy?server=fool.feel-fly.info&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+        },
+        {
+          "offset": 128,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/proxy?server=87.248.129.49&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+        },
+        {
+          "offset": 138,
+          "length": 25,
+          "type": "bold"
+        },
+        {
+          "offset": 166,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/proxy?server=198.13.158.158&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+        },
+        {
+          "offset": 179,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/proxy?server=ams1.tlgfast.com&port=443&secret=083fe0c452e2407d835537872f097c54"
+        },
+        {
+          "offset": 188,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/proxy?server=87.229.56.7&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+        },
+        {
+          "offset": 201,
+          "length": 10,
+          "type": "text_link",
+          "url": "https://t.me/proxy?server=87.229.56.7&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+        },
+        {
+          "offset": 224,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 224,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 224,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
