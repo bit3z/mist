@@ -11249,6 +11249,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3068,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781343570,
+      "text": "اختلال گسترده بانکی در بانک‌های ملی، تجارت و صادرات\n\nسیتنا نوشت: از صبح امروز شنبه 23 خردادماه، سیستم بانکی سه بانک ملی، صادرات و تجارت دچار اختلال و قطعی شده و تا زمان ارسال این خبر همچنان مشکل ادامه دارد.\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 219,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 219,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 219,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
