@@ -11440,6 +11440,229 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3072,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781345310,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIMAAFqLSwe0JQKczGNb2nPr2AgmlnVzQACrQ1rG4JKaVGfXO1VZqrh1AEAAwIAA3MAAzwE",
+          "file_unique_id": "AQADrQ1rG4JKaVF4",
+          "file_size": 2349,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIMAAFqLSwe0JQKczGNb2nPr2AgmlnVzQACrQ1rG4JKaVGfXO1VZqrh1AEAAwIAA20AAzwE",
+          "file_unique_id": "AQADrQ1rG4JKaVFy",
+          "file_size": 33415,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIMAAFqLSwe0JQKczGNb2nPr2AgmlnVzQACrQ1rG4JKaVGfXO1VZqrh1AEAAwIAA3gAAzwE",
+          "file_unique_id": "AQADrQ1rG4JKaVF9",
+          "file_size": 141996,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIMAAFqLSwe0JQKczGNb2nPr2AgmlnVzQACrQ1rG4JKaVGfXO1VZqrh1AEAAwIAA3kAAzwE",
+          "file_unique_id": "AQADrQ1rG4JKaVF-",
+          "file_size": 279866,
+          "width": 1254,
+          "height": 1254
+        }
+      ],
+      "caption": "پروکسی سرورهای Http برای استفاده در سایفون ، Argo vpn و Ultrasurf\n\n➖➖➖➖➖➖➖➖➖➖➖➖➖➖\n\nCanada:ca-tor2-smart.serverlocation.co\n\nNetherland:nl-am-smart.serverlocation.co\n\nSweden:se-st-smart.serverlocation.co\n\nAustria:at-vn.serverlocation.co\n\n\nGermany:de-fra-smart.serverlocation.co\n\nTurkey:tr-is2-smart.serverlocation.co\n\nFrance:fr-pr1-smart.serverlocation.co\n\nUAE:uae-db2-smart.serverlocation.co\n\nUnited States:us-ny2-smart.serverlocation.co\n\n\nUnited Kingdom:uk-lon2-smart.serverlocation.co\n\nItaly:it-ml.serverlocation.co\n\nNorway:es-md2-smart.serverlocation.co\n\nSpain:es-md2-smart.serverlocation.co\n➿➿➿➿➿➿➿➿➿➿➿➿➿➿\n\nUsername:SDPbaygQbbqMdaq\n\n\nPassword:@Error404Bin\n\nآموزش اتصال\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 83,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 90,
+          "length": 31,
+          "type": "code"
+        },
+        {
+          "offset": 123,
+          "length": 10,
+          "type": "bold"
+        },
+        {
+          "offset": 134,
+          "length": 29,
+          "type": "code"
+        },
+        {
+          "offset": 165,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 172,
+          "length": 29,
+          "type": "code"
+        },
+        {
+          "offset": 203,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 211,
+          "length": 23,
+          "type": "code"
+        },
+        {
+          "offset": 237,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 245,
+          "length": 30,
+          "type": "code"
+        },
+        {
+          "offset": 277,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 284,
+          "length": 30,
+          "type": "code"
+        },
+        {
+          "offset": 316,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 323,
+          "length": 30,
+          "type": "code"
+        },
+        {
+          "offset": 355,
+          "length": 3,
+          "type": "bold"
+        },
+        {
+          "offset": 359,
+          "length": 31,
+          "type": "code"
+        },
+        {
+          "offset": 392,
+          "length": 13,
+          "type": "bold"
+        },
+        {
+          "offset": 406,
+          "length": 30,
+          "type": "code"
+        },
+        {
+          "offset": 439,
+          "length": 14,
+          "type": "bold"
+        },
+        {
+          "offset": 454,
+          "length": 31,
+          "type": "code"
+        },
+        {
+          "offset": 487,
+          "length": 5,
+          "type": "bold"
+        },
+        {
+          "offset": 493,
+          "length": 23,
+          "type": "code"
+        },
+        {
+          "offset": 518,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 525,
+          "length": 30,
+          "type": "code"
+        },
+        {
+          "offset": 557,
+          "length": 5,
+          "type": "bold"
+        },
+        {
+          "offset": 563,
+          "length": 30,
+          "type": "code"
+        },
+        {
+          "offset": 610,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 619,
+          "length": 15,
+          "type": "code"
+        },
+        {
+          "offset": 637,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 646,
+          "length": 12,
+          "type": "code"
+        },
+        {
+          "offset": 673,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 686,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 708,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 708,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 708,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
