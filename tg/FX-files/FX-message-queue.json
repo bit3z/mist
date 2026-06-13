@@ -11065,6 +11065,57 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3064,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781340990,
+      "text": "https://t.me/ROVPNBOT?start=6948878650\nاگه کسی هنوز نگرفته برا من بزنه\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 38,
+          "type": "url"
+        },
+        {
+          "offset": 71,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 84,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 110,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 110,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 110,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://t.me/ROVPNBOT?start=6948878650"
+      }
     }
   ]
 }
