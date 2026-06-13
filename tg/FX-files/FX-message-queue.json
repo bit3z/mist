@@ -10670,6 +10670,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3055,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781328089,
+      "text": "بازیای امشب جام جهانی:\n\nساعت 22:30 | 🇶🇦 قطر × سوئیس 🇨🇭\n\nساعت 01:30 | 🇧🇷 برزیل × مراکش 🇲🇦\n\nساعت 04:30 | 🇭🇹 هائیتی × اسکاتلند 🏴󠁧󠁢󠁳󠁣󠁴󠁿\n\nساعت 07:30 | 🇦🇺 استرالیا × ترکیه 🇹🇷\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 191,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 204,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 230,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 230,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 230,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
