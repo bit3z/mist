@@ -18646,6 +18646,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3156,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781430393,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIMVGoueHkofgjZcGyJInASPWvvJmvJAAJlD2sb8Kh5UbfDzATHDlsPAQADAgADcwADPAQ",
+          "file_unique_id": "AQADZQ9rG_CoeVF4",
+          "file_size": 583,
+          "width": 47,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIMVGoueHkofgjZcGyJInASPWvvJmvJAAJlD2sb8Kh5UbfDzATHDlsPAQADAgADbQADPAQ",
+          "file_unique_id": "AQADZQ9rG_CoeVFy",
+          "file_size": 5204,
+          "width": 167,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIMVGoueHkofgjZcGyJInASPWvvJmvJAAJlD2sb8Kh5UbfDzATHDlsPAQADAgADeAADPAQ",
+          "file_unique_id": "AQADZQ9rG_CoeVF9",
+          "file_size": 19609,
+          "width": 417,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIMVGoueHkofgjZcGyJInASPWvvJmvJAAJlD2sb8Kh5UbfDzATHDlsPAQADAgADeQADPAQ",
+          "file_unique_id": "AQADZQ9rG_CoeVF-",
+          "file_size": 35794,
+          "width": 668,
+          "height": 1280
+        }
+      ],
+      "caption": "استوری اهورا نیازی \n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 21,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 34,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 60,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 60,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 60,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
