@@ -19522,6 +19522,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3174,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781441493,
+      "text": "اشتراک رایگان یک ساله خود multClude را دریافت کنید - ۳۹.۹۹ دلار\n\nبرای فعال کردن حساب کاربری خود، این مراحل ساده را دنبال کنید:\n\n۱. به سایت app.multcloud.com بروید\n\n۲. ثبت نام: اگر قبلاً حساب کاربری جدید ایجاد نکرده‌اید، یک حساب کاربری جدید ایجاد کنید\n\n۳. مکان فعال‌سازی را پیدا کنید: روی نماد کلید در بالای داشبورد کلیک کنید\n\n۴. بازخرید: کد فعال‌سازی خود را در فیلد مشخص شده وارد کنید\n\nکد فعال‌سازی: SHAREWARE060NSAL\n\nلذت ببرید! دسترسی پریمیوم ۱ ساله شما اکنون فعال است.\n\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 139,
+          "length": 17,
+          "type": "url"
+        },
+        {
+          "offset": 472,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 495,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 495,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 495,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
