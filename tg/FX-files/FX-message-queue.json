@@ -17253,6 +17253,257 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3134,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781425054,
+      "text": "103.31.4.76\n173.245.49.37\n103.31.4.88\n103.31.4.173\n103.31.4.31\n104.24.200.116\n104.21.101.92\n162.159.11.159\n190.93.246.250\n104.24.148.113\n162.159.237.218\n190.93.247.33\n190.93.247.215\n104.21.44.24\n162.159.154.41\n188.114.98.49\n104.24.191.236\n103.31.4.82\n190.93.247.64\n104.18.216.3\n104.24.174.45\n172.67.175.181\n190.93.245.186\n104.20.48.204\n104.25.91.231\n104.24.198.8\n104.18.132.53\n104.18.37.148\n103.31.4.149\n188.114.99.40\n173.245.49.72\n103.31.4.190\n141.101.114.72\n104.17.184.243\n190.93.244.174\n104.21.119.42\n104.17.78.209\n104.16.42.205\n104.24.133.205\n104.24.230.221\n104.24.174.76\n173.245.58.160\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 590,
+          "type": "blockquote"
+        },
+        {
+          "offset": 0,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 12,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 26,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 38,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 51,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 63,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 78,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 92,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 107,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 122,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 137,
+          "length": 15,
+          "type": "url"
+        },
+        {
+          "offset": 153,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 167,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 182,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 195,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 210,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 224,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 239,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 251,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 265,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 278,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 292,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 307,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 322,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 336,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 350,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 363,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 377,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 391,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 404,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 418,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 432,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 445,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 460,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 475,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 490,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 504,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 518,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 532,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 547,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 562,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 576,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 603,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 603,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 603,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
