@@ -19252,6 +19252,46 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3168,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781441133,
+      "document": {
+        "file_name": "whitedns-v0.0.2-arm64-v8a.apk",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAIMYGouom3d09_z99BEgnp-WbwPX-_fAAKDIQACFPV5UST3NhNtW8zhPAQ",
+        "file_unique_id": "AgADgyEAAhT1eVE",
+        "file_size": 24633754
+      },
+      "caption": "• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
