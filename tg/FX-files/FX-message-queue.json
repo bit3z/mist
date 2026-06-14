@@ -17504,6 +17504,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3135,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781425173,
+      "text": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqUHhGbjNKN2t1SmpCNzJjSXdweXBB@213.156.152.223:2095#asali\n\nتست کنید ببینید وصله\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 92,
+          "type": "code"
+        },
+        {
+          "offset": 127,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 127,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 127,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
