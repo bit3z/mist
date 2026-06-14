@@ -21368,6 +21368,80 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3199,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781462374,
+      "media_group_id": "14251698999476628",
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIMf2ou9WbVkh2viA01gXFNeMGeoG0SAALYEWsbqpV5UToW_KTEcZ1QAQADAgADcwADPAQ",
+          "file_unique_id": "AQAD2BFrG6qVeVF4",
+          "file_size": 1436,
+          "width": 76,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIMf2ou9WbVkh2viA01gXFNeMGeoG0SAALYEWsbqpV5UToW_KTEcZ1QAQADAgADbQADPAQ",
+          "file_unique_id": "AQAD2BFrG6qVeVFy",
+          "file_size": 14310,
+          "width": 271,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIMf2ou9WbVkh2viA01gXFNeMGeoG0SAALYEWsbqpV5UToW_KTEcZ1QAQADAgADeAADPAQ",
+          "file_unique_id": "AQAD2BFrG6qVeVF9",
+          "file_size": 48097,
+          "width": 678,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIMf2ou9WbVkh2viA01gXFNeMGeoG0SAALYEWsbqpV5UToW_KTEcZ1QAQADAgADeQADPAQ",
+          "file_unique_id": "AQAD2BFrG6qVeVF-",
+          "file_size": 77570,
+          "width": 1085,
+          "height": 1280
+        }
+      ],
+      "caption": "🇯🇵🇳🇱 | ترکیب هلند و ژاپن، بازی ساعت 23:30 به وقت ایران\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 59,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 72,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 98,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 98,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 98,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
