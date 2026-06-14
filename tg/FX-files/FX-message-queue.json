@@ -21189,6 +21189,72 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3196,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781460034,
+      "video": {
+        "duration": 14,
+        "width": 716,
+        "height": 1032,
+        "mime_type": "video/mp4",
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgx8ai7sQtfUwCgNJvxqPcZ-uVgTMIsAAqoeAAKqlXlRCO01jUp9ppQBAAdtAAM8BA",
+          "file_unique_id": "AQADqh4AAqqVeVFy",
+          "file_size": 14640,
+          "width": 222,
+          "height": 320
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgx8ai7sQtfUwCgNJvxqPcZ-uVgTMIsAAqoeAAKqlXlRCO01jUp9ppQBAAdtAAM8BA",
+          "file_unique_id": "AQADqh4AAqqVeVFy",
+          "file_size": 14640,
+          "width": 222,
+          "height": 320
+        },
+        "file_id": "BAACAgQAAyEFAATqPDJ3AAIMfGou7ELX1MAoDSb8aj3GfrlYEzCLAAKqHgACqpV5UQjtNY1KfaaUPAQ",
+        "file_unique_id": "AgADqh4AAqqVeVE",
+        "file_size": 1558169
+      },
+      "caption": "عرزشیا میخوان عراقچیو اعدام کنن\n\n- عراقچی بی‌غیرت اعدام باید گردد\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 67,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 80,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 106,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 106,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 106,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
