@@ -14414,6 +14414,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3130,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781390071,
+      "text": "مراکش واقعا جذابه. چقدر این تیم خوبه. نوع بازی تیمشون دیگه از یک تیم جویای نام گذشته. بزرگیِ شخصیت تیمشون از انگلیسم بیشتره. جلوی برزیل چقدر با اعتمادبنفس و آرامش بازی میکنن. انگار قهرمان دوره قبلن.\n\n@odin_club\n@Arvanpingbot\n#mahdi\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 200,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 211,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 225,
+          "length": 6,
+          "type": "hashtag"
+        },
+        {
+          "offset": 244,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 244,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 244,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
