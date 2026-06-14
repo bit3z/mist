@@ -14465,6 +14465,77 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3131,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781417372,
+      "text": "اکانت جدید #اکسپرس وی پی ان \n\nyo_pi_ki@yahoo.co.jp\n mknysk1978true!\n\n ecloud@icloud.com\n Prov2119!\n\nبا فیلتر لاگین کنید\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 11,
+          "length": 7,
+          "type": "hashtag"
+        },
+        {
+          "offset": 30,
+          "length": 20,
+          "type": "code"
+        },
+        {
+          "offset": 52,
+          "length": 15,
+          "type": "code"
+        },
+        {
+          "offset": 70,
+          "length": 17,
+          "type": "code"
+        },
+        {
+          "offset": 89,
+          "length": 9,
+          "type": "code"
+        },
+        {
+          "offset": 120,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 133,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 155,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 155,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 155,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
