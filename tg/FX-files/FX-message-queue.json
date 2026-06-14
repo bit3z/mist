@@ -13284,6 +13284,101 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3104,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781377471,
+      "video": {
+        "duration": 97,
+        "width": 588,
+        "height": 1280,
+        "mime_type": "video/mp4",
+        "qualities": [
+          {
+            "width": 588,
+            "height": 1280,
+            "codec": "av01",
+            "file_id": "BAACAgQAAyEFAATqPDJ3AAIMIGotqb_i073jMXVmB9umWUWDrX6FAALPIAACBi5wUTf6rC_5q0dNPAQ",
+            "file_unique_id": "AgADzyAAAgYucFE",
+            "file_size": 13932230
+          },
+          {
+            "width": 588,
+            "height": 1280,
+            "codec": "h264",
+            "file_id": "BAACAgQAAyEFAATqPDJ3AAIMIGotqb8kwGXowyqvg6UKydgczFRCAAJ8HgACTW5xUY0bsyHT_CHjPAQ",
+            "file_unique_id": "AgADfB4AAk1ucVE",
+            "file_size": 16815003
+          },
+          {
+            "width": 392,
+            "height": 856,
+            "codec": "av01",
+            "file_id": "BAACAgQAAyEFAATqPDJ3AAIMIGotqb879Ie94waqwykRBoiN-abMAAKJHwACuOhxUZhw0gu1Du6jPAQ",
+            "file_unique_id": "AgADiR8AArjocVE",
+            "file_size": 9978541
+          },
+          {
+            "width": 392,
+            "height": 856,
+            "codec": "h264",
+            "file_id": "BAACAgQAAyEFAATqPDJ3AAIMIGotqb8BRwEjdoThToxMV4_ufFo2AAL8IAACrxRxUTDpo8xIQNEDPAQ",
+            "file_unique_id": "AgAD_CAAAq8UcVE",
+            "file_size": 11118275
+          }
+        ],
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgwgai2pv3nW8dTTdHKVvlAuBb1GUGsAAiceAAIdLXFRxfMAAfzSnhjwAQAHbQADPAQ",
+          "file_unique_id": "AQADJx4AAh0tcVFy",
+          "file_size": 9991,
+          "width": 148,
+          "height": 320
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgwgai2pv3nW8dTTdHKVvlAuBb1GUGsAAiceAAIdLXFRxfMAAfzSnhjwAQAHbQADPAQ",
+          "file_unique_id": "AQADJx4AAh0tcVFy",
+          "file_size": 9991,
+          "width": 148,
+          "height": 320
+        },
+        "file_id": "BAACAgQAAyEFAATqPDJ3AAIMIGotqb951vHU03Rylb5QLgW9RlBrAAInHgACHS1xUcXzAAH80p4Y8DwE",
+        "file_unique_id": "AgADJx4AAh0tcVE",
+        "file_size": 11495672
+      },
+      "caption": "قرعه کشی انجام شد\nشات های گرفته شده تو پست های مربوط ارسال میشه و برنده ها مشخص خواهند شد\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 90,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 113,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 113,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 113,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
