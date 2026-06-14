@@ -19568,6 +19568,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3175,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781441793,
+      "text": "🚀🔥 فروش ویژه VPN پرسرعت + دسترسی به هوش مصنوعی 🔥🚀\n✅ مناسب برای تلگرام، اینستاگرام، یوتیوب، واتساپ، بازی آنلاین و وب‌گردی بدون محدودیت\n🤖 دسترسی راحت به سرویس‌های هوش مصنوعی 📝 تولید محتوا 🎨 ساخت تصویر با AI 💻 برنامه‌نویسی و آموزش 🌐 دسترسی به سایت‌ها و سرویس‌های بین‌المللی\n🌍 لوکیشن‌های فعال:\n🇹🇷 Türkiye\n🇩🇪 Rocket 1 🚀\n🇩🇪 Rocket 2 🚀\n🇩🇪 Germany\n🇩🇪 Germany VIP2\n🇩🇪 Germany VIP3\n🇫🇮 Finland\n🇺🇸 USA\n🇳🇱 Netherlands\n🇦🇪 UAE\n🎲 Random: 🇫🇷 🇬🇧 🇹🇷 🇦🇪 🇮🇳\n⚡ سرعت بالا و پایداری عالی 🔒 امنیت و کیفیت تضمینی 📱 قابل استفاده روی تمامی دستگاه‌ها 🛠 پشتیبانی سریع و پاسخگو\n📩 خرید و مشاوره: 🔹 \n@amirasali80\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 615,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 640,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 640,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 640,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
