@@ -21593,6 +21593,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3203,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781463454,
+      "text": "مود نسخه جدید برنامه👇\n🔹اپیکشین  MovieLix\n♦️Android \nفیلم و سریال دوبله ، بدون سانسور 🔞\nسازگار با تمام گوشی ها 📲\n🔺🔺🔺🔺🔺\n🔹اشتراک فعال پرمیوم 800روزه ♻️ \n🔹بدون نیاز به لاگین ⚙️\n🔹بهینه سازی شده ⚡\n🔹حذف فایل های اضافی 📂\n🔹قابلیت دانلود و ذخیره سازی فیلم و سریال  🔽 🔽\n🔺🔺🔺🔺🔺 \nبرای اندروید 9 به بالاس این برنامه کلا\n\nمود شده توسط میلاد\nمنبع جمع آوری شده توسط ShahramSh1996\n🔺🔺🔺🔺🔺\nاستفاده کنید به دوستان خودتون هم فوروارد \nکنید\n سایر کانال ها داریم هزینه میکنیم و وقت میزاریم انصاف نیست با حذف تگ ها و اسم و... فایل به اسم اختصاصی خودتون بزنید هر چند ما اهل دعوا اسم بردن اینا نیستیم\n \nعشق کنید گدایی واکنش و لایک هم نیستیم بگم فلان کنید بهمان کنید تا فلان چیز رو اماده کنیم فقط اگه دوست داشتین و مایل بودید به دوستاتون ارسال کنید بیان اینجا \n\n@XBat_Team @Xbat_chat\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 443,
+          "length": 154,
+          "type": "bold"
+        },
+        {
+          "offset": 758,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 769,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 792,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 792,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 792,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
