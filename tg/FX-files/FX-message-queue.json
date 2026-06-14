@@ -13233,6 +13233,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3103,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781375371,
+      "text": "ترامپ نوشته: توافق فردا انجام می‌شود و در زمان مناسب، وقتی همه‌چیز آرام شد، ما وارد خواهیم شد و اورانیوم را که عمیقاً زیر کوه‌ها و فرورفته بیرون خواهیم آورد و آن را نابود می‌کنیم (منبع).\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 178,
+          "type": "bold"
+        },
+        {
+          "offset": 188,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 201,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 227,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 227,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 227,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
