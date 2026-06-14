@@ -24277,6 +24277,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3261,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781476287,
+      "text": "🚨🇮🇱🇺🇸نخست‌وزیر اسرائیل بنیامین نتانیاهو به رئیس‌جمهور ترامپ گفته که نیروهای اسرائیلی از لبنان عقب‌نشینی نمی‌کنن و اسرائیل خودش رو به بند مربوط به لبنان تو تفاهم‌نامه آمریکا-ایران ملزم نمی‌دونه\n\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 200,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 211,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 237,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 237,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 237,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
