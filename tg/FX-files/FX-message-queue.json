@@ -22741,6 +22741,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3228,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781472807,
+      "text": "🚨🚨🚨 ترامپ:\n\nتوافق با جمهوری اسلامی اکنون کامل شده. به همه تبریک می‌گویم! \n\nبدین‌وسیله من بازگشایی بدون عوارض تنگه هرمز را به طور کامل مجاز می‌دانم، و همزمان با این، لغو فوری محاصره دریایی ایالات متحده را دستور می‌دهم. \n\nای کشتی‌های جهان، موتورهایتان را روشن کنید. بگذارید نفت جاری شود! \n\nدونالد جی ترامپ\n💰\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 322,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 322,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 322,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
