@@ -17998,6 +17998,79 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3145,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781429133,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIMSWouc41uHEcMoG-Kqk_HEkDtFWYrAAJVD2sb8Kh5UUkUb6RYQop-AQADAgADcwADPAQ",
+          "file_unique_id": "AQADVQ9rG_CoeVF4",
+          "file_size": 1761,
+          "width": 90,
+          "height": 88
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIMSWouc41uHEcMoG-Kqk_HEkDtFWYrAAJVD2sb8Kh5UUkUb6RYQop-AQADAgADbQADPAQ",
+          "file_unique_id": "AQADVQ9rG_CoeVFy",
+          "file_size": 28088,
+          "width": 320,
+          "height": 314
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIMSWouc41uHEcMoG-Kqk_HEkDtFWYrAAJVD2sb8Kh5UUkUb6RYQop-AQADAgADeAADPAQ",
+          "file_unique_id": "AQADVQ9rG_CoeVF9",
+          "file_size": 98327,
+          "width": 800,
+          "height": 786
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIMSWouc41uHEcMoG-Kqk_HEkDtFWYrAAJVD2sb8Kh5UUkUb6RYQop-AQADAgADeQADPAQ",
+          "file_unique_id": "AQADVQ9rG_CoeVF-",
+          "file_size": 132449,
+          "width": 1179,
+          "height": 1159
+        }
+      ],
+      "caption": "این پستو پاک کرده از چنلش\n🔴 صابرین نیوز: آبروریزی توی همدان!\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 63,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 76,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 102,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 102,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 102,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
