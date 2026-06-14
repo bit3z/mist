@@ -22402,6 +22402,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3220,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781472454,
+      "text": "توافق به دست آمد!\n\nنخست وزیر پاکستان از قطعی شدن توافق ایران و آمریکا و برگزاری مراسم امضای آن در سوئیس در روز جمعه خبر داد.\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 126,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 137,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 163,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 163,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 163,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
