@@ -26393,6 +26393,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3306,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781544029,
+      "text": "لعنت این دو نفر برام زد نمیشه دید کی زده میخواستم اشتراک شش ماهه اپیکشین فیلم و سریال کم یاب سورن رو بهشون بدم \nاین قرار بود تست کنیم کی دلی با ماس هزینه ای هم نداشت براشون هیچی🥴🫣\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 194,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 194,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 194,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
