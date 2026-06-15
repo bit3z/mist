@@ -24843,6 +24843,62 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3273,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781511268,
+      "photo": [
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIMyWovtGQKCjqDnemo69L5VfPilEiNAAI4DGsbbkCBRXSLk5CrMZcdAQADAgADcwADPAQ",
+          "file_unique_id": "AQADOAxrG25AgUV4",
+          "file_size": 1340,
+          "width": 90,
+          "height": 64
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIMyWovtGQKCjqDnemo69L5VfPilEiNAAI4DGsbbkCBRXSLk5CrMZcdAQADAgADbQADPAQ",
+          "file_unique_id": "AQADOAxrG25AgUVy",
+          "file_size": 16344,
+          "width": 320,
+          "height": 226
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIMyWovtGQKCjqDnemo69L5VfPilEiNAAI4DGsbbkCBRXSLk5CrMZcdAQADAgADeAADPAQ",
+          "file_unique_id": "AQADOAxrG25AgUV9",
+          "file_size": 41739,
+          "width": 720,
+          "height": 509
+        }
+      ],
+      "caption": "‏یادمون نره، تتلو زندانی سیاسی نیست و بخاطر مبارزات سیاسیش زندان نرفته، اشک ریختنش از زندان بخاطر مردم نیست، بخاطر حماقتهای خودشه، ازش قهرمان نسازید، تتلو یه مارموز هفت خطه که برای منافعش صدتا رنگ عوض میکنه!\n\n‏سابقهٔ تتلو یادمون نرفته : \n\n‏•  اتهامات جنسی: دعوت از دختران زیر سن قانونی به «حرم‌سرای سلطان»، تولید محتوای مستهجن، تحریک به فساد.\n\n‏•  خشونت و آزار: کتک‌کاری، زندانی کردن دختران، تهدید و رفتارهای خشونت‌آمیز (بر اساس شکایت‌های متعدد).\n\n‏•  سوءاستفاده: مصرف و تبلیغ مواد، قمار، شرط‌بندی و سوءاستفاده مالی/جنسی از هواداران.\n\n‏•  تناقضات سیاسی: تغییر موضع مکرر (از حمایت از مخالفان به تمجید از نظام و برعکس) و فرصت‌طلبی.\n\n‏•  تأثیر فرهنگی: ترویج خشونت علیه زنان، فحش، روابط پرخطر و رفتارهای ضداجتماعی روی نوجوانان.\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 736,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 736,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 736,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
