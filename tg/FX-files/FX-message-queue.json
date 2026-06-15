@@ -25620,6 +25620,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3291,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781525428,
+      "text": "🔴ثابتی، نماینده مجلس:\nآخرش نه تحریمی برداشته میشه، نه پولی گیر ایران میاد، فقط تنگه هرمز رو باز میکنیم و تمام!\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 113,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 126,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 152,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 152,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 152,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
