@@ -25931,6 +25931,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3296,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781530708,
+      "text": "💡 سرورهای با ضریب 0.5X\n\n📌 با استفاده از این سرورها، به ازای هر ۱ گیگابایت مصرف، تنها ۵۰۰ مگابایت از حجم اشتراک شما کسر می‌شود.\n\nگیگ: 19 تومن\nمدت: یک ماهه\n\nجهت خرید سرور به آیدی زیر پیام بدید:\n\n👨‍💻@qatel_seryalei\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 200,
+          "length": 15,
+          "type": "mention"
+        },
+        {
+          "offset": 228,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 228,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 228,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
