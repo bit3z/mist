@@ -28199,6 +28199,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3342,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781612004,
+      "text": "🔴 شاهزاده رضا پهلوی:\n\n جمهوری اسلامی هم‌زمان با امضای تفاهم‌نامه‌ «صلح»، دو تن دیگر از معترضان ۱۸ و ۱۹ دی‌ به نام‌های جواد زمانی و ابوالفضل ساعدی را اعدام کرد.\nاین نتیجه معامله و سازش با یک رژیم جنایتکار است. توافق با رژیمی که تنها در دو روز، بیش از ۴۰ هزار معترض را به قتل رساند، نه‌تنها از نظر اخلاقی نادرست است، بلکه از منظر راهبردی نیز خطایی فاجعه‌بار خواهد بود.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 368,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 381,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 407,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 407,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 407,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
