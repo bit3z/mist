@@ -30817,6 +30817,79 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3392,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781639906,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINQGoxquL-EpJpGZ9bvqquOLpSDKkRAAK_D2sbMNqRUdNhSopZcoUwAQADAgADcwADPAQ",
+          "file_unique_id": "AQADvw9rGzDakVF4",
+          "file_size": 1019,
+          "width": 90,
+          "height": 69
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINQGoxquL-EpJpGZ9bvqquOLpSDKkRAAK_D2sbMNqRUdNhSopZcoUwAQADAgADbQADPAQ",
+          "file_unique_id": "AQADvw9rGzDakVFy",
+          "file_size": 9593,
+          "width": 320,
+          "height": 246
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINQGoxquL-EpJpGZ9bvqquOLpSDKkRAAK_D2sbMNqRUdNhSopZcoUwAQADAgADeAADPAQ",
+          "file_unique_id": "AQADvw9rGzDakVF9",
+          "file_size": 36602,
+          "width": 800,
+          "height": 616
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINQGoxquL-EpJpGZ9bvqquOLpSDKkRAAK_D2sbMNqRUdNhSopZcoUwAQADAgADeQADPAQ",
+          "file_unique_id": "AQADvw9rGzDakVF-",
+          "file_size": 47144,
+          "width": 1080,
+          "height": 831
+        }
+      ],
+      "caption": "300 گیگ حجم 99 هزار تومن در بسته های شبانه جدید همراه اول \nکد 👇👇 \nستاره ۱۰۰۰ ستاره ۲۵۲ مربع\n\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 59,
+          "length": 34,
+          "type": "bold"
+        },
+        {
+          "offset": 95,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 118,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 118,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 118,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
