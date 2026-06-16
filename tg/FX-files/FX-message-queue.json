@@ -30084,6 +30084,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3376,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781633132,
+      "text": "اگر شما هم رباتی میشناسید که با رفرال پول میده سرور بخرید ایدی من اینه معرفی کنید\nبه لیست اضافه کنم\n\n@amirasali80\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 101,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 126,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 126,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 126,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
