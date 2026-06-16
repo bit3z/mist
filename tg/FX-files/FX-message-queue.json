@@ -29246,6 +29246,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3361,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781627011,
+      "text": "برد بچ عزیز گشتم یه مودر دیگه به کانالمون اضافه کردم اسمش میلاده\n@mr_modchii\n همچنان مهدی هم هس نیما یکماه در میون هم هس قراره روزی های پر بار تری داشته باشیم در کنار هم دیگه\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 65,
+          "length": 11,
+          "type": "mention"
+        },
+        {
+          "offset": 175,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 198,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 198,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 198,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
