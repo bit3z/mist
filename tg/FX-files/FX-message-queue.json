@@ -27264,6 +27264,57 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3323,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781568930,
+      "text": "📣اطلاعیه \n\nمشکل پرداخت برای کاربران قدیمی حل شد\n\nاز این به بعد کاربران قدیمی میتونن به راحتی حسابشون رو شارژ کنن\n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 117,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 131,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 147,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 178,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 178,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 178,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
