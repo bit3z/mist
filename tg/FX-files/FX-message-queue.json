@@ -27361,6 +27361,67 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3325,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781574270,
+      "text": "https://www.wishtube.com/\n\nhttp://timstreams.net\n\nhttp://rbtvplus18.pics\n\nلینک های بدون فیلترشکن تماشای آنلاین جام جهانی\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 25,
+          "type": "url"
+        },
+        {
+          "offset": 27,
+          "length": 21,
+          "type": "url"
+        },
+        {
+          "offset": 50,
+          "length": 22,
+          "type": "url"
+        },
+        {
+          "offset": 122,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 135,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 157,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 157,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 157,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://www.wishtube.com/"
+      }
     }
   ]
 }
