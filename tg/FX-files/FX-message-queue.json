@@ -29510,6 +29510,101 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3366,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781629351,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINJmoxgacutogSC_hDlxPO5Piz5cB3AAKGDmsbNUWIUaHpwZzGae_zAQADAgADcwADPAQ",
+          "file_unique_id": "AQADhg5rGzVFiFF4",
+          "file_size": 1389,
+          "width": 90,
+          "height": 51
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINJmoxgacutogSC_hDlxPO5Piz5cB3AAKGDmsbNUWIUaHpwZzGae_zAQADAgADbQADPAQ",
+          "file_unique_id": "AQADhg5rGzVFiFFy",
+          "file_size": 19499,
+          "width": 320,
+          "height": 180
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINJmoxgacutogSC_hDlxPO5Piz5cB3AAKGDmsbNUWIUaHpwZzGae_zAQADAgADeAADPAQ",
+          "file_unique_id": "AQADhg5rGzVFiFF9",
+          "file_size": 78172,
+          "width": 800,
+          "height": 450
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINJmoxgacutogSC_hDlxPO5Piz5cB3AAKGDmsbNUWIUaHpwZzGae_zAQADAgADeQADPAQ",
+          "file_unique_id": "AQADhg5rGzVFiFF-",
+          "file_size": 159922,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINJmoxgacutogSC_hDlxPO5Piz5cB3AAKGDmsbNUWIUaHpwZzGae_zAQADAgADdwADPAQ",
+          "file_unique_id": "AQADhg5rGzVFiFF8",
+          "file_size": 234880,
+          "width": 1672,
+          "height": 941
+        }
+      ],
+      "caption": "🔌💡 آموزش ویدیویی کامل و ساده ساخت کانفیگ شخصی با پنل Nahan (نهان) کلادفلر بصورت کاملاً رایگان و نامحدود! 🔥\n\nتو این ویدیو قدم به قدم یاد میدم چطور با استفاده از سرویس بدون هزینه کلادفلر (Cloudflare Workers/Pages)، یک کانفیگ شخصی، کاملاً رایگان و با سرعت فوق‌العاده بسازی.\n\n— پیش‌نیاز: هیچی! آموزش ساخت همه چیز رایگان و بدون محدودیت، آموزش نوزادی 😁\n— سرعت: خوب و قابل قبول! — حجم: نامحدود!\n\nلینک تماشای ویدیو از یوتیوب:\nhttps://youtu.be/uuLIVNxS-1Q\n💡 لینک‌ها و منابع مورد نیاز:\n\n— اتومیک‌میل (ایمیل‌فیک): atomicmail.io\n— سایت کلادفلر: cloudflare.com\n\n—\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 393,
+          "length": 57,
+          "type": "blockquote"
+        },
+        {
+          "offset": 422,
+          "length": 28,
+          "type": "url"
+        },
+        {
+          "offset": 463,
+          "length": 103,
+          "type": "blockquote"
+        },
+        {
+          "offset": 508,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 538,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 568,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 568,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 568,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
