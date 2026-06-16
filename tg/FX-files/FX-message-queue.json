@@ -30744,6 +30744,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3391,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781638489,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINP2oxpVkdUdy18Iy1A0GFGCen0lMHAAKuD2sbMNqRURLk26fMHMuRAQADAgADcwADPAQ",
+          "file_unique_id": "AQADrg9rGzDakVF4",
+          "file_size": 1130,
+          "width": 90,
+          "height": 50
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINP2oxpVkdUdy18Iy1A0GFGCen0lMHAAKuD2sbMNqRURLk26fMHMuRAQADAgADbQADPAQ",
+          "file_unique_id": "AQADrg9rGzDakVFy",
+          "file_size": 16649,
+          "width": 320,
+          "height": 178
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINP2oxpVkdUdy18Iy1A0GFGCen0lMHAAKuD2sbMNqRURLk26fMHMuRAQADAgADeAADPAQ",
+          "file_unique_id": "AQADrg9rGzDakVF9",
+          "file_size": 89075,
+          "width": 800,
+          "height": 446
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINP2oxpVkdUdy18Iy1A0GFGCen0lMHAAKuD2sbMNqRURLk26fMHMuRAQADAgADeQADPAQ",
+          "file_unique_id": "AQADrg9rGzDakVF-",
+          "file_size": 153426,
+          "width": 1280,
+          "height": 713
+        }
+      ],
+      "caption": "شبتون بخیر  🥴 خدایی اینجا شب بری پشت بوم ش کباب بزنی بر بدن با نوشابه تگری عجب حالی میده\n\n\nیادم رفت بگم فردا یه مشت چالش خفن داریم و مود های متنوع هم قرار خواهد گرفت دوستتان دعوت کنید بیان چنل\n\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 92,
+          "length": 101,
+          "type": "bold"
+        },
+        {
+          "offset": 195,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 218,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 218,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 218,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
