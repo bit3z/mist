@@ -32148,6 +32148,47 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3418,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781713234,
+      "text": "https://t.me/PingChiBot?start=686628907\n\nاین ربات دوباره دعوتش رو ۲۴ساعت به \nهر رفرال ۱۰۰هزارتومان کردع سریع بگیرید\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 39,
+          "type": "url"
+        },
+        {
+          "offset": 128,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 128,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 128,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
