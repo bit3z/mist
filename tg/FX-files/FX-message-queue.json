@@ -31361,6 +31361,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3404,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781670873,
+      "text": "بازی‌های امروز:\n\n🔻 جام جهانی 2026:\n\nپرتغال - جمهوری کنگو \nساعت 20:30 ⏰\n\nانگلیس - کرواسی \nساعت 23:30 ⏰\n\nغنا - پاناما \nساعت 02:30 ⏰\n\nازبکستان - کلمبیا \nساعت 05:30 ⏰\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 165,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 178,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 204,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 204,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 204,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
