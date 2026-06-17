@@ -33767,6 +33767,62 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3449,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781736275,
+      "photo": [
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAINeWozI1NVWPb77LXU8Z9DoIjNg6VMAAL4C2sbMgWZRc2Sy04Sds0aAQADAgADcwADPAQ",
+          "file_unique_id": "AQAD-AtrGzIFmUV4",
+          "file_size": 465,
+          "width": 90,
+          "height": 14
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAINeWozI1NVWPb77LXU8Z9DoIjNg6VMAAL4C2sbMgWZRc2Sy04Sds0aAQADAgADbQADPAQ",
+          "file_unique_id": "AQAD-AtrGzIFmUVy",
+          "file_size": 3218,
+          "width": 320,
+          "height": 51
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAINeWozI1NVWPb77LXU8Z9DoIjNg6VMAAL4C2sbMgWZRc2Sy04Sds0aAQADAgADeAADPAQ",
+          "file_unique_id": "AQAD-AtrGzIFmUV9",
+          "file_size": 6862,
+          "width": 750,
+          "height": 120
+        }
+      ],
+      "caption": "این کجا بود\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 24,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 24,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 24,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
