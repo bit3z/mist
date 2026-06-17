@@ -32411,6 +32411,142 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3423,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781715874,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINX2oy06LATx6_0D_bUAnSj1xe1liRAALFDmsbA5KRUbU1dny0hOcFAQADAgADcwADPAQ",
+          "file_unique_id": "AQADxQ5rGwOSkVF4",
+          "file_size": 1219,
+          "width": 60,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINX2oy06LATx6_0D_bUAnSj1xe1liRAALFDmsbA5KRUbU1dny0hOcFAQADAgADbQADPAQ",
+          "file_unique_id": "AQADxQ5rGwOSkVFy",
+          "file_size": 19026,
+          "width": 213,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINX2oy06LATx6_0D_bUAnSj1xe1liRAALFDmsbA5KRUbU1dny0hOcFAQADAgADeAADPAQ",
+          "file_unique_id": "AQADxQ5rGwOSkVF9",
+          "file_size": 90283,
+          "width": 533,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINX2oy06LATx6_0D_bUAnSj1xe1liRAALFDmsbA5KRUbU1dny0hOcFAQADAgADeQADPAQ",
+          "file_unique_id": "AQADxQ5rGwOSkVF-",
+          "file_size": 176395,
+          "width": 853,
+          "height": 1280
+        }
+      ],
+      "caption": "Angel VPN \n\nStatus: Premium\n\nExp:2026/06/24\n\nEmail: davitet524@xterps.com\n\nPassword:@Error404Bin\n➿➿➿➿➿➿➿➿➿➿\nظرفیت اکانت محدود میباشد\n➿➿➿➿➿➿\nGoogle Play  App Store\n\nWindows\n\nری اکشن یادتون نره \n\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 9,
+          "type": "bold"
+        },
+        {
+          "offset": 12,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 45,
+          "length": 5,
+          "type": "bold"
+        },
+        {
+          "offset": 52,
+          "length": 21,
+          "type": "email"
+        },
+        {
+          "offset": 75,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 84,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 96,
+          "length": 11,
+          "type": "bold"
+        },
+        {
+          "offset": 132,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 140,
+          "length": 11,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.angelvpn"
+        },
+        {
+          "offset": 153,
+          "length": 9,
+          "type": "text_link",
+          "url": "https://apps.apple.com/us/app/angelvpn/id6446142798"
+        },
+        {
+          "offset": 164,
+          "length": 7,
+          "type": "text_link",
+          "url": "https://angelvpn-clientapps.s3.amazonaws.com/windows/AngelVPN_Setup.exe"
+        },
+        {
+          "offset": 173,
+          "length": 21,
+          "type": "bold"
+        },
+        {
+          "offset": 195,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 208,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 230,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 230,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 230,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
