@@ -31630,6 +31630,52 @@
       "link_preview_options": {
         "url": "https://t.me/PingChiBot?start=686628907"
       }
+    },
+    {
+      "message_id": 3410,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781687973,
+      "text": "هتزنر تا ناموس سرور هاش گرون کرد\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 34,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 45,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 71,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 71,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 71,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
