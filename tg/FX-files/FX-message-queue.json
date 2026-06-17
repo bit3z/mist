@@ -32938,6 +32938,86 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3432,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781720494,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINaGoy5a5ljpfhirAGkH6LtO0OEbkgAAIfDmsb1NmYUURaf3oonalyAQADAgADcwADPAQ",
+          "file_unique_id": "AQADHw5rG9TZmFF4",
+          "file_size": 747,
+          "width": 42,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINaGoy5a5ljpfhirAGkH6LtO0OEbkgAAIfDmsb1NmYUURaf3oonalyAQADAgADbQADPAQ",
+          "file_unique_id": "AQADHw5rG9TZmFFy",
+          "file_size": 9229,
+          "width": 148,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINaGoy5a5ljpfhirAGkH6LtO0OEbkgAAIfDmsb1NmYUURaf3oonalyAQADAgADeAADPAQ",
+          "file_unique_id": "AQADHw5rG9TZmFF9",
+          "file_size": 33846,
+          "width": 369,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINaGoy5a5ljpfhirAGkH6LtO0OEbkgAAIfDmsb1NmYUURaf3oonalyAQADAgADeQADPAQ",
+          "file_unique_id": "AQADHw5rG9TZmFF-",
+          "file_size": 68780,
+          "width": 591,
+          "height": 1280
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINaGoy5a5ljpfhirAGkH6LtO0OEbkgAAIfDmsb1NmYUURaf3oonalyAQADAgADdwADPAQ",
+          "file_unique_id": "AQADHw5rG9TZmFF8",
+          "file_size": 141459,
+          "width": 1080,
+          "height": 2340
+        }
+      ],
+      "caption": "داشتم محترمانه صحبت میکردم مکالمه رو قطع کردن اصلا از پشتیبانی ایرانسل راضی نیستم این اصلا خوب نیست ما مردم پول های زیادی به اینا دادیم ولی اینا گفتن چه پول های قشنگی برداشتن برای خودشون و نداختن تو توسعه تجهیزات و ارتقاء کیفیت، مدیر عامل ایرانسل یه عقب مونده ذهنی هس که بدرد سیرک میخوره تا مدیریت یه شرکت\nمدیریت قبل جنگ بسته 1 شب تا 11صبح اورده بود 36هزار بهترین مدیر عامل این شرکت بود سر اخوند های کون گشاد برکنار شد \n\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 306,
+          "length": 113,
+          "type": "blockquote"
+        },
+        {
+          "offset": 421,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 444,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 444,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 444,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
