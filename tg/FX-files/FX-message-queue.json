@@ -32583,6 +32583,62 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3425,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781716834,
+      "text": "یک ویرایشگر ویدیوی کامل که مستقیم داخل مرورگر اجرا می‌شود؛ بدون نیاز به Premiere Pro یا CapCut 🎥\n\n✨ قابلیت‌ها:\n• 🔹 پشتیبانی از چندین ترک ویدیو و صدا  \n• ⚡ رندر سریع با شتاب سخت‌افزاری GPU  \n• 🛠️ افکت‌ها، ترنزیشن‌ها و ابزارهای تدوین  \n• 📱 قابل استفاده روی کامپیوتر، تبلت و گوشی  \n• 🎬 عملکرد پایدار حتی در مرورگر معمولی  \n🔗 لینک:  \nhttps://tooscut.app/\n\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 99,
+          "length": 226,
+          "type": "blockquote"
+        },
+        {
+          "offset": 336,
+          "length": 20,
+          "type": "url"
+        },
+        {
+          "offset": 359,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 372,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 394,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 394,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 394,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
