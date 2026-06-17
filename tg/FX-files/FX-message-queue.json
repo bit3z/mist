@@ -33064,6 +33064,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3434,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781722712,
+      "text": "مملکت اسلامیه مثلا ولی تو روز روشن ایرانسل و همراه اول دارن دزدی میکنن با کارهاشون و ده ها فروشگاه دیگه این مملکت اگه دست من بود 10 درصد جمعیت شو اعدام میکردم تا نسل تمیز تری داشته باشیم \n\nخداوند می‌فرماید: (وَ یا قَوْمِ أَوْفُوا الْمِکْیالَ وَ الْمیزانَ بِالْقِسْطِ وَ لا تَبْخَسُوا النّاسَ أَشْیاءَهُمْ وَ لا تَعْثَوْا فِی اْلأَرْضِ مُفْسِدینَ)؛[4]\n\n «ای قوم من! پیمانه و وزن را با عدالت، تمام دهید و بر اشیای مردم عیب نگذارید و از حق آنان نکاهید و در زمین به فساد نکوشید» مؤمن دزدی نمی‌کند\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 186,
+          "type": "bold"
+        },
+        {
+          "offset": 493,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 516,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 516,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 516,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
