@@ -33427,6 +33427,86 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3442,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781732735,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINcmozFX9EU4-L0amuRyN3JEOvVgMnAAKRDmsb1NmYUWwRYUynoxkpAQADAgADcwADPAQ",
+          "file_unique_id": "AQADkQ5rG9TZmFF4",
+          "file_size": 1103,
+          "width": 58,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINcmozFX9EU4-L0amuRyN3JEOvVgMnAAKRDmsb1NmYUWwRYUynoxkpAQADAgADbQADPAQ",
+          "file_unique_id": "AQADkQ5rG9TZmFFy",
+          "file_size": 11324,
+          "width": 205,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINcmozFX9EU4-L0amuRyN3JEOvVgMnAAKRDmsb1NmYUWwRYUynoxkpAQADAgADeAADPAQ",
+          "file_unique_id": "AQADkQ5rG9TZmFF9",
+          "file_size": 36504,
+          "width": 512,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINcmozFX9EU4-L0amuRyN3JEOvVgMnAAKRDmsb1NmYUWwRYUynoxkpAQADAgADeQADPAQ",
+          "file_unique_id": "AQADkQ5rG9TZmFF-",
+          "file_size": 63468,
+          "width": 819,
+          "height": 1280
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINcmozFX9EU4-L0amuRyN3JEOvVgMnAAKRDmsb1NmYUWwRYUynoxkpAQADAgADdwADPAQ",
+          "file_unique_id": "AQADkQ5rG9TZmFF8",
+          "file_size": 85779,
+          "width": 1080,
+          "height": 1688
+        }
+      ],
+      "caption": "چالش\n🫥 از بین عداد 188 تا 288 یک عدد به صورت رندوم کامنت کنید\n🎁 برنده اکانت زر فیلم خودمو میدم استفاده بکنه نامحدود و طولانی مدتت\n⏳ قرعه کشی عصر جمعه ساعت 8و 8 دقیقه شب برگذار میشه\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 66,
+          "length": 65,
+          "type": "bold"
+        },
+        {
+          "offset": 183,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 206,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 206,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 206,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
