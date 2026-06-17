@@ -31559,6 +31559,77 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3409,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781684553,
+      "text": "خوب براتون لیست رباتایی که با رفرال میشه \nپول گرفت و باهاش کافینگ بخرید مجانی اوردم همشون تو یه لیست\n\nhttps://t.me/PingChiBot?start=686628907\n\nhttps://t.me/PingSnapBot?start=686628907\n\nhttps://t.me/PingoonBot?start=686628907\n\nhttps://t.me/MaMLiNeT_Bot?start=8376197509\n\nhttps://t.me/ROVPNBOT?start=8376197509\n\nhttps://t.me/ansooyefilter_bot?start=8376197509\n\nhttps://t.me/ansooyefilter_bot?start=5764585555\n\nتموم رباتا همینا بودن بزنید تا حدید پیدا کنم\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 102,
+          "length": 39,
+          "type": "url"
+        },
+        {
+          "offset": 143,
+          "length": 40,
+          "type": "url"
+        },
+        {
+          "offset": 185,
+          "length": 39,
+          "type": "url"
+        },
+        {
+          "offset": 226,
+          "length": 42,
+          "type": "url"
+        },
+        {
+          "offset": 270,
+          "length": 38,
+          "type": "url"
+        },
+        {
+          "offset": 310,
+          "length": 47,
+          "type": "url"
+        },
+        {
+          "offset": 359,
+          "length": 47,
+          "type": "url"
+        },
+        {
+          "offset": 465,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 465,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 465,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://t.me/PingChiBot?start=686628907"
+      }
     }
   ]
 }
