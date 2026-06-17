@@ -32309,6 +32309,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3421,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781714794,
+      "text": "vless://89049f79-320b-48a0-b1cf-110165cae30c@194.5.193.58:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#asaliiiii\n\nمتصل \nتست کنید نتیجه بگید\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 249,
+          "type": "code"
+        },
+        {
+          "offset": 277,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 290,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 312,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 312,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 312,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
