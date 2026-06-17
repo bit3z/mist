@@ -32902,6 +32902,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3431,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781720254,
+      "text": "ترامپ: به نظر من ایران هم باید یه تعداد موشک داشته باشه، نمی‌شه کشورهای دیگه مثل عربستان موشک داشته باشن ولی ایران نداشته باشه. مشکل اصلی موشک نیست، سلاح هسته‌ای هست.\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 179,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 179,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 179,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
