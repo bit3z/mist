@@ -31790,6 +31790,114 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3413,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781705194,
+      "text": "🔰Warp 1.1.1.1🔰\n\n🔎 GooglePlayLink\n\n💡6.38.7 | #VPN\n\n#درخواستی \n\nⓂ️ نسخه vip شده\n\n◈ اشتراک پرو فعال شده👑✓ \n ◈حذف تبلیغات برنامه✓\n◈ حذف فایل‌های اضافه✓\n\n✪ معماری: arm64-v8\n\n\nتوضیحات درباره برنامه:\nاینترنت خصوصی تر\n\n✌️✌️1.1.1.1 w/ WARP – برنامه رایگانی که اینترنت شما را خصوصی تر می کند – ✌️✌️\n\n1.1.1.1 w/WARP اینترنت شما را خصوصی تر و ایمن تر می کند. هیچ کس نباید بتواند 🔍 کارهایی را که شما در اینترنت انجام می دهید، جاسوسی کند. ما نسخه 1.1.1.1 را ایجاد کرده ایم تا بتوانید در هر زمان و هر مکان ایمن به اینترنت متصل شوید.\n\n\nیک راه بهتر برای اتصال 🔑\n\n1.1.1.1 با WARP اتصال بین تلفن شما و اینترنت را با یک پروتکل مدرن و بهینه شده جایگزین می کند. \n\n\nحریم خصوصی بیشتر 🔒\n\n1.1.1.1 با WARP با رمزگذاری بیشتر ترافیکی که از تلفن شما خارج می‌شود، از ردیابی شما جلوگیری می‌کند. ما معتقدیم حریم خصوصی یک حق است. ما داده های شما را نمی فروشیم.\n\n\nامنیت بهتر 🛑\n\n1.1.1.1 با WARP از تلفن شما در برابر تهدیدات امنیتی مانند بدافزارها، فیشینگ، استخراج کریپتو و سایر تهدیدات امنیتی محافظت می کند. گزینه 1.1.1.1 for Families را از تنظیمات DNS داخل برنامه فعال کنید.\n\n\nاستفاده آسان ✌️\n\nراه اندازی با یک لمس برای ایمن تر و خصوصی تر کردن اینترنت شما. همین امروز آن را نصب کنید، اینترنت خصوصی تری دریافت کنید، به همین سادگی است.\n\n\nتنها راه دریافت WARP+🚀\n\nما در هر ثانیه هزاران مسیر را از طریق اینترنت آزمایش می کنیم تا بهترین عملکرد را پیدا کنیم. با استفاده از همان فناوری که ما برای سرعت بخشیدن به هزاران وب‌سایت 30 درصد (به طور متوسط) از آن استفاده می‌کنیم، از ترافیک اینترنت عبور کنید. \n⭐️حمایت کنید دوستان با معرفی کردن کانالمون به بقیه.\n\n📲برای دانلود فایل از سایت بر روی ( دانــلود )  کلیک کنید.\n\n👨‍💻@qatel_seryalei\n\n📥@Ezrael_chanle\n📥@Xbat_team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 21,
+          "length": 14,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone"
+        },
+        {
+          "offset": 48,
+          "length": 4,
+          "type": "hashtag"
+        },
+        {
+          "offset": 54,
+          "length": 9,
+          "type": "hashtag"
+        },
+        {
+          "offset": 198,
+          "length": 1272,
+          "type": "blockquote"
+        },
+        {
+          "offset": 295,
+          "length": 7,
+          "type": "url"
+        },
+        {
+          "offset": 439,
+          "length": 7,
+          "type": "url"
+        },
+        {
+          "offset": 553,
+          "length": 7,
+          "type": "url"
+        },
+        {
+          "offset": 671,
+          "length": 7,
+          "type": "url"
+        },
+        {
+          "offset": 852,
+          "length": 7,
+          "type": "url"
+        },
+        {
+          "offset": 987,
+          "length": 7,
+          "type": "url"
+        },
+        {
+          "offset": 1559,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/aplodboy12bot?start=get_lnszaccdqkfhkkkg"
+        },
+        {
+          "offset": 1588,
+          "length": 15,
+          "type": "mention"
+        },
+        {
+          "offset": 1607,
+          "length": 14,
+          "type": "mention"
+        },
+        {
+          "offset": 1624,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 1647,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 1647,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 1647,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone"
+      }
     }
   ]
 }
