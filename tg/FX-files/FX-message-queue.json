@@ -33371,6 +33371,62 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3441,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781732612,
+      "text": "[Interface]\nPrivateKey = 4Cw6gXxufI3dd4eaINRpZE29RTh4oPWDiCnb42YpmUY=\nAddress = 10.48.48.9/21\nDNS = 10.10.10.1, 10.10.11.1\nMTU = 1500\n\n[Peer]\nPublicKey = LGMe5O4p3G36hwTSp59rV5tf1xjTtVHm3PF3S2hM7hk=\nPresharedKey = k2rIfFM0LBEQHemKYQSwv0qokCgUUu0uTpeJjcohYRI=\nAllowedIPs = 0.0.0.0/0, ::/0\nEndpoint = 185.126.239.45:51820\nPersistentKeepalive = 25\n\nکانفیگ آزمایشی Amnezia VPN\n\nLocation:🇷🇺\n\nتست کنید نتیجه رو اعلام کنید\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 344,
+          "type": "code"
+        },
+        {
+          "offset": 361,
+          "length": 11,
+          "type": "bold"
+        },
+        {
+          "offset": 419,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 432,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 454,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 454,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 454,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
