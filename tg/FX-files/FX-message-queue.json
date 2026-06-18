@@ -36548,6 +36548,84 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3496,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781819158,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINqGo0ZxZR8kHAoiIn1gNFkhvH1iTfAALXDmsbKhWhUevl3MqUhnnGAQADAgADcwADPAQ",
+          "file_unique_id": "AQAD1w5rGyoVoVF4",
+          "file_size": 1933,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINqGo0ZxZR8kHAoiIn1gNFkhvH1iTfAALXDmsbKhWhUevl3MqUhnnGAQADAgADbQADPAQ",
+          "file_unique_id": "AQAD1w5rGyoVoVFy",
+          "file_size": 21981,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINqGo0ZxZR8kHAoiIn1gNFkhvH1iTfAALXDmsbKhWhUevl3MqUhnnGAQADAgADeAADPAQ",
+          "file_unique_id": "AQAD1w5rGyoVoVF9",
+          "file_size": 77589,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINqGo0ZxZR8kHAoiIn1gNFkhvH1iTfAALXDmsbKhWhUevl3MqUhnnGAQADAgADeQADPAQ",
+          "file_unique_id": "AQAD1w5rGyoVoVF-",
+          "file_size": 128601,
+          "width": 1254,
+          "height": 1254
+        }
+      ],
+      "caption": "Panda VPN\nStatus: Premium \n\nUser:115625885\n\nPassword:@Error404Bin\n\nفیلترشکن پرسرعتیه برای گیم آنلاین عالیه\nلایک بزنید❤️\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 53,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 121,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 134,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 156,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 156,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 156,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
