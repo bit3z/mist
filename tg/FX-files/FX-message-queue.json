@@ -36626,6 +36626,57 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3497,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781819458,
+      "text": "📣اطلاعیه\n\nلوکیشن امریکا به لینک ساب اضافه شد\nجهت استفاده میتونید فقط کافیه لینک ساب رو اپدیت کنید\n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 102,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 116,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 132,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 163,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 163,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 163,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
