@@ -34291,6 +34291,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3459,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781769756,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINg2ozphykC6Iz9Rvo0-Y383yGSSbMAAL7Dmsb1NmYUfhFVoUxmW2aAQADAgADcwADPAQ",
+          "file_unique_id": "AQAD-w5rG9TZmFF4",
+          "file_size": 815,
+          "width": 46,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINg2ozphykC6Iz9Rvo0-Y383yGSSbMAAL7Dmsb1NmYUfhFVoUxmW2aAQADAgADbQADPAQ",
+          "file_unique_id": "AQAD-w5rG9TZmFFy",
+          "file_size": 8569,
+          "width": 165,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINg2ozphykC6Iz9Rvo0-Y383yGSSbMAAL7Dmsb1NmYUfhFVoUxmW2aAQADAgADeAADPAQ",
+          "file_unique_id": "AQAD-w5rG9TZmFF9",
+          "file_size": 33282,
+          "width": 412,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINg2ozphykC6Iz9Rvo0-Y383yGSSbMAAL7Dmsb1NmYUfhFVoUxmW2aAQADAgADeQADPAQ",
+          "file_unique_id": "AQAD-w5rG9TZmFF-",
+          "file_size": 61300,
+          "width": 660,
+          "height": 1280
+        }
+      ],
+      "caption": "📲خب چالش داریم \n✔️برنده اکانت پرمیوم وب سایت و اپیکشین  فیلم و سریال ایرانی و خارجی نماوا پلن  چند ماهه یا تمدید خودکار رو میبره \nعدد ما بین388 تا 488 یک عدد به صورت رندوم بزنین \n\nتا ساعت 8 شب جمعه وقت دارین کامنت بزارید\n@XBat_Team @Xbat_chat\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 222,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 233,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 256,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 256,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 256,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
