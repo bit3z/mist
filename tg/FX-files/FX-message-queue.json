@@ -36988,6 +36988,84 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3501,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781823658,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINrWo0eKpew0uYgZo2Rb8ErYSNKzZDAAJoD2sbu_2oUahgI1UAAUjmegEAAwIAA3MAAzwE",
+          "file_unique_id": "AQADaA9rG7v9qFF4",
+          "file_size": 694,
+          "width": 32,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINrWo0eKpew0uYgZo2Rb8ErYSNKzZDAAJoD2sbu_2oUahgI1UAAUjmegEAAwIAA20AAzwE",
+          "file_unique_id": "AQADaA9rG7v9qFFy",
+          "file_size": 8088,
+          "width": 113,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINrWo0eKpew0uYgZo2Rb8ErYSNKzZDAAJoD2sbu_2oUahgI1UAAUjmegEAAwIAA3gAAzwE",
+          "file_unique_id": "AQADaA9rG7v9qFF9",
+          "file_size": 29716,
+          "width": 282,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINrWo0eKpew0uYgZo2Rb8ErYSNKzZDAAJoD2sbu_2oUahgI1UAAUjmegEAAwIAA3kAAzwE",
+          "file_unique_id": "AQADaA9rG7v9qFF-",
+          "file_size": 50579,
+          "width": 452,
+          "height": 1280
+        }
+      ],
+      "caption": "📣اطلاعیه\n\nلیست لوکیشن های اضافه شده به لینک ساب\n\nآمریکا 🇺🇸\nهلند 🇳🇱\nآلبانی 🇦🇱\nمصر 🇪🇬\nانگلیس 🇬🇧\nاوکراین 🇺🇦\nنیجریه 🇳🇬\nترکیه 🇹🇷\nامارات 🇦🇪\nفنلاند 🇫🇮\n\nفقط کافیه لینک ساب رو اپدیت کنید\n\nهمچنین این لوکیشن ها از حجم کلی کانفیگ شما به ازای هر 100 مگ 50 مگ مصرف خواهد کرد فقط لوکیشن المان 1 مصرف کامل حساب خواهد شد\n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 328,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 342,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 358,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 389,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 389,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 389,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
