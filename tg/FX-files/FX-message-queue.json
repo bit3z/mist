@@ -34826,6 +34826,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3468,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781784337,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINjGoz3xEjhS_oxancdrfgBANy7ms3AAJfDmsbZkWgUaMRo3BiphtKAQADAgADcwADPAQ",
+          "file_unique_id": "AQADXw5rG2ZFoFF4",
+          "file_size": 1842,
+          "width": 72,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINjGoz3xEjhS_oxancdrfgBANy7ms3AAJfDmsbZkWgUaMRo3BiphtKAQADAgADbQADPAQ",
+          "file_unique_id": "AQADXw5rG2ZFoFFy",
+          "file_size": 23425,
+          "width": 256,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINjGoz3xEjhS_oxancdrfgBANy7ms3AAJfDmsbZkWgUaMRo3BiphtKAQADAgADeAADPAQ",
+          "file_unique_id": "AQADXw5rG2ZFoFF9",
+          "file_size": 97502,
+          "width": 640,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINjGoz3xEjhS_oxancdrfgBANy7ms3AAJfDmsbZkWgUaMRo3BiphtKAQADAgADeQADPAQ",
+          "file_unique_id": "AQADXw5rG2ZFoFF-",
+          "file_size": 105568,
+          "width": 720,
+          "height": 900
+        }
+      ],
+      "caption": "تصاویر منتشر شده از محمد محبی ، بازیکن مادرقحبه تیم ملا که پوستر مهسا امینی رو روی دیوار می‌بینه، مچاله‌اش میکنه و میندازتش سطل آشغال!\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 136,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 149,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 175,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 175,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 175,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
