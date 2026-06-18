@@ -36760,6 +36760,91 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3499,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781822518,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINq2o0dDZ9VUkrMvn5qRFQ3-NkVxA0AALwDmsbKhWhUeHOiiJxU9HgAQADAgADcwADPAQ",
+          "file_unique_id": "AQAD8A5rGyoVoVF4",
+          "file_size": 1195,
+          "width": 60,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINq2o0dDZ9VUkrMvn5qRFQ3-NkVxA0AALwDmsbKhWhUeHOiiJxU9HgAQADAgADbQADPAQ",
+          "file_unique_id": "AQAD8A5rGyoVoVFy",
+          "file_size": 19098,
+          "width": 213,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINq2o0dDZ9VUkrMvn5qRFQ3-NkVxA0AALwDmsbKhWhUeHOiiJxU9HgAQADAgADeAADPAQ",
+          "file_unique_id": "AQAD8A5rGyoVoVF9",
+          "file_size": 98097,
+          "width": 533,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINq2o0dDZ9VUkrMvn5qRFQ3-NkVxA0AALwDmsbKhWhUeHOiiJxU9HgAQADAgADeQADPAQ",
+          "file_unique_id": "AQAD8A5rGyoVoVF-",
+          "file_size": 226143,
+          "width": 853,
+          "height": 1280
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINq2o0dDZ9VUkrMvn5qRFQ3-NkVxA0AALwDmsbKhWhUeHOiiJxU9HgAQADAgADdwADPAQ",
+          "file_unique_id": "AQAD8A5rGyoVoVF8",
+          "file_size": 295882,
+          "width": 1024,
+          "height": 1536
+        }
+      ],
+      "caption": "Hotspot shield VPN\n\nStatus: Premium\n\nEmail:jirede5771@afterdo.com\n\nPassword:@Error404Bin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 37,
+          "length": 28,
+          "type": "url"
+        },
+        {
+          "offset": 76,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 101,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 101,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
