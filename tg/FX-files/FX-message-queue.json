@@ -1664,6 +1664,84 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3550,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781904781,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIN3mo1tY2aCgdNs6SfXDuCQmBMIuCFAAJoEGsb7seoUfMjoM6qzuoLAQADAgADcwADPAQ",
+          "file_unique_id": "AQADaBBrG-7HqFF4",
+          "file_size": 2267,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIN3mo1tY2aCgdNs6SfXDuCQmBMIuCFAAJoEGsb7seoUfMjoM6qzuoLAQADAgADbQADPAQ",
+          "file_unique_id": "AQADaBBrG-7HqFFy",
+          "file_size": 33064,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIN3mo1tY2aCgdNs6SfXDuCQmBMIuCFAAJoEGsb7seoUfMjoM6qzuoLAQADAgADeAADPAQ",
+          "file_unique_id": "AQADaBBrG-7HqFF9",
+          "file_size": 145931,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIN3mo1tY2aCgdNs6SfXDuCQmBMIuCFAAJoEGsb7seoUfMjoM6qzuoLAQADAgADeQADPAQ",
+          "file_unique_id": "AQADaBBrG-7HqFF-",
+          "file_size": 298126,
+          "width": 1254,
+          "height": 1254
+        }
+      ],
+      "caption": "Cure VPN\n\nStatus: Premium\n\nEmail: wedow59503@afterdo.com\n\nPassword: @Error404Bin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 34,
+          "length": 22,
+          "type": "email"
+        },
+        {
+          "offset": 68,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 93,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 93,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 93,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
