@@ -37926,6 +37926,84 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3517,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781828638,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINvWo0jB5DomXhIbuPF0R74-jkbncQAAIiDmsbKhWpUYYBfBJrvssYAQADAgADcwADPAQ",
+          "file_unique_id": "AQADIg5rGyoVqVF4",
+          "file_size": 2050,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINvWo0jB5DomXhIbuPF0R74-jkbncQAAIiDmsbKhWpUYYBfBJrvssYAQADAgADbQADPAQ",
+          "file_unique_id": "AQADIg5rGyoVqVFy",
+          "file_size": 28130,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINvWo0jB5DomXhIbuPF0R74-jkbncQAAIiDmsbKhWpUYYBfBJrvssYAQADAgADeAADPAQ",
+          "file_unique_id": "AQADIg5rGyoVqVF9",
+          "file_size": 115283,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINvWo0jB5DomXhIbuPF0R74-jkbncQAAIiDmsbKhWpUYYBfBJrvssYAQADAgADeQADPAQ",
+          "file_unique_id": "AQADIg5rGyoVqVF-",
+          "file_size": 233629,
+          "width": 1254,
+          "height": 1254
+        }
+      ],
+      "caption": "Adguard VPN\n\nStatus: Premium\n\nEmail: docu-g9exorbitant@hidmail.org\n\nPassword: @Error404Bin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 11,
+          "type": "bold"
+        },
+        {
+          "offset": 37,
+          "length": 29,
+          "type": "email"
+        },
+        {
+          "offset": 78,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 103,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 103,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 103,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
