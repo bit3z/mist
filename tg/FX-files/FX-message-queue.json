@@ -1587,6 +1587,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3548,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781902261,
+      "text": "این ربات \nبا هر رفرال ۱۱۰هزار تومان میده تا ون ساعت دیگه بسته میشه سریع بگیرید\n\n🤣😁حال کنیدا\nhttps://t.me/Pingdaat_bot?start=8376197509\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 94,
+          "length": 42,
+          "type": "url"
+        },
+        {
+          "offset": 149,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 149,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 149,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
