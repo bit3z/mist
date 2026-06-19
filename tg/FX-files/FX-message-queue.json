@@ -746,6 +746,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3533,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781875740,
+      "text": "درود بر همگی\nتشکر میکنم از اینکه به عنوان کوچک جمع در اینجا حضور دارم.\nهمکاری خوبی خواهد بود، به خصوص واسه اعضای کانال برنامه های خوب و کاربردی در نظر گرفته شده..\n\nارادتمند شما Nnn\n\nXbat\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 164,
+          "length": 16,
+          "type": "blockquote"
+        },
+        {
+          "offset": 199,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 199,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 199,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
