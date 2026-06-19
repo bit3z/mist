@@ -613,6 +613,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3530,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781872379,
+      "text": "این ربات وایرگارد و ویتوری تا \nساعت ۹شب دعوتش شده هر نفر ۵۰هزار تومان بزنید\nhttps://t.me/PingSnapBot?start=686628907\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 76,
+          "length": 40,
+          "type": "url"
+        },
+        {
+          "offset": 129,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 129,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 129,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
