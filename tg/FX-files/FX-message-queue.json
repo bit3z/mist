@@ -2652,6 +2652,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3569,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781946902,
+      "text": "‏دولت عراق مجوز فعالیت استارلینک را صادر کرد\n\n‏دولت عراق مجوز فعالیت رسمی  اینترنت ماهواره‌ای استارلینک را در این کشور صادر کرد.\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 141,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 141,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 141,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
