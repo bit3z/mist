@@ -2688,6 +2688,63 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3570,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781947862,
+      "text": "کانفیگ های اختصاصی برا افراد معمولی نیست!\n\n🔹 کانفیگ اختصاصی کلیک کن👉\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 41,
+          "type": "bold"
+        },
+        {
+          "offset": 43,
+          "length": 2,
+          "type": "bold"
+        },
+        {
+          "offset": 46,
+          "length": 14,
+          "type": "text_link",
+          "url": "https://t.me/mitivpnbot?start=1"
+        },
+        {
+          "offset": 61,
+          "length": 9,
+          "type": "bold"
+        },
+        {
+          "offset": 83,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 83,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 83,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
