@@ -4710,6 +4710,46 @@
       "link_preview_options": {
         "url": "https://t.me/TaasBetBot/?start=6948878650"
       }
+    },
+    {
+      "message_id": 3606,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781983480,
+      "sticker": {
+        "width": 512,
+        "height": 512,
+        "emoji": "🫤",
+        "set_name": "Aramashs",
+        "is_animated": false,
+        "is_video": false,
+        "type": "regular",
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAg4Wajbo-BtCsb6zurQoLO-m6asXWG0AAhQTAALDnAFT6nsZUxVSSmQBAAdtAAM8BA",
+          "file_unique_id": "AQADFBMAAsOcAVNy",
+          "file_size": 9262,
+          "width": 320,
+          "height": 320
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAg4Wajbo-BtCsb6zurQoLO-m6asXWG0AAhQTAALDnAFT6nsZUxVSSmQBAAdtAAM8BA",
+          "file_unique_id": "AQADFBMAAsOcAVNy",
+          "file_size": 9262,
+          "width": 320,
+          "height": 320
+        },
+        "file_id": "CAACAgQAAyEFAATqPDJ3AAIOFmo26PgbQrG-s7q0KCzvpumrF1htAAIUEwACw5wBU-p7GVMVUkpkPAQ",
+        "file_unique_id": "AgADFBMAAsOcAVM",
+        "file_size": 17316
+      }
     }
   ]
 }
