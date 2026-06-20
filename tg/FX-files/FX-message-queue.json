@@ -4503,6 +4503,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3602,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781980803,
+      "text": "کسی اکانت کالاف اضاف ندارع؟ لولش مهم نیست یه مدتی بدردم میخوره کسی داشت پیوی بگه ،\n@y6siin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 83,
+          "length": 7,
+          "type": "mention"
+        },
+        {
+          "offset": 103,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 103,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 103,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
