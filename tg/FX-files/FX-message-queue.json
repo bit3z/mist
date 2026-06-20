@@ -3979,6 +3979,57 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3591,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781975403,
+      "text": "vless://2eaf3e87-edcd-479b-997e-3e693d2ec458@31.57.106.21:8080?security=reality&encryption=none&pbk=IiXOtrr72OAumtdjHDdvqxwyiInUq8_5b2wG477U40k&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=cee5cf0cb56d6912#%40Error404Bin\n\nمتصل \nتست کنید نتیجه با ری اکشن \n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 250,
+          "type": "code"
+        },
+        {
+          "offset": 286,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 299,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 321,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 321,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 321,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
