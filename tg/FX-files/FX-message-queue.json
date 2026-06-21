@@ -5105,6 +5105,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3613,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782026885,
+      "text": "دوباره این رباتم شده هر نفر ۵۰تومان \nوایرگارد بزنید🤣ورشکسته نشدن اینا \nربات جدید یافت کنم براتون !؟؟؟؟\n\nhttps://t.me/ROVPNBOT?start=8376197509\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 105,
+          "length": 38,
+          "type": "url"
+        },
+        {
+          "offset": 156,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 156,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 156,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://t.me/ROVPNBOT?start=8376197509"
+      }
     }
   ]
 }
