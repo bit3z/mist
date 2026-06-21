@@ -7267,6 +7267,52 @@
       "link_preview_options": {
         "url": "https://www.zdf.de/video/livestreams/fifa-weltmeisterschaft-live-livestream-highlights-100/belgien-iran--gruppe-g-livestream-100"
       }
+    },
+    {
+      "message_id": 3652,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782070626,
+      "text": "کیرم تو اون کصخلایین که پرچم شیر و خورشید میبرن ولی وقتی جمهوری اسلامی گل میزنی خوشحالی میکنن\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 94,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 107,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 133,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 133,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 133,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
