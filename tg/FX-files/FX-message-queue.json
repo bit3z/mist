@@ -7216,6 +7216,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3651,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782070567,
+      "text": "https://www.zdf.de/video/livestreams/fifa-weltmeisterschaft-live-livestream-highlights-100/belgien-iran--gruppe-g-livestream-100\n\nآقا از این لینک برید ببینید تازه یه دقیقه هم جلویید\nباید با آیپی آلمان برید\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 128,
+          "type": "url"
+        },
+        {
+          "offset": 206,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 219,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 245,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 245,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 245,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://www.zdf.de/video/livestreams/fifa-weltmeisterschaft-live-livestream-highlights-100/belgien-iran--gruppe-g-livestream-100"
+      }
     }
   ]
 }
