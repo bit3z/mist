@@ -7313,6 +7313,77 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3653,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782071047,
+      "text": "— پخش زنده و بدون سانسور جام‌جهانی؛\n\nhttps://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/persiana-sports\n\nhttps://live12.arvanlive.ir/hls/sport/sport.m3u8\n\nhttps://cp11.adabmedia.com/hls2/sport.m3u8\n\nhttps://timstreams.net\n\nhttps://hd7.a7lakoora.com/1-2/\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 37,
+          "length": 77,
+          "type": "url"
+        },
+        {
+          "offset": 116,
+          "length": 48,
+          "type": "url"
+        },
+        {
+          "offset": 166,
+          "length": 42,
+          "type": "url"
+        },
+        {
+          "offset": 210,
+          "length": 22,
+          "type": "url"
+        },
+        {
+          "offset": 234,
+          "length": 30,
+          "type": "url"
+        },
+        {
+          "offset": 266,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 279,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 301,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 301,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 301,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/persiana-sports"
+      }
     }
   ]
 }
