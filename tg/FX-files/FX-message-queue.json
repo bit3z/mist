@@ -6682,6 +6682,42 @@
       "link_preview_options": {
         "url": "https://bcmovie.online/"
       }
+    },
+    {
+      "message_id": 3639,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782067806,
+      "text": "🔹طبق گزارشات کاربران اینترنت کمی اختلال خورده\n؟؟؟\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 63,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 63,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 63,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
