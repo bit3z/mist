@@ -5464,6 +5464,99 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3618,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782034565,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOImo3sIW15Bo4sZf5J1-OEL2ZqEjgAAIsDmsbyCe5UfxgiiloDWNzAQADAgADcwADPAQ",
+          "file_unique_id": "AQADLA5rG8gnuVF4",
+          "file_size": 2294,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOImo3sIW15Bo4sZf5J1-OEL2ZqEjgAAIsDmsbyCe5UfxgiiloDWNzAQADAgADbQADPAQ",
+          "file_unique_id": "AQADLA5rG8gnuVFy",
+          "file_size": 34772,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOImo3sIW15Bo4sZf5J1-OEL2ZqEjgAAIsDmsbyCe5UfxgiiloDWNzAQADAgADeAADPAQ",
+          "file_unique_id": "AQADLA5rG8gnuVF9",
+          "file_size": 156918,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOImo3sIW15Bo4sZf5J1-OEL2ZqEjgAAIsDmsbyCe5UfxgiiloDWNzAQADAgADeQADPAQ",
+          "file_unique_id": "AQADLA5rG8gnuVF-",
+          "file_size": 311061,
+          "width": 1254,
+          "height": 1254
+        }
+      ],
+      "caption": "Gnu VPN\nStatus: Premium \n\nEmail:wetijip589@afterdo.com\n\nEmail:jiken37952@woraco.com\n\nPassword:@Error404Bin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 26,
+          "length": 28,
+          "type": "url"
+        },
+        {
+          "offset": 26,
+          "length": 5,
+          "type": "bold"
+        },
+        {
+          "offset": 56,
+          "length": 27,
+          "type": "url"
+        },
+        {
+          "offset": 56,
+          "length": 5,
+          "type": "bold"
+        },
+        {
+          "offset": 85,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 94,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 119,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 119,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 119,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
