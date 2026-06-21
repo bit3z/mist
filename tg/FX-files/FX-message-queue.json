@@ -5616,6 +5616,57 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3620,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782037265,
+      "text": "vless://85e9251a-ea04-4e6e-2ac0-76b004b63a3f@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&host=dns.rorian.ir&fp=chrome&type=ws&sni=dns.rorian.ir#asaliii.joon\n\nمتصل تست شده \n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 174,
+          "type": "code"
+        },
+        {
+          "offset": 190,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 203,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 225,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 225,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 225,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
