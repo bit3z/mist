@@ -6609,6 +6609,79 @@
           }
         ]
       }
+    },
+    {
+      "message_id": 3638,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782067686,
+      "text": "🔰BcMovie🔰\n\n🔎 LinkSite\n\n💡5.1 | #Film\n\nⓂ️ نسخه vip شده\n\n◈ اشتراک فعال شده👑✓ \n◈ محدودیت پخش آنلاین برداشته شده✓ \n◈ محدودیت دانلود برداشته شده✓\n\n✪ معماری:armeabi-v7a/arm64-v8\n\nتوضیحات درباره برنامه:\nدانلود و تماشای آنلاین جدید ترین فیلم و سریال های دنیا به صورت زیرنویس فارسی چسبیده از وبسایت بی سی موویز\n⭐️حمایت کنید دوستان با معرفی کردن کانالمون به بقیه.\n\n📲برای دانلود فایل از سایت بر روی ( دانــلود )  کلیک کنید.\n\n👨‍💻@qatel_seryalei\n\n📥@Ezrael_chanle\n📥@Xbat_team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 16,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://bcmovie.online/"
+        },
+        {
+          "offset": 34,
+          "length": 5,
+          "type": "hashtag"
+        },
+        {
+          "offset": 200,
+          "length": 106,
+          "type": "blockquote"
+        },
+        {
+          "offset": 395,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://uploadboy.com/3zhvw6p0jl56/bcmovie_5.1_Mod"
+        },
+        {
+          "offset": 424,
+          "length": 15,
+          "type": "mention"
+        },
+        {
+          "offset": 443,
+          "length": 14,
+          "type": "mention"
+        },
+        {
+          "offset": 460,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 483,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 483,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 483,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://bcmovie.online/"
+      }
     }
   ]
 }
