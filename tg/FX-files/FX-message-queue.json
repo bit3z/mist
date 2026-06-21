@@ -5765,6 +5765,86 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3623,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782047193,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOJ2o34dmWaxnMXxFvow-ut0_ntd3FAAKWDWsbTS7BUV-EySWQpiPhAQADAgADcwADPAQ",
+          "file_unique_id": "AQADlg1rG00uwVF4",
+          "file_size": 892,
+          "width": 44,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOJ2o34dmWaxnMXxFvow-ut0_ntd3FAAKWDWsbTS7BUV-EySWQpiPhAQADAgADbQADPAQ",
+          "file_unique_id": "AQADlg1rG00uwVFy",
+          "file_size": 11279,
+          "width": 158,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOJ2o34dmWaxnMXxFvow-ut0_ntd3FAAKWDWsbTS7BUV-EySWQpiPhAQADAgADeAADPAQ",
+          "file_unique_id": "AQADlg1rG00uwVF9",
+          "file_size": 48253,
+          "width": 394,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOJ2o34dmWaxnMXxFvow-ut0_ntd3FAAKWDWsbTS7BUV-EySWQpiPhAQADAgADeQADPAQ",
+          "file_unique_id": "AQADlg1rG00uwVF-",
+          "file_size": 93929,
+          "width": 630,
+          "height": 1280
+        }
+      ],
+      "caption": "نسخه مود شده IProVPN\n\n🆓 اشتراک فعال شده ✅\n🔓 قفل تمام سرور ها باز شده 🌍\n🗑️ فایل‌های اضافی حذف شده 🧹\n\nبرای دانلود کلیک کنید\n⭐ دوستان حمایت فراموش نشه 🤝❤️\n\n@XBat_team\n@modchii\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 159,
+          "length": 19,
+          "type": "blockquote"
+        },
+        {
+          "offset": 159,
+          "length": 10,
+          "type": "text_link",
+          "url": "https://t.me/XBat_team"
+        },
+        {
+          "offset": 170,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/modchii"
+        },
+        {
+          "offset": 191,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 191,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 191,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
