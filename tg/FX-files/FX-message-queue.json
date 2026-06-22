@@ -9564,6 +9564,86 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3698,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782141818,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOcmo5U3pOF82CEOcv7QHyn9Lu76k4AALVDWsbM6PQUXCOjw_IJxqGAQADAgADcwADPAQ",
+          "file_unique_id": "AQAD1Q1rGzOj0FF4",
+          "file_size": 1145,
+          "width": 45,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOcmo5U3pOF82CEOcv7QHyn9Lu76k4AALVDWsbM6PQUXCOjw_IJxqGAQADAgADbQADPAQ",
+          "file_unique_id": "AQAD1Q1rGzOj0FFy",
+          "file_size": 15645,
+          "width": 161,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOcmo5U3pOF82CEOcv7QHyn9Lu76k4AALVDWsbM6PQUXCOjw_IJxqGAQADAgADeAADPAQ",
+          "file_unique_id": "AQAD1Q1rGzOj0FF9",
+          "file_size": 57689,
+          "width": 403,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOcmo5U3pOF82CEOcv7QHyn9Lu76k4AALVDWsbM6PQUXCOjw_IJxqGAQADAgADeQADPAQ",
+          "file_unique_id": "AQAD1Q1rGzOj0FF-",
+          "file_size": 103631,
+          "width": 645,
+          "height": 1280
+        }
+      ],
+      "caption": "نسخه مود شده بهارات مووی 🎬\n\n🆓 اشتراک نامحدود فعال شده ✅\n🔓 امکان دانلود و تماشای آنلاین فیلم و سریال فراهم شده 🌍\n🗑️ فایل‌های اضافی حذف شده 🧹\n\nبرای دانلود کلیک کنید 👇\n⭐ دوستان حمایت فراموش نشه 🤝❤️\n\n@XBat_team\n@modchii\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 204,
+          "length": 19,
+          "type": "blockquote"
+        },
+        {
+          "offset": 204,
+          "length": 10,
+          "type": "text_link",
+          "url": "https://t.me/XBat_team"
+        },
+        {
+          "offset": 215,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/modchii"
+        },
+        {
+          "offset": 236,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 236,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 236,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
