@@ -9229,6 +9229,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3691,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782132839,
+      "text": "خب خب \nاینم رفرالش شد ۲۰هزارتومان تا ۱۲شب \nبزنید سروراشم خودم میزارم براتون شب  داخل نپسرنت تست شده \n\nhttps://t.me/thevpnsbot?start=ref_8376197509\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 102,
+          "length": 44,
+          "type": "url"
+        },
+        {
+          "offset": 159,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 159,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 159,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
