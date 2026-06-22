@@ -9046,6 +9046,107 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3688,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782123119,
+      "text": "کدهای کاربردی تست دستگاه موبایل\n\nSamsung. *#0*#\n\nXIAOMI/MI/REDMI: *#*#6484#*#*\n\nVIVO:  *#*#225#*#*\n\nOPPO:   *#899#\n\nONE PLUS:  *#*2346579#*#*\n\nHONOR:  *#*#2345#*#*\n\nLENOVO:  *#*#4636#*#*\n\nSONY:  *#*#7378423#*#*\n\nMOTOROLA:  *#*#2486#*#*\n\nHUAWEI:  *#*#2846579#*#*\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 31,
+          "type": "bold"
+        },
+        {
+          "offset": 33,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 49,
+          "length": 15,
+          "type": "bold"
+        },
+        {
+          "offset": 80,
+          "length": 4,
+          "type": "bold"
+        },
+        {
+          "offset": 100,
+          "length": 4,
+          "type": "bold"
+        },
+        {
+          "offset": 116,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 143,
+          "length": 5,
+          "type": "bold"
+        },
+        {
+          "offset": 165,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 188,
+          "length": 4,
+          "type": "bold"
+        },
+        {
+          "offset": 212,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 237,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 263,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 276,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 298,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 298,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 298,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
