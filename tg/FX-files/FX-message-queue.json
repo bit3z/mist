@@ -11542,6 +11542,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3742,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782229322,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOnmo6qUpfucJ3eVZBeZdYsdspF_vBAAJeDWsb7bvZUedLbvATvGY9AQADAgADcwADPAQ",
+          "file_unique_id": "AQADXg1rG-272VF4",
+          "file_size": 1004,
+          "width": 42,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOnmo6qUpfucJ3eVZBeZdYsdspF_vBAAJeDWsb7bvZUedLbvATvGY9AQADAgADbQADPAQ",
+          "file_unique_id": "AQADXg1rG-272VFy",
+          "file_size": 11341,
+          "width": 148,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOnmo6qUpfucJ3eVZBeZdYsdspF_vBAAJeDWsb7bvZUedLbvATvGY9AQADAgADeAADPAQ",
+          "file_unique_id": "AQADXg1rG-272VF9",
+          "file_size": 43783,
+          "width": 370,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOnmo6qUpfucJ3eVZBeZdYsdspF_vBAAJeDWsb7bvZUedLbvATvGY9AQADAgADeQADPAQ",
+          "file_unique_id": "AQADXg1rG-272VF-",
+          "file_size": 73796,
+          "width": 554,
+          "height": 1199
+        }
+      ],
+      "caption": "🔴 رئیس دادگستری هرمزگان:\n\nبیش از 100 روز دنبال پیکر ماکان نصیری گشتیم و حتی بیشتر از 100 نمونه DNA هم بررسی شد؛\nاما هیچ اثری از خودش پیدا نشد. تنها چیزهایی که ازش پیدا کردیم یه لنگه کفش و یه کیف پاره‌شده بود...\nکارشناسا معتقدن شدت انفجار اون‌قدر زیاد بوده که موشک مستقیماً به بدن ماکان اصابت کرده و عملاً چیزی از پیکرش باقی نمونده. حتی نمونه موهایی که تصور می‌شد متعلق به ماکان باشه هم بعد از آزمایش مشخص شد مال اون نبوده.\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 425,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 438,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 464,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 464,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 464,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
