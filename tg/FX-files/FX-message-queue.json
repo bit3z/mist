@@ -10562,6 +10562,76 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3720,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782197281,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOiGo6LCGlg42N5ZtyfQMDNWvNJMEgAALBDWsbHzLYUXyszaeVg0x9AQADAgADcwADPAQ",
+          "file_unique_id": "AQADwQ1rGx8y2FF4",
+          "file_size": 953,
+          "width": 90,
+          "height": 45
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOiGo6LCGlg42N5ZtyfQMDNWvNJMEgAALBDWsbHzLYUXyszaeVg0x9AQADAgADbQADPAQ",
+          "file_unique_id": "AQADwQ1rGx8y2FFy",
+          "file_size": 11967,
+          "width": 320,
+          "height": 160
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOiGo6LCGlg42N5ZtyfQMDNWvNJMEgAALBDWsbHzLYUXyszaeVg0x9AQADAgADeAADPAQ",
+          "file_unique_id": "AQADwQ1rGx8y2FF9",
+          "file_size": 42353,
+          "width": 800,
+          "height": 400
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOiGo6LCGlg42N5ZtyfQMDNWvNJMEgAALBDWsbHzLYUXyszaeVg0x9AQADAgADeQADPAQ",
+          "file_unique_id": "AQADwQ1rGx8y2FF-",
+          "file_size": 83339,
+          "width": 1280,
+          "height": 640
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOiGo6LCGlg42N5ZtyfQMDNWvNJMEgAALBDWsbHzLYUXyszaeVg0x9AQADAgADdwADPAQ",
+          "file_unique_id": "AQADwQ1rGx8y2FF8",
+          "file_size": 93435,
+          "width": 1500,
+          "height": 750
+        }
+      ],
+      "caption": "🎁 دریافت اشتراک 1 ساله رایگان Gemini\nبا استفاده از ربات زیر، با دعوت از دوستان خود اشتراک رایگان Gemini دریافت کنید\n\n🤖 لینک ربات: \ngemini12pro_bot\n\n📝 روش دریافت:\n\n1️⃣ وارد ربات شوید\n\n2️⃣ لینک رفرال خود را کپی کنید\n\n3️⃣ دوستان خود را دعوت کنید و امتیاز جمع کنید\n\n4️⃣ بعد از کسب امتیاز موردنظر، به بخش 📘 Help در ربات بروید\n\n5️⃣ روی 🚀 Quick Start کلیک کنید\n\n6️⃣ آموزش کامل را از ربات دریافت کنید\n\n7️⃣ مشابه همان آموزش، اشتراک را در ایمیل خود دریافت کنید ✅\n\n⚠️ نکات مهم:\n- هرچه تعداد رفرال‌ها بیشتر باشد، امتیاز بیشتری دریافت می‌کنید\n- حتماً از ایمیل معتبر استفاده کنید\n- ربات راهنمای کامل را در اختیار شما قرار می‌دهد\n\n🚀 زود اقدام کنید — پیشنهاد محدود\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 667,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 667,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 667,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
