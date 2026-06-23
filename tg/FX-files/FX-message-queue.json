@@ -11939,6 +11939,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3749,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782235982,
+      "text": "خب 🤣😂بشتابید \nهر کس نزده سریع بزنید \nبه مدت ۱۰ساعت هر دعوت ۲۰۰هزار تومان شده سریععععع\nhttps://t.me/PingoonBot?start=686628907\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 88,
+          "length": 39,
+          "type": "url"
+        },
+        {
+          "offset": 140,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 140,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 140,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
