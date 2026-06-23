@@ -10822,6 +10822,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3726,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782207661,
+      "text": "همه بانکای مملکت دوباره بگا رفتن\nنه میشه کارت کشید نه میشه کارت به کارت کرد\n\nتاییده!؟؟؟؟؟\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 102,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 102,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 102,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
