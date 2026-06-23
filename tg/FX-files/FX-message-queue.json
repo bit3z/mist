@@ -10484,6 +10484,84 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3719,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782186901,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOh2o6A5Upy4ojgxeAudcerzodhc8JAALkDmsbM6PQUcIvnMDtv_QVAQADAgADcwADPAQ",
+          "file_unique_id": "AQAD5A5rGzOj0FF4",
+          "file_size": 910,
+          "width": 44,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOh2o6A5Upy4ojgxeAudcerzodhc8JAALkDmsbM6PQUcIvnMDtv_QVAQADAgADbQADPAQ",
+          "file_unique_id": "AQAD5A5rGzOj0FFy",
+          "file_size": 10305,
+          "width": 158,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOh2o6A5Upy4ojgxeAudcerzodhc8JAALkDmsbM6PQUcIvnMDtv_QVAQADAgADeAADPAQ",
+          "file_unique_id": "AQAD5A5rGzOj0FF9",
+          "file_size": 36473,
+          "width": 396,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOh2o6A5Upy4ojgxeAudcerzodhc8JAALkDmsbM6PQUcIvnMDtv_QVAQADAgADeQADPAQ",
+          "file_unique_id": "AQAD5A5rGzOj0FF-",
+          "file_size": 62542,
+          "width": 634,
+          "height": 1280
+        }
+      ],
+      "caption": "نسخه مود شده VMP VPN\n\n🆓 اشتراک فعال شده ✅\n🔓 قفل تمام سرور ها باز شده 🌍\n🗑️ فایل‌های اضافی حذف شده 🧹\n\nبرای دانلود کلیک کنید\n⭐ دوستان حمایت فراموش نشه 🤝❤️\n\n@XBat_team\n@modchii\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 159,
+          "length": 19,
+          "type": "blockquote"
+        },
+        {
+          "offset": 159,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 170,
+          "length": 8,
+          "type": "mention"
+        },
+        {
+          "offset": 191,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 191,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 191,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
