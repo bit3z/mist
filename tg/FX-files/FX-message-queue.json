@@ -13114,6 +13114,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3773,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782296225,
+      "text": "فروش سرور مستقیم گیگی 7 \nسرور نامحدود و گیمینگ هم موجوده.\nپریمیوم تلگرام و استارز و انواع اکانت‌های قانونی وی‌پی‌ان، موزیک‌پلیر و گیفت‌کارت پلی‌استیشن و ایکس‌باکس هم موجوده.\n\nبرای خرید:\n@e7fnnn\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 186,
+          "length": 7,
+          "type": "mention"
+        },
+        {
+          "offset": 194,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 217,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 217,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 217,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
