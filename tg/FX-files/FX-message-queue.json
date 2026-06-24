@@ -12621,6 +12621,84 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3764,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782280791,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOtGo7cld8z1N4_MuMDPmYuGg8HU5FAAIVDmsbfaTYUdDyemalD5snAQADAgADcwADPAQ",
+          "file_unique_id": "AQADFQ5rG32k2FF4",
+          "file_size": 815,
+          "width": 44,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOtGo7cld8z1N4_MuMDPmYuGg8HU5FAAIVDmsbfaTYUdDyemalD5snAQADAgADbQADPAQ",
+          "file_unique_id": "AQADFQ5rG32k2FFy",
+          "file_size": 8586,
+          "width": 158,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOtGo7cld8z1N4_MuMDPmYuGg8HU5FAAIVDmsbfaTYUdDyemalD5snAQADAgADeAADPAQ",
+          "file_unique_id": "AQADFQ5rG32k2FF9",
+          "file_size": 29042,
+          "width": 395,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOtGo7cld8z1N4_MuMDPmYuGg8HU5FAAIVDmsbfaTYUdDyemalD5snAQADAgADeQADPAQ",
+          "file_unique_id": "AQADFQ5rG32k2FF-",
+          "file_size": 50732,
+          "width": 632,
+          "height": 1280
+        }
+      ],
+      "caption": "🚀 Rocket VPN — مود شده 📱\n═══════════════════════════════\n\n📌 درباره برنامه :\n\nراکت وی پی ان یه فیلترشکن خوش‌چهره با 🎨\nرابط کاربری شیکه که سریع بودن رو اولویت 🚀\nخودش قرار داده.\n\nبا دو حالت اتصال مختلف میتونی وصل بشی:\n\n🧠 Smart Connect → هوشمندانه بهترین 🌟\n   سرور رو با توجه به موقعیتت پیدا میکنه\n\n🎯 Fast Server Connect → خودت دستی 👐\n   از بین سرورهای پرسرعت انتخاب کن\n\nسرعت بالایی داره. برای اینستاگرام، 📸\nتلگرام، یوتیوب و وبگردی عالیه. 🌐\n\n✅ رابط کاربری شیک و مدرن 🆕\n✅ سرعت اتصال بالا ⚡\n━━━━━━━━━━━━━━━━━━━\n\n🧬 تغییرات نسخه مود شده :\n\n🫧 اشتراک فعال شده ✅\n\n🫧 تبلیغات حذف شده 🚫\n\n🫧 تجربه کاربری → تمیز و عالی ✨\n\n━━━━━━━━━━━━━━━━━━━\n\n🔥 نسخه : آخرین آپدیت 🆕\n\n═══════════════════\n\n════════\n\nبرای دانلود برنامه کلیک کنید 📥\n\n═══════════════════\n\n@XBat_team\n@modchii\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 80,
+          "length": 417,
+          "type": "blockquote"
+        },
+        {
+          "offset": 755,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 766,
+          "length": 8,
+          "type": "mention"
+        },
+        {
+          "offset": 787,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 787,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 787,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
