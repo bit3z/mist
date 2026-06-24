@@ -13389,6 +13389,81 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3778,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782299593,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOwmo7u8kgSHoJs29DcReczg7wTXW9AAJLDWsbCUnhUQgJnviG9AABOAEAAwIAA3MAAzwE",
+          "file_unique_id": "AQADSw1rGwlJ4VF4",
+          "file_size": 974,
+          "width": 40,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOwmo7u8kgSHoJs29DcReczg7wTXW9AAJLDWsbCUnhUQgJnviG9AABOAEAAwIAA20AAzwE",
+          "file_unique_id": "AQADSw1rGwlJ4VFy",
+          "file_size": 12096,
+          "width": 144,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOwmo7u8kgSHoJs29DcReczg7wTXW9AAJLDWsbCUnhUQgJnviG9AABOAEAAwIAA3gAAzwE",
+          "file_unique_id": "AQADSw1rGwlJ4VF9",
+          "file_size": 43031,
+          "width": 360,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOwmo7u8kgSHoJs29DcReczg7wTXW9AAJLDWsbCUnhUQgJnviG9AABOAEAAwIAA3kAAzwE",
+          "file_unique_id": "AQADSw1rGwlJ4VF-",
+          "file_size": 71524,
+          "width": 576,
+          "height": 1280
+        }
+      ],
+      "caption": "نسخه مود شده Animegate 🎬\n\n🆓 اشتراک فعال شده ✅\nامکان دانلود و تماشا فیلم فراهم شده 📥🎥\nبدون نیاز به لاگین 🔓\n\nبرای دانلود کلیک کنید 👇\n⭐ دوستان حمایت فراموش نشه 🤝❤️\n\n@XBat_team\n@modchii\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 169,
+          "length": 10,
+          "type": "text_link",
+          "url": "https://t.me/XBat_team"
+        },
+        {
+          "offset": 180,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/modchii"
+        },
+        {
+          "offset": 201,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 201,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 201,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
