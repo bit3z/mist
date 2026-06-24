@@ -12848,6 +12848,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3767,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782286444,
+      "text": "عرضه شو دارین با کانال های 60 50 هزار نفری تون نصف چالش های این پنجشنبه ما رو بزنید تو چنل هاتون حرف مفت زیاد میزنید ما اکانت ارزون چالش میکنیم همون پنجشنبه هفته پیش ما همون پیور 3 ساله کم کم2 میلیون میدن همون Veee vpn رو 1 میلیون میدن زر فیلم هم کم کم 700 هزار این همه مود که باید اکانت بهشون تزریق شه رو کورید ندیدید\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 319,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 342,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 342,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 342,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
