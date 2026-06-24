@@ -12889,6 +12889,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3768,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782287404,
+      "text": "🔴 رفع اختلال در خدمات بانکی\n\n🔷️ بر اساس گزارش شرکت خدمات انفورماتیک، اختلال مقطعی که در برخی بانک‌های کشور ایجاد شده بود، برطرف شد و خدمات بانکی به وضعیت عادی بازگشت.\n\n🔷️ این اختلال با هدف جلوگیری از دسترسی غیرمجاز و حفاظت از امنیت اطلاعات و دارایی‌های مشتریان اعمال شده بود.\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 291,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 291,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 291,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
