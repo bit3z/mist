@@ -13695,6 +13695,62 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3783,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782302885,
+      "text": "یک سال استفاده رایگان از هوش مصنوعی پریمیوم دریافت کنید\n\nبه Atomesus.com مراجعه کنید\nبا ایمیل خود ثبت‌نام کنید\nروی آیکون پروفایل خود کلیک کنید (پایین-چپ)\nگزینه «اعمال کد ارجاع» را انتخاب کنید\nکد را وارد کنید: ATOMESUS\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 60,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 209,
+          "length": 8,
+          "type": "code"
+        },
+        {
+          "offset": 219,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 232,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 254,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 254,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 254,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
