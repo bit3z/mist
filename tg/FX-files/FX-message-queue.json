@@ -13979,6 +13979,69 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3788,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782310625,
+      "poll": {
+        "id": "5897739324388017990",
+        "question": "بهترین اپ کدومه برای مود کردن؟",
+        "options": [
+          {
+            "persistent_id": "0",
+            "text": "آوا مووی",
+            "voter_count": 0
+          },
+          {
+            "persistent_id": "1",
+            "text": "کینگ مووی",
+            "voter_count": 0
+          },
+          {
+            "persistent_id": "2",
+            "text": "دارک مووی",
+            "voter_count": 0
+          }
+        ],
+        "total_voter_count": 0,
+        "open_period": 86400,
+        "close_date": 1782397025,
+        "is_closed": false,
+        "is_anonymous": true,
+        "allows_multiple_answers": false,
+        "allows_revoting": true,
+        "members_only": false,
+        "type": "regular",
+        "description": "هر کدوم انتخاب کنید اکانت نیم میلیونیش خریده و مود میشه ببنیم کدوم مردم می‌پسندند\n\n• Sent via TeleFeed",
+        "description_entities": [
+          {
+            "offset": 94,
+            "length": 8,
+            "type": "text_link",
+            "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+          },
+          {
+            "offset": 94,
+            "length": 8,
+            "type": "bold"
+          },
+          {
+            "offset": 94,
+            "length": 8,
+            "type": "underline"
+          }
+        ]
+      }
     }
   ]
 }
