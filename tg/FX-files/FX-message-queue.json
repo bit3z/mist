@@ -14320,6 +14320,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3792,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782313901,
+      "text": "راکستار: \n\nنسخه فیزیکی GTA 6 فقط شامل کد دیجیتال هست؛ دیسکی در کار نیست (البته فعلا به خاطر جلوگیری از لیک شدن بازی)\n- پلی‌استیشن: GTA 6 بهترین تجربه خودش رو روی PS5 ارائه میده؛ همکاری سونی و راکستار گیمز تأیید شد\n-گیم GTA 6 روی PS5 تقریبا بدون هیچ لودینگی اجرا میشه!\n-ظاهرا داستان GTA 6 مثل Red Dead Redemption 2 به صورت فصل‌بندی‌شده و اپیزودی روایت میشه\n-بازی GTA 6 در استور پلی‌استیشن به‌عنوان یک تجربه کاملا سینگل پلیر ثبت شده\n﻿\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 433,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 446,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 472,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 472,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 472,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
