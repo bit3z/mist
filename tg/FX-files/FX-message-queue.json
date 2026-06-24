@@ -14719,6 +14719,84 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3800,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782327726,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIO2Go8Ka5-Cvrt9wkia4DB9HA6DlrZAALYDmsbb13hUedRBFs7_p-7AQADAgADcwADPAQ",
+          "file_unique_id": "AQAD2A5rG29d4VF4",
+          "file_size": 2027,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIO2Go8Ka5-Cvrt9wkia4DB9HA6DlrZAALYDmsbb13hUedRBFs7_p-7AQADAgADbQADPAQ",
+          "file_unique_id": "AQAD2A5rG29d4VFy",
+          "file_size": 33233,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIO2Go8Ka5-Cvrt9wkia4DB9HA6DlrZAALYDmsbb13hUedRBFs7_p-7AQADAgADeAADPAQ",
+          "file_unique_id": "AQAD2A5rG29d4VF9",
+          "file_size": 150714,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIO2Go8Ka5-Cvrt9wkia4DB9HA6DlrZAALYDmsbb13hUedRBFs7_p-7AQADAgADeQADPAQ",
+          "file_unique_id": "AQAD2A5rG29d4VF-",
+          "file_size": 196481,
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "caption": "PIA VPN\n\np1211372:Fi86fm4JHt | Plan: 1m | Active: True | Expires: 2026-07-23 | Days left: 29\n\np5572277:Dark_frb23! | Plan: 36m | Active: True | Expires: 2027-08-10 | Days left: 412\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 182,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 195,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 217,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 217,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 217,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
