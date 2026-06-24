@@ -12787,6 +12787,67 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3766,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782286024,
+      "text": "کنــارت هستند\n\nتا کـــی ؟\n\nتا وقتـــی که به تو احتــیاج دارند\n\nاز پیشــت می روند یک روز\n\nکدام روز ؟\n\nوقتی کســی جایت آمد\n\nدوستت دارند\n\nتا چه موقع ؟\n\nتا موقعی که کسی دیگر را\n\nبرای دوســت داشـتن پیــدا کنند\n\nمثال اون قدرنشناسی های هستن که ما دوسال اینجا بدون منت بالا ده ها میلیون تومن قرعه کشی کردیم جایزه دادیم از یه دوتا چالش این ماه های عکس گفتن سوژه کردن تو کانال هاشون ولی ما اسم نمی‌بریم  \n\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 27,
+          "length": 34,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 19,
+          "type": "bold"
+        },
+        {
+          "offset": 149,
+          "length": 55,
+          "type": "bold"
+        },
+        {
+          "offset": 206,
+          "length": 189,
+          "type": "spoiler"
+        },
+        {
+          "offset": 396,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 419,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 419,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 419,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
