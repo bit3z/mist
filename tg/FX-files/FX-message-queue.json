@@ -13005,6 +13005,79 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3771,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782292504,
+      "text": "🔰VPN Super Unlimited🔰\n\n🔎 GooglePlayLink\n\n💡2.27.0 | #VPN\n\n\nⓂ️ نسخه vip شده\n \n◈ اشتراک پرمیوم فعال شده👑✓ \n◈ حذف فایل‌های اضافه✓\n◈حذف تبلیغات برنامه✓\n\n✪ معماری: arm64-v8\n\nتوضیحات درباره برنامه:\n\nمستر وی‌پی‌ان نامحدود برای رفع\n انسداد سایت‌ها، امنیت هات‌اسپات وای‌فای، محافظت از حریم خصوصی ■ وی‌پی‌ان سوپر پروکسی نامحدود - وی‌پی‌ان رایگان برای اندروید پروکسی ۱۰۰٪ رایگان! پهنای باند کاملاً نامحدود! سرعت وی‌پی‌ان فوق‌العاده سریع و بالا! بهترین کلاینت‌های پروکسی نامحدود رایگان برای اندروید. وی‌پی‌ان سوپر پروکسی رایگان، وی‌پی‌ان فوق‌العاده سریع به سایت‌های پروکسی، تماشای ویدیو و فیلم، محافظت از امنیت وای‌فای و محافظت از حریم خصوصی.\n⭐️حمایت کنید دوستان با معرفی کردن کانالمون به بقیه.\n\n\n📲برای دانلود فایل از ربات بر روی ( دانــلود )  کلیک کنید.\n\n\n👨‍💻@qatel_seryalei\n\n📥@Ezrael_chanle\n📥@Xbat_team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 28,
+          "length": 14,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.free.vpn.super.hotspot.open"
+        },
+        {
+          "offset": 55,
+          "length": 4,
+          "type": "hashtag"
+        },
+        {
+          "offset": 197,
+          "length": 438,
+          "type": "blockquote"
+        },
+        {
+          "offset": 725,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/Ezrael_Modbot?start=get_QJsDJuHeMPQ"
+        },
+        {
+          "offset": 755,
+          "length": 15,
+          "type": "mention"
+        },
+        {
+          "offset": 774,
+          "length": 14,
+          "type": "mention"
+        },
+        {
+          "offset": 791,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 814,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 814,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 814,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "http://play.google.com/store/apps/details?id=com.free.vpn.super.hotspot.open"
+      }
     }
   ]
 }
