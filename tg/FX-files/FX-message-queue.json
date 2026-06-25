@@ -16359,7 +16359,7 @@
       }
     },
     {
-      "message_id": 3828,
+      "message_id": 3829,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -16371,31 +16371,31 @@
         "type": "channel"
       },
       "date": 1782408909,
-      "text": "شرکت اسرائیلی اینسایتک (inaightec) اعلام کرد که موفق شده است شدید ترین نوع اعتیاد به مواد مخدر را فقط در ۱۵ دقیقه درمان کند!!!!\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "text": "🚨شرکت اسرائیلی اینسایتک: ما با هدف قراردادن هسته آکومبنس مغز \nکه قسمت رضایت ، پاداش  و لذت را عهده دار است فقط در ۲۰ دقیقه توانایی از بین بردن  شدید ترین نوع اعتیاد را درون افراد را قادر هستیم!\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
       "entities": [
         {
-          "offset": 129,
+          "offset": 196,
           "length": 10,
           "type": "mention"
         },
         {
-          "offset": 142,
+          "offset": 209,
           "length": 13,
           "type": "mention"
         },
         {
-          "offset": 168,
+          "offset": 235,
           "length": 8,
           "type": "text_link",
           "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
         },
         {
-          "offset": 168,
+          "offset": 235,
           "length": 8,
           "type": "bold"
         },
         {
-          "offset": 168,
+          "offset": 235,
           "length": 8,
           "type": "underline"
         }
