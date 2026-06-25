@@ -15922,6 +15922,84 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3819,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782403268,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIO62o9UMRhHn8aP-0kS_F1pNH1Qd-1AAIJDmsboWjpUWmE-xKSB5GvAQADAgADcwADPAQ",
+          "file_unique_id": "AQADCQ5rG6Fo6VF4",
+          "file_size": 814,
+          "width": 46,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIO62o9UMRhHn8aP-0kS_F1pNH1Qd-1AAIJDmsboWjpUWmE-xKSB5GvAQADAgADbQADPAQ",
+          "file_unique_id": "AQADCQ5rG6Fo6VFy",
+          "file_size": 8549,
+          "width": 165,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIO62o9UMRhHn8aP-0kS_F1pNH1Qd-1AAIJDmsboWjpUWmE-xKSB5GvAQADAgADeAADPAQ",
+          "file_unique_id": "AQADCQ5rG6Fo6VF9",
+          "file_size": 33214,
+          "width": 412,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIO62o9UMRhHn8aP-0kS_F1pNH1Qd-1AAIJDmsboWjpUWmE-xKSB5GvAQADAgADeQADPAQ",
+          "file_unique_id": "AQADCQ5rG6Fo6VF-",
+          "file_size": 61402,
+          "width": 660,
+          "height": 1280
+        }
+      ],
+      "caption": "📲خب چالش داریم \n✔️2 برنده اکانت پرمیوم وب سایت و اپیکشین  فیلم و سریال ایرانی و خارجی نماوا پلن  چند ماهه یا تمدید خودکار رو میبرن\nاین برنامه از دماغ فیل افتاده هزینه اشتراک هاش اینقدر گرونه که نگو فقط مردم برای دیدین فیلم بروز ایرانی میخرن اشتراکش رو \n \nعدد ما بین688 تا 788 یک عدد به صورت رندوم بزنین \n\nتا ساعت 8 شب فردا وقت دارین کامنت بزارید\n@XBat_Team @Xbat_chat\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 132,
+          "length": 123,
+          "type": "blockquote"
+        },
+        {
+          "offset": 347,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 358,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 381,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 381,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 381,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
