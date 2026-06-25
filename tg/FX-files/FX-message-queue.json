@@ -15776,6 +15776,74 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3817,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782402668,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIO6Wo9Tmzr4I-6XXCWSWsGkJebN-IJAAL9DWsboWjpUeqWw1f8fUhSAQADAgADcwADPAQ",
+          "file_unique_id": "AQAD_Q1rG6Fo6VF4",
+          "file_size": 789,
+          "width": 50,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIO6Wo9Tmzr4I-6XXCWSWsGkJebN-IJAAL9DWsboWjpUeqWw1f8fUhSAQADAgADbQADPAQ",
+          "file_unique_id": "AQAD_Q1rG6Fo6VFy",
+          "file_size": 8434,
+          "width": 177,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIO6Wo9Tmzr4I-6XXCWSWsGkJebN-IJAAL9DWsboWjpUeqWw1f8fUhSAQADAgADeAADPAQ",
+          "file_unique_id": "AQAD_Q1rG6Fo6VF9",
+          "file_size": 32237,
+          "width": 443,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIO6Wo9Tmzr4I-6XXCWSWsGkJebN-IJAAL9DWsboWjpUeqWw1f8fUhSAQADAgADeQADPAQ",
+          "file_unique_id": "AQAD_Q1rG6Fo6VF-",
+          "file_size": 41908,
+          "width": 576,
+          "height": 1041
+        }
+      ],
+      "caption": "چالش\n🫥 از بین عداد 488 تا 588 یک عدد به صورت رندوم کامنت کنید\n🎁برنده اکانت چندین ماهه Pure vpn میبره\n⏳ قرعه کشی فردا ساعت 8و 8 دقیقه شب برگذار میشه\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 150,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 173,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 173,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 173,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
