@@ -16357,6 +16357,52 @@
       "link_preview_options": {
         "url": "https://www.oiioii.ai/home"
       }
+    },
+    {
+      "message_id": 3828,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782408909,
+      "text": "شرکت اسرائیلی اینسایتک (inaightec) اعلام کرد که موفق شده است شدید ترین نوع اعتیاد به مواد مخدر را فقط در ۱۵ دقیقه درمان کند!!!!\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 129,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 142,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 168,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 168,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 168,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
