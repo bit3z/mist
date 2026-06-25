@@ -16817,6 +16817,84 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3840,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782419760,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPAAFqPZEwydhNxktnAAE0gqn-k4zWj-UAAhkVaxujjOlR3eXlj5sJGaIBAAMCAANzAAM8BA",
+          "file_unique_id": "AQADGRVrG6OM6VF4",
+          "file_size": 850,
+          "width": 39,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPAAFqPZEwydhNxktnAAE0gqn-k4zWj-UAAhkVaxujjOlR3eXlj5sJGaIBAAMCAANtAAM8BA",
+          "file_unique_id": "AQADGRVrG6OM6VFy",
+          "file_size": 10218,
+          "width": 140,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPAAFqPZEwydhNxktnAAE0gqn-k4zWj-UAAhkVaxujjOlR3eXlj5sJGaIBAAMCAAN4AAM8BA",
+          "file_unique_id": "AQADGRVrG6OM6VF9",
+          "file_size": 36717,
+          "width": 351,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPAAFqPZEwydhNxktnAAE0gqn-k4zWj-UAAhkVaxujjOlR3eXlj5sJGaIBAAMCAAN5AAM8BA",
+          "file_unique_id": "AQADGRVrG6OM6VF-",
+          "file_size": 62875,
+          "width": 562,
+          "height": 1280
+        }
+      ],
+      "caption": "📣اطلاعیه\n\nاکانت نورد وی پی ان یک ساله کرکی شارژ شد\n\nجهت ثبت سفارش به پشتيبانی پیام بدین\n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 92,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 106,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 122,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 153,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 153,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 153,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
