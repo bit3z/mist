@@ -18655,6 +18655,81 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3876,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782496984,
+      "media_group_id": "14259975873520556",
+      "photo": [
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIPJGo-vthTVG5u7BjuE8eNg0d8aQABfAACxgtrG1-H-EXzGj2MEM8fUgEAAwIAA3MAAzwE",
+          "file_unique_id": "AQADxgtrG1-H-EV4",
+          "file_size": 1449,
+          "width": 60,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIPJGo-vthTVG5u7BjuE8eNg0d8aQABfAACxgtrG1-H-EXzGj2MEM8fUgEAAwIAA20AAzwE",
+          "file_unique_id": "AQADxgtrG1-H-EVy",
+          "file_size": 8626,
+          "width": 182,
+          "height": 274
+        }
+      ],
+      "caption": "واگعی\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 7,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 7,
+          "length": 10,
+          "type": "bold"
+        },
+        {
+          "offset": 17,
+          "length": 3,
+          "type": "bold"
+        },
+        {
+          "offset": 20,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 20,
+          "length": 13,
+          "type": "bold"
+        },
+        {
+          "offset": 46,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 46,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 46,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
