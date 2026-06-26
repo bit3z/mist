@@ -18413,6 +18413,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3871,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782494883,
+      "text": "محمد دهنتو امتحان کردم از ظهری تب گرفتم بعد 8 سال مریض شدم فک کنم 🥴\n\nخدا تو و عرفان برای عذاب الهی من  فرستاده\nاین قرعه کشی ها این هفته شات گرفتم میدم دست عرفان شات ها برنده بفرسته پی وی\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 112,
+          "length": 75,
+          "type": "blockquote"
+        },
+        {
+          "offset": 188,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 211,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 211,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 211,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
