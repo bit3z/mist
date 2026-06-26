@@ -19619,6 +19619,81 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3897,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782510141,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPOWo-8j32cfS7eJsWHVQZWiYXiuliAALtDmsbd5H5UTVgpB6QvjltAQADAgADcwADPAQ",
+          "file_unique_id": "AQAD7Q5rG3eR-VF4",
+          "file_size": 1519,
+          "width": 90,
+          "height": 50
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPOWo-8j32cfS7eJsWHVQZWiYXiuliAALtDmsbd5H5UTVgpB6QvjltAQADAgADbQADPAQ",
+          "file_unique_id": "AQAD7Q5rG3eR-VFy",
+          "file_size": 23283,
+          "width": 320,
+          "height": 178
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPOWo-8j32cfS7eJsWHVQZWiYXiuliAALtDmsbd5H5UTVgpB6QvjltAQADAgADeAADPAQ",
+          "file_unique_id": "AQAD7Q5rG3eR-VF9",
+          "file_size": 98615,
+          "width": 800,
+          "height": 446
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPOWo-8j32cfS7eJsWHVQZWiYXiuliAALtDmsbd5H5UTVgpB6QvjltAQADAgADdwADPAQ",
+          "file_unique_id": "AQAD7Q5rG3eR-VF8",
+          "file_size": 204622,
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPOWo-8j32cfS7eJsWHVQZWiYXiuliAALtDmsbd5H5UTVgpB6QvjltAQADAgADeQADPAQ",
+          "file_unique_id": "AQAD7Q5rG3eR-VF-",
+          "file_size": 212209,
+          "width": 1280,
+          "height": 714
+        }
+      ],
+      "caption": "دوستانی ک وایرگارد میخاستن \nیک ماه\n\nهمراه با لوکیشن گیمینگ\nدوتا المان برای وبگردی \n\nدوتا گیمینگ \nترکیه \nامارت \n\n۳۶گیگ \n۱۳۰هزار تومان \nتک کاربره \n\nپیوی درخدمتم تعداد۱۰عدد موجوده \n@amirasali80\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 178,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 203,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 203,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 203,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
