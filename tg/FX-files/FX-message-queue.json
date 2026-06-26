@@ -19396,6 +19396,69 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3892,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782507784,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPNGo-6Qe4z8rmNZ1lt69gyDD58nScAAIxDmsb0Jj4Ucs9sDwjn2uvAQADAgADcwADPAQ",
+          "file_unique_id": "AQADMQ5rG9CY-FF4",
+          "file_size": 2426,
+          "width": 90,
+          "height": 74
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPNGo-6Qe4z8rmNZ1lt69gyDD58nScAAIxDmsb0Jj4Ucs9sDwjn2uvAQADAgADbQADPAQ",
+          "file_unique_id": "AQADMQ5rG9CY-FFy",
+          "file_size": 40920,
+          "width": 320,
+          "height": 263
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPNGo-6Qe4z8rmNZ1lt69gyDD58nScAAIxDmsb0Jj4Ucs9sDwjn2uvAQADAgADeAADPAQ",
+          "file_unique_id": "AQADMQ5rG9CY-FF9",
+          "file_size": 199353,
+          "width": 800,
+          "height": 657
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPNGo-6Qe4z8rmNZ1lt69gyDD58nScAAIxDmsb0Jj4Ucs9sDwjn2uvAQADAgADeQADPAQ",
+          "file_unique_id": "AQADMQ5rG9CY-FF-",
+          "file_size": 250641,
+          "width": 984,
+          "height": 808
+        }
+      ],
+      "caption": "نما هند\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 20,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 20,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 20,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
