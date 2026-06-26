@@ -17156,6 +17156,73 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3847,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782465962,
+      "audio": {
+        "duration": 297,
+        "file_name": "audio-the-winner-takes-it-all-by-abba.mp3",
+        "mime_type": "audio/mpeg",
+        "title": "The Winner Takes It All",
+        "performer": "ABBA",
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAg8Haj5FqiLTOv6PIs2UYJnKM6F82f8AAl0hAAJ_JPBRqMfMm1MdNkMBAAdtAAM8BA",
+          "file_unique_id": "AQADXSEAAn8k8FFy",
+          "file_size": 3485,
+          "width": 132,
+          "height": 132
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAg8Haj5FqiLTOv6PIs2UYJnKM6F82f8AAl0hAAJ_JPBRqMfMm1MdNkMBAAdtAAM8BA",
+          "file_unique_id": "AQADXSEAAn8k8FFy",
+          "file_size": 3485,
+          "width": 132,
+          "height": 132
+        },
+        "file_id": "CQACAgQAAyEFAATqPDJ3AAIPB2o-Raoi0zr-jyLNlGCZyjOhfNn_AAJdIQACfyTwUajHzJtTHTZDPAQ",
+        "file_unique_id": "AgADXSEAAn8k8FE",
+        "file_size": 8706621
+      },
+      "caption": "🙂\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 4,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 15,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 41,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 41,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 41,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
