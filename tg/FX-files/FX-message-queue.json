@@ -18531,6 +18531,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3874,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782495843,
+      "text": "vless://b258bb67-0d9f-43f1-033b-18f6e8263a1e@s2.zynavo.ir:2087?mode=auto&path=%2FBetForward&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=cdn.zynavo.ir&fp=chrome&type=xhttp&sni=cdn.zynavo.ir#%F0%9F%87%AE%F0%9F%87%B7%209\n\nلوکیشین ایران\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 233,
+          "type": "code"
+        },
+        {
+          "offset": 249,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 262,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 284,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 284,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 284,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
