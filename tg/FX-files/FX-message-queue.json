@@ -18172,6 +18172,76 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3866,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782489363,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPGmo-oRMQAjtjm8L6TDzGBxULDEEBAALoDmsbG4PxUbjduyNrdpzqAQADAgADcwADPAQ",
+          "file_unique_id": "AQAD6A5rGxuD8VF4",
+          "file_size": 1453,
+          "width": 67,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPGmo-oRMQAjtjm8L6TDzGBxULDEEBAALoDmsbG4PxUbjduyNrdpzqAQADAgADbQADPAQ",
+          "file_unique_id": "AQAD6A5rGxuD8VFy",
+          "file_size": 16834,
+          "width": 240,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPGmo-oRMQAjtjm8L6TDzGBxULDEEBAALoDmsbG4PxUbjduyNrdpzqAQADAgADeAADPAQ",
+          "file_unique_id": "AQAD6A5rGxuD8VF9",
+          "file_size": 71920,
+          "width": 601,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPGmo-oRMQAjtjm8L6TDzGBxULDEEBAALoDmsbG4PxUbjduyNrdpzqAQADAgADeQADPAQ",
+          "file_unique_id": "AQAD6A5rGxuD8VF-",
+          "file_size": 155956,
+          "width": 961,
+          "height": 1280
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPGmo-oRMQAjtjm8L6TDzGBxULDEEBAALoDmsbG4PxUbjduyNrdpzqAQADAgADdwADPAQ",
+          "file_unique_id": "AQAD6A5rGxuD8VF8",
+          "file_size": 391672,
+          "width": 1736,
+          "height": 2312
+        }
+      ],
+      "caption": "اقا این چه سوسیسی هست!؟🤣🤣🤣🤣🤣دیده بودین !؟🤣\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 61,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 61,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 61,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
