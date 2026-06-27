@@ -20143,6 +20143,71 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3905,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782548045,
+      "document": {
+        "file_name": "Arvanping.apk",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAIPDWo-ficPGMZwiL7GTPQE_7zFThzXAAJiHQACo4zxUSj8SoEQbe_ZPAQ",
+        "file_unique_id": "AgADYh0AAqOM8VE",
+        "file_size": 209687157
+      },
+      "caption": "📱نسخه جدید CapCut v18.3.0 منتشر شد!\n\n💀 مخصوص گوشی‌های با پردازنده 64بیتی-32بیتی\n✅ بدون هیچ مشکل اینترنت\n⚠️ این نسخه مود (هک‌شده) نیست — نسخه اصلی و سالم برنامه‌ست.\n\n⚙️ قبل از نصب:\nحتماً تمام نسخه‌های قبلی کپ‌کات رو از گوشیتون حذف کنید \n\n💡 نکته مهم:\nبرای فعال‌سازی نسخه پرو، لازمه اکانت از ربات ما تهیه کنید:\n📞@Arvanping\n\n⌛اما قبل از خرید، حتماً اپ رو تست کنید — اگر بدون باگ و ارور اجرا شد، بعدش اکانت تهیه کنید \n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 2,
+          "length": 4,
+          "type": "bold"
+        },
+        {
+          "offset": 313,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 420,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 434,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 450,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 481,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 481,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 481,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
