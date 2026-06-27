@@ -21189,6 +21189,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3925,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782582726,
+      "text": "بانک های شما هم خرابن مادر جنده ها فقط گنده گوزی میکنن اگه 4 ساعت یه بانک آمریکایی خراب بشه مجری های صدا و سیما کونشون رو جر میدن وای بحران وای فلان وایی اون وای بانک آمریکایی قطع شد این اینجا بانک ملی 80 میلیون توش پول دارم 20 روزیه از 24 ساعت 23ساعتو نیم خرابه نمیتونم باهاش یه لیموناد زمزم بخرم حتی  🥴 ولی هیچ کسی پاسخ گو نیس شاید یکی به پولش نیاز داره مادر جنده ها \n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 371,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 394,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 394,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 394,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
