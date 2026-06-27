@@ -20705,6 +20705,133 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3916,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782572825,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPTGo_5xmLVIr2VjDVd5YBJIbabOf0AAKaDmsbd5EBUuH0NVcGIYQaAQADAgADcwADPAQ",
+          "file_unique_id": "AQADmg5rG3eRAVJ4",
+          "file_size": 1395,
+          "width": 68,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPTGo_5xmLVIr2VjDVd5YBJIbabOf0AAKaDmsbd5EBUuH0NVcGIYQaAQADAgADbQADPAQ",
+          "file_unique_id": "AQADmg5rG3eRAVJy",
+          "file_size": 18761,
+          "width": 241,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPTGo_5xmLVIr2VjDVd5YBJIbabOf0AAKaDmsbd5EBUuH0NVcGIYQaAQADAgADeAADPAQ",
+          "file_unique_id": "AQADmg5rG3eRAVJ9",
+          "file_size": 82666,
+          "width": 603,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPTGo_5xmLVIr2VjDVd5YBJIbabOf0AAKaDmsbd5EBUuH0NVcGIYQaAQADAgADeQADPAQ",
+          "file_unique_id": "AQADmg5rG3eRAVJ-",
+          "file_size": 163877,
+          "width": 965,
+          "height": 1280
+        }
+      ],
+      "caption": "Openreel video editor\n100 % free forever\nویدیو ادیتور جایگزین capcut\nهوش مصنوعی\nاوتو کپشن\nترجمه زیرنویس\n\nویرایشگر ویدیوی هوش مصنوعی قدرتمند برای موبایل\n\nویرایشگری حرفه‌ای و ساده که به شما امکان می‌دهد با گوشی، ویدیوهایی در سطح استودیو بسازید.\n\nویژگی‌های اصلی:\n\nتایم‌لاین حرفه‌ای\n- تایم‌لاین چندآهنگه (ویدیو، صدا، متن، گرافیک)\n- برش، تقسیم، تغییر سرعت، معکوس، انتقال و انیمیشن فریم کلیدی\n- ویرایش انبوه روی همه کلیپ‌ها\n\nابزارهای هوش مصنوعی (ابری)\n- زیرنویس خودکار با هایلایت کارائوکه‌ای\n- ترجمه خودکار زیرنویس به چند زبان\n- بهبود صدا (حذف نویز)\n- تشخیص صحنه، هایلایت خودکار، حذف سکوت\n- افزایش کیفیت، تثبیت تصویر، بازیابی چهره و...\n\nظاهر و متن\n- فیلترهای زنده با پیش‌نمایش realtime\n- متن و زیرنویس متحرک با جلوه‌های متنوع\n- تنظیمات رنگ (روشنایی، کنتراست، اشباع)\n\nخروجی\n- کیفیت بالا با شتاب سخت‌افزاری\n\nهمه چیز در گوشی: ساخت، زیرنویس‌گذاری و اشتراک‌گذاری مستقیم. \n\nساده، قدرتمند و مخصوص سازندگانی که نتیجه حرفه‌ای می‌خواهند.\n\nSite\nGithub\nAndroid\niOS\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 105,
+          "length": 816,
+          "type": "blockquote"
+        },
+        {
+          "offset": 261,
+          "length": 17,
+          "type": "bold"
+        },
+        {
+          "offset": 419,
+          "length": 26,
+          "type": "bold"
+        },
+        {
+          "offset": 631,
+          "length": 10,
+          "type": "bold"
+        },
+        {
+          "offset": 761,
+          "length": 5,
+          "type": "bold"
+        },
+        {
+          "offset": 800,
+          "length": 16,
+          "type": "bold"
+        },
+        {
+          "offset": 923,
+          "length": 4,
+          "type": "text_link",
+          "url": "https://openreel.video/"
+        },
+        {
+          "offset": 928,
+          "length": 6,
+          "type": "text_link",
+          "url": "https://github.com/Augani/openreel-video"
+        },
+        {
+          "offset": 935,
+          "length": 7,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.pythonxi.openreelvideo"
+        },
+        {
+          "offset": 943,
+          "length": 3,
+          "type": "text_link",
+          "url": "https://apps.apple.com/app/openreel-video/id6770714857"
+        },
+        {
+          "offset": 948,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 961,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 983,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 983,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 983,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
