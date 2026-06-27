@@ -20632,6 +20632,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3915,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782571025,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPS2o_4BF0WIFOJurTewevx6NVtDsYAAKIDmsbd5EBUgiIXVBUCb2kAQADAgADcwADPAQ",
+          "file_unique_id": "AQADiA5rG3eRAVJ4",
+          "file_size": 2005,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPS2o_4BF0WIFOJurTewevx6NVtDsYAAKIDmsbd5EBUgiIXVBUCb2kAQADAgADbQADPAQ",
+          "file_unique_id": "AQADiA5rG3eRAVJy",
+          "file_size": 34828,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPS2o_4BF0WIFOJurTewevx6NVtDsYAAKIDmsbd5EBUgiIXVBUCb2kAQADAgADeAADPAQ",
+          "file_unique_id": "AQADiA5rG3eRAVJ9",
+          "file_size": 149924,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPS2o_4BF0WIFOJurTewevx6NVtDsYAAKIDmsbd5EBUgiIXVBUCb2kAQADAgADeQADPAQ",
+          "file_unique_id": "AQADiA5rG3eRAVJ-",
+          "file_size": 215227,
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "caption": "💥دوستانی که سورفشارک نیاز دارند زیر همین پست کدهاشونو ارسال کنند چند نفری لاگین میشوند\nبرای اتصال خوب بعد از لاگین افراد دیگر را لاگین نکنید\nشات و لایک یادتون نره🌸\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 167,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 180,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 202,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 202,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 202,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
