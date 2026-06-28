@@ -23485,6 +23485,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3966,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782690228,
+      "text": "❤️ربات اختصاصی مون راه اندازی شد🥳\n\n🔆زین پس شما عزیزان میتونید به سادترین شکل ممکن از باتمون خریدتون رو انجام بدید💳\n\n✅قیمت های ما کف ترین و کمترین نسبت به کل تلگرام فارسی با کیفیت عالی☄\n\n🛒میتوانید اول سرور تست از ربات تهیه کنید یا با رفرال سرورتون رو تمدید کنید سپس بعد نسبت به خرید اقدام کنید🛍\n\n🔶در روزهای آتی خدمات دیگر شامل اضافه شدن سرورهای مولتی لوکیشن و سرویس وایرگارد گیمینگ\nقرار داده خواهد شد🎈\n\nآیدی ربات؛\n@asalishop_bot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 419,
+          "type": "bold"
+        },
+        {
+          "offset": 420,
+          "length": 14,
+          "type": "mention"
+        },
+        {
+          "offset": 447,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 447,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 447,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
