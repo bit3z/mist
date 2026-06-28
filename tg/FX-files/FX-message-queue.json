@@ -22445,6 +22445,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3949,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782669166,
+      "text": "🔴 شاهزاده رضا پهلوی: اصلی‌ترین دلیل حمله آمریکا و اسرائیل به ایران، سفر دو سال پیش من به اسرائیل بود.\nاونا فقط با جمهوری اسلامی مشکل دارن، نه مردم.\nمن به آمریکا گفتم که دلتون نمیخواد جای شعار «مرگ بر آمریکا» شعار «خدا آمریکا رو حفظ کنه بشنوین؟» پس رژیم رو عوض کنین.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 267,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 280,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 306,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 306,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 306,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
