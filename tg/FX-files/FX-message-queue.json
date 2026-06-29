@@ -24374,6 +24374,74 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3985,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782753117,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPkWpCp10cFD9ZzrOlVKoEvtALDk6fAALrDmsbqg4ZUrv9X-8qQpDPAQADAgADcwADPAQ",
+          "file_unique_id": "AQAD6w5rG6oOGVJ4",
+          "file_size": 867,
+          "width": 69,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPkWpCp10cFD9ZzrOlVKoEvtALDk6fAALrDmsbqg4ZUrv9X-8qQpDPAQADAgADbQADPAQ",
+          "file_unique_id": "AQAD6w5rG6oOGVJy",
+          "file_size": 10864,
+          "width": 244,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPkWpCp10cFD9ZzrOlVKoEvtALDk6fAALrDmsbqg4ZUrv9X-8qQpDPAQADAgADeAADPAQ",
+          "file_unique_id": "AQAD6w5rG6oOGVJ9",
+          "file_size": 36477,
+          "width": 611,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPkWpCp10cFD9ZzrOlVKoEvtALDk6fAALrDmsbqg4ZUrv9X-8qQpDPAQADAgADeQADPAQ",
+          "file_unique_id": "AQAD6w5rG6oOGVJ-",
+          "file_size": 64006,
+          "width": 978,
+          "height": 1280
+        }
+      ],
+      "caption": "ساخت برنامه اندروید آیفون بدون کدنویسی\nماهانه 35 کردیت رایگان \nشبیه lovable\nrork.com\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 76,
+          "length": 8,
+          "type": "url"
+        },
+        {
+          "offset": 97,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 97,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 97,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
