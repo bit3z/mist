@@ -24052,6 +24052,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3977,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782746696,
+      "text": "تخفیف گیفت‌کارت پلی‌استیشن و ایکس‌باکس تا فردا تمدید شد و با ۳۰ درصد تخفیف می‌تونید تهیه کنید:\n@NER_HER\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 95,
+          "length": 8,
+          "type": "mention"
+        },
+        {
+          "offset": 104,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 117,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 143,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 143,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 143,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
