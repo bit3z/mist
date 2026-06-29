@@ -25368,6 +25368,131 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4002,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782774061,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPompC-S0iXvsQvTQtiPHYw4RlmU7dAALxD2sbEJcZUjqwxUj4LQVsAQADAgADcwADPAQ",
+          "file_unique_id": "AQAD8Q9rGxCXGVJ4",
+          "file_size": 1520,
+          "width": 90,
+          "height": 89
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPompC-S0iXvsQvTQtiPHYw4RlmU7dAALxD2sbEJcZUjqwxUj4LQVsAQADAgADbQADPAQ",
+          "file_unique_id": "AQAD8Q9rGxCXGVJy",
+          "file_size": 18803,
+          "width": 320,
+          "height": 316
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPompC-S0iXvsQvTQtiPHYw4RlmU7dAALxD2sbEJcZUjqwxUj4LQVsAQADAgADeAADPAQ",
+          "file_unique_id": "AQAD8Q9rGxCXGVJ9",
+          "file_size": 66647,
+          "width": 800,
+          "height": 789
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPompC-S0iXvsQvTQtiPHYw4RlmU7dAALxD2sbEJcZUjqwxUj4LQVsAQADAgADeQADPAQ",
+          "file_unique_id": "AQAD8Q9rGxCXGVJ-",
+          "file_size": 129962,
+          "width": 1280,
+          "height": 1262
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPompC-S0iXvsQvTQtiPHYw4RlmU7dAALxD2sbEJcZUjqwxUj4LQVsAQADAgADdwADPAQ",
+          "file_unique_id": "AQAD8Q9rGxCXGVJ8",
+          "file_size": 358815,
+          "width": 2559,
+          "height": 2523
+        }
+      ],
+      "caption": "Journey VPN\n\nExp: 1 Month\n➿➿➿➿➿➿➿➿➿➿➿➿\nEmail: gard_qgundeniable@hidmail.org\n\nPassword:@Error404Bin\n➿➿➿➿➿➿➿➿➿\nظرفیت اکانت محدود میباشد\n➿➿➿➿➿\n\nری اکشن و شات یادتون نره \n\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 8,
+          "length": 3,
+          "type": "bold"
+        },
+        {
+          "offset": 39,
+          "length": 5,
+          "type": "bold"
+        },
+        {
+          "offset": 46,
+          "length": 29,
+          "type": "email"
+        },
+        {
+          "offset": 77,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 86,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 98,
+          "length": 10,
+          "type": "bold"
+        },
+        {
+          "offset": 133,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 140,
+          "length": 27,
+          "type": "bold"
+        },
+        {
+          "offset": 169,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 182,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 204,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 204,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 204,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
