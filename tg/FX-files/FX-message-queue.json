@@ -24675,6 +24675,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3990,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782758578,
+      "text": "Avast Secureline \n\nActivation Code\nN5DNKD-6BQH8J-58CJTJ\n\nL5C9CP-47AL52-58CJDN\n\nH4L58C-NDMHLJ-58CJPE\nهر کلید 💯 کاربر\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 35,
+          "length": 20,
+          "type": "code"
+        },
+        {
+          "offset": 57,
+          "length": 20,
+          "type": "code"
+        },
+        {
+          "offset": 79,
+          "length": 20,
+          "type": "code"
+        },
+        {
+          "offset": 129,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 129,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 129,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
