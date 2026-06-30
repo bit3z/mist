@@ -27176,6 +27176,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4032,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782835695,
+      "text": "دوستان 🤣😂بمب پیدا کردم \n\nربات جدید هر رفرال ۱۵۰هزارتومان \nورد اولیه ۲۰۰هزارتومان میده\nبا یه رفرال به سرویس میخرید \nسریع تا نبسته بزنید \n\n\nhttps://t.me/topchinetbot?start=8376197509\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 140,
+          "length": 42,
+          "type": "url"
+        },
+        {
+          "offset": 195,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 195,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 195,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
