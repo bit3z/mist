@@ -26540,6 +26540,102 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4020,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782818832,
+      "text": "🔵HMA VPN\n\nVGUPQE-Q5FG9J-58CJTW\nYDGB9Y-AE6C52-58CJ5S\nYKNWQN-LD9H92-58CJ3A\nV7RKCJ-6SPQR2-58CJHW\nYFYJ8T-4LHDU2-58CJRW\nZRQZKS-YKR99J-58CJBW\nJZNTKH-X5E8Z2-58CJSJ\n4KDAYF-ZTGGJ2-58CJQJ\nKPPN6N-8TQ472-58CJBW\nTZFYHJ-3LELT2-58CJWS\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 11,
+          "length": 20,
+          "type": "code"
+        },
+        {
+          "offset": 32,
+          "length": 20,
+          "type": "code"
+        },
+        {
+          "offset": 53,
+          "length": 20,
+          "type": "code"
+        },
+        {
+          "offset": 74,
+          "length": 20,
+          "type": "code"
+        },
+        {
+          "offset": 95,
+          "length": 20,
+          "type": "code"
+        },
+        {
+          "offset": 116,
+          "length": 20,
+          "type": "code"
+        },
+        {
+          "offset": 137,
+          "length": 20,
+          "type": "code"
+        },
+        {
+          "offset": 158,
+          "length": 20,
+          "type": "code"
+        },
+        {
+          "offset": 179,
+          "length": 20,
+          "type": "code"
+        },
+        {
+          "offset": 200,
+          "length": 20,
+          "type": "code"
+        },
+        {
+          "offset": 222,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 235,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 257,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 257,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 257,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
