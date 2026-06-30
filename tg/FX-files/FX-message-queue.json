@@ -26638,7 +26638,7 @@
       }
     },
     {
-      "message_id": 4021,
+      "message_id": 4022,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -26652,53 +26652,43 @@
       "date": 1782821413,
       "media_group_id": "14262571307364076",
       "video": {
-        "duration": 26,
-        "width": 736,
-        "height": 480,
+        "duration": 94,
+        "width": 480,
+        "height": 852,
         "mime_type": "video/mp4",
         "thumbnail": {
-          "file_id": "AAMCBAADIQUABOo8MncAAg-1akOyJUZeQoETKbHGg5Z6YUKamrIAAo80AALDzRhScLvxJIESXl0BAAdtAAM8BA",
-          "file_unique_id": "AQADjzQAAsPNGFJy",
-          "file_size": 3405,
-          "width": 320,
-          "height": 209
+          "file_id": "AAMCBAADIQUABOo8MncAAg-2akOyJZPRx6GCS6lPWBMaKAm-D_AAApA0AALDzRhS56DHQfdrCCgBAAdtAAM8BA",
+          "file_unique_id": "AQADkDQAAsPNGFJy",
+          "file_size": 3362,
+          "width": 180,
+          "height": 320
         },
         "thumb": {
-          "file_id": "AAMCBAADIQUABOo8MncAAg-1akOyJUZeQoETKbHGg5Z6YUKamrIAAo80AALDzRhScLvxJIESXl0BAAdtAAM8BA",
-          "file_unique_id": "AQADjzQAAsPNGFJy",
-          "file_size": 3405,
-          "width": 320,
-          "height": 209
+          "file_id": "AAMCBAADIQUABOo8MncAAg-2akOyJZPRx6GCS6lPWBMaKAm-D_AAApA0AALDzRhS56DHQfdrCCgBAAdtAAM8BA",
+          "file_unique_id": "AQADkDQAAsPNGFJy",
+          "file_size": 3362,
+          "width": 180,
+          "height": 320
         },
-        "file_id": "BAACAgQAAyEFAATqPDJ3AAIPtWpDsiVGXkKBEymxxoOWemFCmpqyAAKPNAACw80YUnC78SSBEl5dPAQ",
-        "file_unique_id": "AgADjzQAAsPNGFI",
-        "file_size": 1656619
+        "file_id": "BAACAgQAAyEFAATqPDJ3AAIPtmpDsiWT0cehgkupT1gTGigJvg_wAAKQNAACw80YUuegx0H3awgoPAQ",
+        "file_unique_id": "AgADkDQAAsPNGFI",
+        "file_size": 6662910
       },
-      "caption": "حسین یکتا رو یادتونه توی اعتراضات دی ماه اومد گفت بچه هاتون رو بیرون نفرستین، اگه تیر خوردن مسئولیتش با خودتونه.\n\nحالا فیلم تولد پسرش اومده بیرون، میزی از خوراکی‌های متنوع که شاید هیچوقت ما نخوریم.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption": "• Sent via TeleFeed",
       "caption_entities": [
         {
-          "offset": 198,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 211,
-          "length": 13,
-          "type": "mention"
-        },
-        {
-          "offset": 237,
+          "offset": 11,
           "length": 8,
           "type": "text_link",
           "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
         },
         {
-          "offset": 237,
+          "offset": 11,
           "length": 8,
           "type": "bold"
         },
         {
-          "offset": 237,
+          "offset": 11,
           "length": 8,
           "type": "underline"
         }
