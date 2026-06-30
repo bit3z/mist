@@ -28304,6 +28304,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4058,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782852316,
+      "text": "🔴شاهزاده رضا پهلوی: \nتمام هدفم اینه که این مبارزه با کمترین تلفات جانی به نتیجه برسه؛\nبرخلاف این نظام که براش مهم نیست چند نفر از بین برن، برای من جون هر آدمی ارزش داره و از دست رفتن هر نفر واقعاً دردناکه.\n با همه خانواده‌هایی که عزیزشون رو از دست دادن، از میناب گرفته تا تهران و هر جای دیگه، همدردم.\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 22,
+          "length": 185,
+          "type": "blockquote"
+        },
+        {
+          "offset": 303,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 316,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 342,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 342,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 342,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
