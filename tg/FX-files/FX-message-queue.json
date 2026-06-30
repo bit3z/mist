@@ -27963,6 +27963,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4051,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782847876,
+      "text": "افر خیلی ویژه ای هستش \nقیمت خود تلگرام ۲۹ دلار هستش \nمعادل 5,000,000 میلیون ولی افر ما 3,500,000 هستش ✅ \nو همین طور در پلن های پایین تر قیمت ها خیلی پایین تر هستن\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 175,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 175,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 175,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
