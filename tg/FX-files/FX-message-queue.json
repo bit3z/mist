@@ -27299,6 +27299,81 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4036,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782840495,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPxGpD_K9pabxUy8F1Wd8kLob1QECdAAIaD2sbrT0gUioecGbPSEeeAQADAgADcwADPAQ",
+          "file_unique_id": "AQADGg9rG609IFJ4",
+          "file_size": 1194,
+          "width": 67,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPxGpD_K9pabxUy8F1Wd8kLob1QECdAAIaD2sbrT0gUioecGbPSEeeAQADAgADbQADPAQ",
+          "file_unique_id": "AQADGg9rG609IFJy",
+          "file_size": 15500,
+          "width": 240,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPxGpD_K9pabxUy8F1Wd8kLob1QECdAAIaD2sbrT0gUioecGbPSEeeAQADAgADeAADPAQ",
+          "file_unique_id": "AQADGg9rG609IFJ9",
+          "file_size": 68025,
+          "width": 600,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPxGpD_K9pabxUy8F1Wd8kLob1QECdAAIaD2sbrT0gUioecGbPSEeeAQADAgADeQADPAQ",
+          "file_unique_id": "AQADGg9rG609IFJ-",
+          "file_size": 147260,
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPxGpD_K9pabxUy8F1Wd8kLob1QECdAAIaD2sbrT0gUioecGbPSEeeAQADAgADdwADPAQ",
+          "file_unique_id": "AQADGg9rG609IFJ8",
+          "file_size": 499210,
+          "width": 1920,
+          "height": 2560
+        }
+      ],
+      "caption": "تا من باشم به حرف هیچ ممد  نامی هیچ کاری نکنم 🫣🥴 \nدکترا و دارو هم خیلی گرون شده 3 میلیون و 470🥴\nخدا کنه گذرتون نخوره همچین جا های \n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 134,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 157,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 157,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 157,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
