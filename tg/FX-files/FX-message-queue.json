@@ -27057,6 +27057,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4030,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782832515,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPvmpD3YOo93cg1FjwQidJudTuxtHHAALODWsbw80gUvAptgq65OsYAQADAgADcwADPAQ",
+          "file_unique_id": "AQADzg1rG8PNIFJ4",
+          "file_size": 2029,
+          "width": 72,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPvmpD3YOo93cg1FjwQidJudTuxtHHAALODWsbw80gUvAptgq65OsYAQADAgADbQADPAQ",
+          "file_unique_id": "AQADzg1rG8PNIFJy",
+          "file_size": 26715,
+          "width": 256,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPvmpD3YOo93cg1FjwQidJudTuxtHHAALODWsbw80gUvAptgq65OsYAQADAgADeAADPAQ",
+          "file_unique_id": "AQADzg1rG8PNIFJ9",
+          "file_size": 98755,
+          "width": 640,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPvmpD3YOo93cg1FjwQidJudTuxtHHAALODWsbw80gUvAptgq65OsYAQADAgADeQADPAQ",
+          "file_unique_id": "AQADzg1rG8PNIFJ-",
+          "file_size": 170674,
+          "width": 1024,
+          "height": 1280
+        }
+      ],
+      "caption": "🔴 فراخوان شاهزاده رضا پهلوی برای ایرانیان خارج از کشور:\n\n‏از ۴ تا ۹ ژوئیه (١٣ تا ١٨ تیر)، هم‌زمان با برنامه‌های تبلیغاتی و فریبکارانه رژیم برای دفن بقایای جنایاتکار اعظم، علی خامنه‌ای، و در ششمین ماه خیزش ملی شجاعانه ۱۸ و ۱۹ دی، ایرانیان مهین‌پرست و آزادیخواه در قالب هفته جهانی اقدام برای آزادی ایران، به خیابان‌های سراسر جهان می‌آیند، تا واقعیت ایران را به گوش جهانیان برسانند، و هم‌زمان یاد جاویدنامان انقلاب شیروخورشید ایران را در ششمین ماه کشتارشان گرامی بدارند.\nاین کارزار ملی با گردهمایی‌های روز ۴ ژوئیه (۱۳ تیر) در برابر سفارتخانه‌های ایالات متحده در پایتخت‌های جهان آغاز خواهد شد.\nپیام ما به ملت و دولت آمریکا در سالروز استقلال این کشور مشخص است: با تروریست‌ها معامله نکنید! مردم ایران را انتخاب کنید.\n۲۵۰ سال پیش، آمریکا آزادی را برگزید. امروز نیز مردم ایران برای آزادی مبارزه می‌کنند.\nمعامله با رژیم جنایتکار جمهوری اسلامی در تضاد با آرمان‌ها و ارزش‌های ایالات متحده و جهان آزاد است.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 896,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 909,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 935,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 935,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 935,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
