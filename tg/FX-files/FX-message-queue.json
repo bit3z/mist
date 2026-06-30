@@ -28377,6 +28377,72 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4060,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782852436,
+      "video": {
+        "duration": 16,
+        "width": 480,
+        "height": 402,
+        "mime_type": "video/mp4",
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAg_cakQrVBi1F5a73w3rJqQ0SDe-9JcAArwiAALDzSBS8UIbvEem33EBAAdtAAM8BA",
+          "file_unique_id": "AQADvCIAAsPNIFJy",
+          "file_size": 13573,
+          "width": 320,
+          "height": 268
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAg_cakQrVBi1F5a73w3rJqQ0SDe-9JcAArwiAALDzSBS8UIbvEem33EBAAdtAAM8BA",
+          "file_unique_id": "AQADvCIAAsPNIFJy",
+          "file_size": 13573,
+          "width": 320,
+          "height": 268
+        },
+        "file_id": "BAACAgQAAyEFAATqPDJ3AAIP3GpEK1QYtReWu98N6yakNEg3vvSXAAK8IgACw80gUvFCG7xHpt9xPAQ",
+        "file_unique_id": "AgADvCIAAsPNIFI",
+        "file_size": 862892
+      },
+      "caption": "تریلی هانری🤣🤣🤣🤣\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 20,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 33,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 59,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 59,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 59,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
