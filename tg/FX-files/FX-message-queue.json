@@ -27858,7 +27858,7 @@
       }
     },
     {
-      "message_id": 4048,
+      "message_id": 4049,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -27870,41 +27870,36 @@
         "type": "channel"
       },
       "date": 1782847216,
-      "text": "📣اطلاعیه \n\nفروش تلگرام پرمیوم هم برای کاربران اروان پینگ آغاز شد\n\n1 ساله 25 دلار\n6ماه 17 دلار\n3 ماه 13 دلار\n\nجهت سفارش میتونید به ایدی زیر پیام بدین \n\n@NexTiShop\n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "text": "YouTube Premium \n\nIp:🇰🇿\n\nFrom : Astana\nAdvanced : Astana\nYellow color : 010020\nCategory : 47 Saryarka\n\nبین در اولین کامنت\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
       "entities": [
         {
-          "offset": 152,
-          "length": 10,
+          "offset": 0,
+          "length": 15,
+          "type": "bold"
+        },
+        {
+          "offset": 125,
+          "length": 12,
           "type": "mention"
         },
         {
-          "offset": 166,
-          "length": 10,
+          "offset": 138,
+          "length": 9,
           "type": "mention"
         },
         {
-          "offset": 180,
-          "length": 13,
-          "type": "mention"
-        },
-        {
-          "offset": 196,
-          "length": 18,
-          "type": "mention"
-        },
-        {
-          "offset": 227,
+          "offset": 160,
           "length": 8,
           "type": "text_link",
           "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
         },
         {
-          "offset": 227,
+          "offset": 160,
           "length": 8,
           "type": "bold"
         },
         {
-          "offset": 227,
+          "offset": 160,
           "length": 8,
           "type": "underline"
         }
