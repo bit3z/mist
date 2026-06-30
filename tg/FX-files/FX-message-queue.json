@@ -27456,6 +27456,94 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4039,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782843196,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPx2pEBzshMDPQVCzUy-E_qoT_lYHRAAIkEGsbEJchUqY4Z1jdrVkBAQADAgADcwADPAQ",
+          "file_unique_id": "AQADJBBrGxCXIVJ4",
+          "file_size": 2397,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPx2pEBzshMDPQVCzUy-E_qoT_lYHRAAIkEGsbEJchUqY4Z1jdrVkBAQADAgADbQADPAQ",
+          "file_unique_id": "AQADJBBrGxCXIVJy",
+          "file_size": 39929,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPx2pEBzshMDPQVCzUy-E_qoT_lYHRAAIkEGsbEJchUqY4Z1jdrVkBAQADAgADeAADPAQ",
+          "file_unique_id": "AQADJBBrGxCXIVJ9",
+          "file_size": 191882,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPx2pEBzshMDPQVCzUy-E_qoT_lYHRAAIkEGsbEJchUqY4Z1jdrVkBAQADAgADeQADPAQ",
+          "file_unique_id": "AQADJBBrGxCXIVJ-",
+          "file_size": 386711,
+          "width": 1254,
+          "height": 1254
+        }
+      ],
+      "caption": "خب چالش داریم\n\n🎁چالش اکانت فیلترشکن سایبرگوست پرمیوم\n\nCyberGhost VPN Premium Auto (تمدید مجدد)\n\n🥇پرسرعت و لوکیشن زیاد متصل با همه اینترنت ها \n🔥مناسب گیم\n🫟بین اعداد 1تا عدد85فقط یک عدد بذارید رندوم به یک نفر اکانت تقدیم خواهد شد\n\nاسپم و ویرایش ممنوع❌\n\nری اکشن و لایک مرامی❤️\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 13,
+          "type": "bold"
+        },
+        {
+          "offset": 55,
+          "length": 22,
+          "type": "bold"
+        },
+        {
+          "offset": 78,
+          "length": 4,
+          "type": "bold"
+        },
+        {
+          "offset": 279,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 292,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 314,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 314,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 314,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
