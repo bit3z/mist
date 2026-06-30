@@ -26044,6 +26044,46 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4008,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782803047,
+      "document": {
+        "file_name": "MiTiVPN⚡.npvt",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgEAAyEFAATqPDJ3AAIPqGpDamfHIm4CAZSo-BKsbM_X7746AALiBwACogQZRth0j_UsKcdWPAQ",
+        "file_unique_id": "AgAD4gcAAqIEGUY",
+        "file_size": 27308
+      },
+      "caption": "• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
