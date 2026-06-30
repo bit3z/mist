@@ -27130,6 +27130,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4031,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782832575,
+      "text": "شاهزاده در ادامه:\nهم‌میهنان در داخل کشور نیز می‌توانند با حفظ امنیت و پنهان نگه داشتن هویت خود، از طریق ضبط ویدئو بر مزار جاویدنامان، دیوارنویسی و دیگر روش‌های خلاقانه، پیام‌های مشابهی را خطاب به ملت و دولت آمریکا منتشر کنند.\nبرنامه‌های دیگر هفته جهانی اقدام برای آزادی ایران به مرور به اطلاع خواهد رسید.\n@odin_club | @ArvanPingbot\n﻿\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 305,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 318,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 346,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 346,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 346,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
