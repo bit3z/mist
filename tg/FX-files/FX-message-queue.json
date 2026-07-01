@@ -29081,6 +29081,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4074,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782901217,
+      "text": "🔴مهاجرانی، سخنگوی دولت : سه‌شنبه 16 تیر، تهران تعطیل شد.\nواسه اینکه عزادارای تهرانی بتونن سه‌شنبه 16 تیر تو مراسم تشییع جنازه علی خامنه‌ای تو قم شرکت کنن و راحت از شهر خارج بشن، تصمیم گرفتیم اون روز تهران تعطیل بشه.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 217,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 230,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 256,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 256,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 256,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
