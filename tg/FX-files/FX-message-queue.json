@@ -28685,6 +28685,47 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4065,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782878459,
+      "text": "دوستانی نزدن \n۱۵۰هزارتومن \nشده \nوایرگارد رایگان   بزنید عشق کنید\n\n\nhttps://t.me/topchinetbot?start=8376197509\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 67,
+          "length": 42,
+          "type": "url"
+        },
+        {
+          "offset": 122,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 122,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 122,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
