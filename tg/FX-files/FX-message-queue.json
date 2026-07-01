@@ -30160,6 +30160,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4092,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782937236,
+      "text": "فروش سرور مستقیم گیگی 6  هزارتومان \nسرور تانل گیگی 9500 هزار‌تومان \nسرور نامحدود و گیمینگ هم موجوده.\nپریمیوم تلگرام و استارز و انواع اکانت‌های قانونی وی‌پی‌ان، موزیک‌پلیر و گیفت‌کارت پلی‌استیشن و ایکس‌باکس هم موجوده.\nتون هم موجوده.\n\nبرای خرید:\n@e7fnnn\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 244,
+          "length": 7,
+          "type": "mention"
+        },
+        {
+          "offset": 252,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 275,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 275,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 275,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
