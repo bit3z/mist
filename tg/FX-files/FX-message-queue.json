@@ -31782,6 +31782,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4122,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783017698,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQGmpGsOJOPSUfmRCkAAGBJEjcJ3XmRgAC0Q5rG25jOFJl0MCz84N7BAEAAwIAA3MAAzwE",
+          "file_unique_id": "AQAD0Q5rG25jOFJ4",
+          "file_size": 1237,
+          "width": 67,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQGmpGsOJOPSUfmRCkAAGBJEjcJ3XmRgAC0Q5rG25jOFJl0MCz84N7BAEAAwIAA20AAzwE",
+          "file_unique_id": "AQAD0Q5rG25jOFJy",
+          "file_size": 15157,
+          "width": 239,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQGmpGsOJOPSUfmRCkAAGBJEjcJ3XmRgAC0Q5rG25jOFJl0MCz84N7BAEAAwIAA3gAAzwE",
+          "file_unique_id": "AQAD0Q5rG25jOFJ9",
+          "file_size": 66574,
+          "width": 597,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQGmpGsOJOPSUfmRCkAAGBJEjcJ3XmRgAC0Q5rG25jOFJl0MCz84N7BAEAAwIAA3kAAzwE",
+          "file_unique_id": "AQAD0Q5rG25jOFJ-",
+          "file_size": 118125,
+          "width": 956,
+          "height": 1280
+        }
+      ],
+      "caption": "امروز تولد جاویدنام علی رضا قلعه قافی هستش\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 43,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 56,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 82,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 82,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 82,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
