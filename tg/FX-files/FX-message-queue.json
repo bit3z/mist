@@ -31682,6 +31682,65 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4120,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783017158,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQGGpGrsalKP3usEq0AAEpgcwWRMiR9wACzw5rG25jOFJkCFCqfA7WwgEAAwIAA3MAAzwE",
+          "file_unique_id": "AQADzw5rG25jOFJ4",
+          "file_size": 1817,
+          "width": 76,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQGGpGrsalKP3usEq0AAEpgcwWRMiR9wACzw5rG25jOFJkCFCqfA7WwgEAAwIAA20AAzwE",
+          "file_unique_id": "AQADzw5rG25jOFJy",
+          "file_size": 14086,
+          "width": 231,
+          "height": 273
+        }
+      ],
+      "caption": "جاوید نام امیرمحمد کاظمی\n\nبه‌دلیل گوش‌دادن به موسیقی با صدای بلند در روزهای ماه محرم،\n۶ تیر ۱۴۰۵ در شهرستان نگار استان کرمان هدف گلوله قرار گرفت و جان باخت.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 157,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 170,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 196,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 196,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 196,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
