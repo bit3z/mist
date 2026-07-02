@@ -31226,6 +31226,152 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4113,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783005218,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQEWpGgCLZmsNFjwuLhMMT_fMRiWWpAAJ0D2sbWi0wUqsQQfQ4h7k_AQADAgADcwADPAQ",
+          "file_unique_id": "AQADdA9rG1otMFJ4",
+          "file_size": 1503,
+          "width": 62,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQEWpGgCLZmsNFjwuLhMMT_fMRiWWpAAJ0D2sbWi0wUqsQQfQ4h7k_AQADAgADbQADPAQ",
+          "file_unique_id": "AQADdA9rG1otMFJy",
+          "file_size": 17630,
+          "width": 219,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQEWpGgCLZmsNFjwuLhMMT_fMRiWWpAAJ0D2sbWi0wUqsQQfQ4h7k_AQADAgADeAADPAQ",
+          "file_unique_id": "AQADdA9rG1otMFJ9",
+          "file_size": 62479,
+          "width": 548,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQEWpGgCLZmsNFjwuLhMMT_fMRiWWpAAJ0D2sbWi0wUqsQQfQ4h7k_AQADAgADeQADPAQ",
+          "file_unique_id": "AQADdA9rG1otMFJ-",
+          "file_size": 83079,
+          "width": 688,
+          "height": 1004
+        }
+      ],
+      "caption": "Eva VPN\n\n⏳Exp:2026/07/09\n〰〰〰〰〰〰〰〰〰〰〰〰〰〰\n✉️Email: nenok52991@asitrai.com\n✉️Email: voxere4907@asitrai.com\n✉️Email: hecic10386@doefy.com\n\n\n🔑Password: @Error404Bin\n〰〰〰〰〰〰〰〰〰〰〰〰〰\n⏰ظرفیت اکانت محدود میباشد\n\n📌با فیلتر کمکی خوب لاگین کنید تا سروراش بالا بیاد\n〰〰〰〰〰〰〰〰〰〰〰〰〰\n\nGooglePlay   App Store\n\nWindows\nری اکشن و شات یادتون نره 🧡\n\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 10,
+          "length": 3,
+          "type": "bold"
+        },
+        {
+          "offset": 42,
+          "length": 5,
+          "type": "bold"
+        },
+        {
+          "offset": 49,
+          "length": 22,
+          "type": "email"
+        },
+        {
+          "offset": 74,
+          "length": 5,
+          "type": "bold"
+        },
+        {
+          "offset": 81,
+          "length": 22,
+          "type": "email"
+        },
+        {
+          "offset": 106,
+          "length": 5,
+          "type": "bold"
+        },
+        {
+          "offset": 113,
+          "length": 20,
+          "type": "email"
+        },
+        {
+          "offset": 138,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 148,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 268,
+          "length": 10,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=meiler.eva.vpn"
+        },
+        {
+          "offset": 281,
+          "length": 9,
+          "type": "text_link",
+          "url": "https://apps.apple.com/ru/app/eva-vpn/id6478528934"
+        },
+        {
+          "offset": 292,
+          "length": 7,
+          "type": "text_link",
+          "url": "https://evavpn.com/download"
+        },
+        {
+          "offset": 299,
+          "length": 29,
+          "type": "bold"
+        },
+        {
+          "offset": 330,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 343,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 365,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 365,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 365,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
