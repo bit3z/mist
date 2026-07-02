@@ -31044,6 +31044,79 @@
         "file_unique_id": "AgADZBoAAqkYKFE",
         "file_size": 258377
       }
+    },
+    {
+      "message_id": 4110,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782998378,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQDmpGZWoIguwirQ5UIsk7JAyCYXkaAAJBDmsbE-o4UhY8-g4907AEAQADAgADcwADPAQ",
+          "file_unique_id": "AQADQQ5rGxPqOFJ4",
+          "file_size": 1256,
+          "width": 53,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQDmpGZWoIguwirQ5UIsk7JAyCYXkaAAJBDmsbE-o4UhY8-g4907AEAQADAgADbQADPAQ",
+          "file_unique_id": "AQADQQ5rGxPqOFJy",
+          "file_size": 24847,
+          "width": 188,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQDmpGZWoIguwirQ5UIsk7JAyCYXkaAAJBDmsbE-o4UhY8-g4907AEAQADAgADeAADPAQ",
+          "file_unique_id": "AQADQQ5rGxPqOFJ9",
+          "file_size": 92595,
+          "width": 471,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQDmpGZWoIguwirQ5UIsk7JAyCYXkaAAJBDmsbE-o4UhY8-g4907AEAQADAgADeQADPAQ",
+          "file_unique_id": "AQADQQ5rGxPqOFJ-",
+          "file_size": 115111,
+          "width": 754,
+          "height": 1280
+        }
+      ],
+      "caption": "اینترنت 85 میلیون آدم رو 3 ماه قطع کردین\n85 میلیون ادم بدون ارتباط گذاشتین این همه شغل و کسب کار رو خراب کردین الان نوبت خودتتون رسید دارید واق واق میکنید شما ها که دارین که حقوق تون رو میگیرید اون که تو قطعی نت کسب و کار داشت ورشکست شد چی خونه های که تو جنگ تخریب شد چی خسارت دادین درست کردین نه فقط حرف الکی\n\nقالیبافم کار درست رو میکنه دمش گرم خوشم اومد بنظرم رسایی بزودی سکته قلبی رو میزنه از من گفتن\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 311,
+          "length": 92,
+          "type": "bold"
+        },
+        {
+          "offset": 404,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 427,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 427,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 427,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
