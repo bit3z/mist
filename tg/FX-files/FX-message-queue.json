@@ -30963,6 +30963,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4108,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782997898,
+      "text": "کسی میدونه عرفان شيشه کشیده بنگ زده اصلا این چهار پست اخرش چیه به چیه اول میگه 200 میفروشم بعد همون رو از کاربرا میخواهد\nگور بابای اپل موزیک اهنگ فقط اهنگ های کلاسیک دهه 40 50 فارسی 🥴 این جدیدا هم چند تاشون واقعا خواننده های خوبین\n\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 233,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 256,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 256,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 256,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
