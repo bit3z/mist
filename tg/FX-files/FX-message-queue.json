@@ -31619,6 +31619,69 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4119,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783013198,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQF2pGn06JPSD4kKRoGrSb1rM7DXGwAAJFD2sbxtAxUh4lwM5ywpJtAQADAgADcwADPAQ",
+          "file_unique_id": "AQADRQ9rG8bQMVJ4",
+          "file_size": 1304,
+          "width": 59,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQF2pGn06JPSD4kKRoGrSb1rM7DXGwAAJFD2sbxtAxUh4lwM5ywpJtAQADAgADbQADPAQ",
+          "file_unique_id": "AQADRQ9rG8bQMVJy",
+          "file_size": 17400,
+          "width": 209,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQF2pGn06JPSD4kKRoGrSb1rM7DXGwAAJFD2sbxtAxUh4lwM5ywpJtAQADAgADeAADPAQ",
+          "file_unique_id": "AQADRQ9rG8bQMVJ9",
+          "file_size": 82989,
+          "width": 523,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQF2pGn06JPSD4kKRoGrSb1rM7DXGwAAJFD2sbxtAxUh4lwM5ywpJtAQADAgADeQADPAQ",
+          "file_unique_id": "AQADRQ9rG8bQMVJ-",
+          "file_size": 162226,
+          "width": 832,
+          "height": 1272
+        }
+      ],
+      "caption": "📌 حمید رسایی : \n\nطرحی جدید و فوری برای قطع اینترنت بین المللی بدلیل حفظ جان رهبر و فرماندهان در جز اولین اولویت های مجلس قرار خواهد گرفت\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 150,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 150,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 150,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
