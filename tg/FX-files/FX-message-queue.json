@@ -31855,6 +31855,147 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4123,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783018835,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQG2pGtVNUtE9vwn7ubuXhbqVNhrcBAALED2sbWi0wUvQe2XSUAiRYAQADAgADcwADPAQ",
+          "file_unique_id": "AQADxA9rG1otMFJ4",
+          "file_size": 1588,
+          "width": 66,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQG2pGtVNUtE9vwn7ubuXhbqVNhrcBAALED2sbWi0wUvQe2XSUAiRYAQADAgADbQADPAQ",
+          "file_unique_id": "AQADxA9rG1otMFJy",
+          "file_size": 19931,
+          "width": 234,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQG2pGtVNUtE9vwn7ubuXhbqVNhrcBAALED2sbWi0wUvQe2XSUAiRYAQADAgADeAADPAQ",
+          "file_unique_id": "AQADxA9rG1otMFJ9",
+          "file_size": 72435,
+          "width": 584,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQG2pGtVNUtE9vwn7ubuXhbqVNhrcBAALED2sbWi0wUvQe2XSUAiRYAQADAgADeQADPAQ",
+          "file_unique_id": "AQADxA9rG1otMFJ-",
+          "file_size": 89629,
+          "width": 688,
+          "height": 943
+        }
+      ],
+      "caption": "Seed 4 me VPN\n\n⏳Exp:2026/07/09\n〰〰〰〰〰〰〰〰〰〰〰〰〰〰\n✉️Email: kirkgutierre.z2.03.6@gmail.com\n\n✉️Email: lucyfowl.e.r8.9307@gmail.com\n\n\n🔑Password: @Error404Bin\n〰〰〰〰〰〰〰〰〰〰〰〰〰\n⏰ظرفیت اکانت محدود میباشد\n\n📌با فیلتر کمکی خوب لاگین کنید تا سروراش بالا بیاد\n〰〰〰〰〰〰〰〰〰〰〰〰〰\n\nGooglePlay   App Store\n\nWindows\nری اکشن و شات یادتون نره 🧡\n\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 9,
+          "type": "bold"
+        },
+        {
+          "offset": 10,
+          "length": 3,
+          "type": "bold"
+        },
+        {
+          "offset": 16,
+          "length": 3,
+          "type": "bold"
+        },
+        {
+          "offset": 48,
+          "length": 5,
+          "type": "bold"
+        },
+        {
+          "offset": 55,
+          "length": 30,
+          "type": "email"
+        },
+        {
+          "offset": 89,
+          "length": 5,
+          "type": "bold"
+        },
+        {
+          "offset": 96,
+          "length": 28,
+          "type": "email"
+        },
+        {
+          "offset": 129,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 139,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 259,
+          "length": 10,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=me.seed4.app.android"
+        },
+        {
+          "offset": 272,
+          "length": 9,
+          "type": "text_link",
+          "url": "https://apps.apple.com/app/vpn-proxy-by-seed4-me-vpn/id860180339"
+        },
+        {
+          "offset": 283,
+          "length": 7,
+          "type": "text_link",
+          "url": "https://seed4.me/app/getLatest/windows"
+        },
+        {
+          "offset": 290,
+          "length": 29,
+          "type": "bold"
+        },
+        {
+          "offset": 321,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 334,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 356,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 356,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 356,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
