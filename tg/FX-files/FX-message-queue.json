@@ -31996,6 +31996,84 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4124,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783019618,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQHGpGuGIKZtL4Rr4fEScVBXfiuEwlAALJD2sbWi0wUmQc3xdWNAZnAQADAgADcwADPAQ",
+          "file_unique_id": "AQADyQ9rG1otMFJ4",
+          "file_size": 1881,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQHGpGuGIKZtL4Rr4fEScVBXfiuEwlAALJD2sbWi0wUmQc3xdWNAZnAQADAgADbQADPAQ",
+          "file_unique_id": "AQADyQ9rG1otMFJy",
+          "file_size": 22949,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQHGpGuGIKZtL4Rr4fEScVBXfiuEwlAALJD2sbWi0wUmQc3xdWNAZnAQADAgADeAADPAQ",
+          "file_unique_id": "AQADyQ9rG1otMFJ9",
+          "file_size": 84968,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQHGpGuGIKZtL4Rr4fEScVBXfiuEwlAALJD2sbWi0wUmQc3xdWNAZnAQADAgADeQADPAQ",
+          "file_unique_id": "AQADyQ9rG1otMFJ-",
+          "file_size": 120282,
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "caption": "خب چالش داریم\n\n🎁چالش وایرگارد پرسرعت و با کیفیت متصل با همه اینترنت ها بجز همراه اول\n\nقابل استفاده در WG Tunnel, Amnezia و Amnezia Tunnel\n \nآیپی ثابت و تمیز مناسب برای استفاده روزمره\n\n🫟بین اعداد 1تا عدد85فقط یک عدد بذارید رندوم به یک نفر تقدیم خواهد شد\n\nاسپم و ویرایش ممنوع❌\n\nری اکشن و لایک مرامی❤️\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 13,
+          "type": "bold"
+        },
+        {
+          "offset": 302,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 315,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 337,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 337,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 337,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
