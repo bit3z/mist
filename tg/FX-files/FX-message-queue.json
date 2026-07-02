@@ -30769,6 +30769,47 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4103,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782987878,
+      "text": "🚀 AsaliShop | سرویس‌های پرسرعت VPN\n\nدنبال یه VPN پرسرعت، پایدار و بدون دردسر هستی؟ 👇\n\n💎 مولتی لوکیشن VIP\n💰 هر گیگ: ۵,۰۰۰ تومان\n\n🌍 لوکیشن‌های فعال VIP:\n🇩🇪 🇹🇷 🇺🇸 🇦🇪 🇫🇮 🇳🇱 🇫🇷 🇦🇱 🇮🇹 🇵🇱 🇸🇪 🇬🇧 🇨🇭 🇦🇲 🇧🇦 🇷🇸 🇲🇹 🇪🇪 🇧🇪 🇧🇭\n\n💠 مولتی لوکیشن اقتصادی\n💰 هر گیگ: ۳,۵۰۰ تومان\n\n🌍 لوکیشن‌های فعال اقتصادی:\n🇦🇪 🇩🇪 🇹🇷 🇫🇮 🇫🇷 🇺🇸\n\n✅ سرعت بالا و اتصال پایدار\n✅ مناسب برای گیم، وب‌گردی، استریم و هوش مصنوعی\n✅ پشتیبانی سریع\n\n🤖 ربات خرید:\n\n@asalishop_bot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 470,
+          "length": 14,
+          "type": "mention"
+        },
+        {
+          "offset": 497,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 497,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 497,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }
