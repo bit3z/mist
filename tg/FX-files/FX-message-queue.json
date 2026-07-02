@@ -32166,6 +32166,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4127,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783020758,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQH2pGvNZctSFTir63_EpmrhENWZ4IAALqDmsbbmM4Uv4lOcBrYelZAQADAgADcwADPAQ",
+          "file_unique_id": "AQAD6g5rG25jOFJ4",
+          "file_size": 1492,
+          "width": 54,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQH2pGvNZctSFTir63_EpmrhENWZ4IAALqDmsbbmM4Uv4lOcBrYelZAQADAgADbQADPAQ",
+          "file_unique_id": "AQAD6g5rG25jOFJy",
+          "file_size": 19923,
+          "width": 192,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQH2pGvNZctSFTir63_EpmrhENWZ4IAALqDmsbbmM4Uv4lOcBrYelZAQADAgADeAADPAQ",
+          "file_unique_id": "AQAD6g5rG25jOFJ9",
+          "file_size": 71088,
+          "width": 480,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQH2pGvNZctSFTir63_EpmrhENWZ4IAALqDmsbbmM4Uv4lOcBrYelZAQADAgADeQADPAQ",
+          "file_unique_id": "AQAD6g5rG25jOFJ-",
+          "file_size": 126091,
+          "width": 768,
+          "height": 1280
+        }
+      ],
+      "caption": "گوشی علی نعمیتو زدن دیروز تو فرودگاه🤣🤣🤣🤣\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 45,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 58,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 84,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 84,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 84,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
