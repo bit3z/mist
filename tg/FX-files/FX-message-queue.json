@@ -30696,6 +30696,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4102,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782983197,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQBmpGKh2lWIqUr9bWUi7Z_aEH5I0KAAKtD2sbbmMwUvU7ttOvE6Q2AQADAgADcwADPAQ",
+          "file_unique_id": "AQADrQ9rG25jMFJ4",
+          "file_size": 1255,
+          "width": 53,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQBmpGKh2lWIqUr9bWUi7Z_aEH5I0KAAKtD2sbbmMwUvU7ttOvE6Q2AQADAgADbQADPAQ",
+          "file_unique_id": "AQADrQ9rG25jMFJy",
+          "file_size": 25324,
+          "width": 188,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQBmpGKh2lWIqUr9bWUi7Z_aEH5I0KAAKtD2sbbmMwUvU7ttOvE6Q2AQADAgADeAADPAQ",
+          "file_unique_id": "AQADrQ9rG25jMFJ9",
+          "file_size": 92531,
+          "width": 471,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQBmpGKh2lWIqUr9bWUi7Z_aEH5I0KAAKtD2sbbmMwUvU7ttOvE6Q2AQADAgADeQADPAQ",
+          "file_unique_id": "AQADrQ9rG25jMFJ-",
+          "file_size": 115534,
+          "width": 754,
+          "height": 1280
+        }
+      ],
+      "caption": "حمله رسایی به قالیباف\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 23,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 36,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 62,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 62,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 62,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
