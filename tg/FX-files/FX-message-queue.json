@@ -31153,6 +31153,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4112,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783000898,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQEGpGb0JRAs-R2NOkQd0Kptlrl9rcAALcDmsbWi0wUtmfJhXsXmJHAQADAgADcwADPAQ",
+          "file_unique_id": "AQAD3A5rG1otMFJ4",
+          "file_size": 970,
+          "width": 90,
+          "height": 47
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQEGpGb0JRAs-R2NOkQd0Kptlrl9rcAALcDmsbWi0wUtmfJhXsXmJHAQADAgADbQADPAQ",
+          "file_unique_id": "AQAD3A5rG1otMFJy",
+          "file_size": 10560,
+          "width": 320,
+          "height": 168
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQEGpGb0JRAs-R2NOkQd0Kptlrl9rcAALcDmsbWi0wUtmfJhXsXmJHAQADAgADeAADPAQ",
+          "file_unique_id": "AQAD3A5rG1otMFJ9",
+          "file_size": 57312,
+          "width": 800,
+          "height": 419
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQEGpGb0JRAs-R2NOkQd0Kptlrl9rcAALcDmsbWi0wUtmfJhXsXmJHAQADAgADeQADPAQ",
+          "file_unique_id": "AQAD3A5rG1otMFJ-",
+          "file_size": 110109,
+          "width": 1200,
+          "height": 629
+        }
+      ],
+      "caption": "🔰 LOVABLE AI — 1 MONTHS PRO \n\n| اشتراک یکماهه هوش مصنوعی Lovable |\n\n⭐️ ویژگی‌ها:  \n• ساخت وب‌سایت و اپلیکیشن\n• قالب‌های آماده برای پروژه‌های مختلف\n• پشتیبانی از ویرایش بصری و...\n\n● ابتدا وارد این لینک شوید و داخل سایت ثبت نام کنید. وارد بخش پلن ها شوید و پلن Pro یکماهه رو انتخاب کنید. توی صفحه درگاه در بخش Add promotion code کد تخفیف و اطلاعات کارت رو وارد کنید.\n\n💥 کد تخفیف: SIMON\n\nبین در بخش کامنت\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 405,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 418,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 440,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 440,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 440,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }
